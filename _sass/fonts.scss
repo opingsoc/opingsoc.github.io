@@ -1,0 +1,154 @@
+@font-face {
+  font-family: 'Noto Sans';
+  font-weight: 400;
+  font-style: normal;
+  src: url('../fonts/Noto-Sans-regular/Noto-Sans-regular.woff2') format('woff2');
+  src: url('../fonts/Noto-Sans-regular/Noto-Sans-regular.woff') format('woff'),
+       local('Noto Sans'),
+       local('Noto-Sans-regular'),
+}
+
+@font-face {
+  font-family: 'Noto Sans';
+  font-weight: 700;
+  font-style: normal;
+  src: url('../fonts/Noto-Sans-700/Noto-Sans-700.woff2') format('woff2');
+  src: url('../fonts/Noto-Sans-700/Noto-Sans-700.woff') format('woff'),
+       local('Noto Sans Bold'),
+       local('Noto-Sans-700'),
+}
+
+@font-face {
+  font-family: 'Noto Sans';
+  font-weight: 400;
+  font-style: italic;
+  src: url('../fonts/Noto-Sans-italic/Noto-Sans-italic.woff2') format('woff2');
+  src: url('../fonts/Noto-Sans-italic/Noto-Sans-italic.woff') format('woff'),
+       local('Noto Sans Italic'),
+       local('Noto-Sans-italic'),
+}
+
+@font-face {
+  font-family: 'Noto Sans';
+  font-weight: 700;
+  font-style: italic;
+  src: url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff2') format('woff2');
+  src: url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff') format('woff'),
+       local('Noto Sans Bold Italic'),
+       local('Noto-Sans-700italic'),
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../fonts/opensans_regular/OpenSans-Regular-webfont.woff') format('woff'),
+         local('OpenSans Regular'),
+         local('OpenSans-Regular'),
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    font-weight: bold;
+    font-style: normal;
+    src: url('../fonts/opensans_bold/OpenSans-Bold-webfont.woff') format('woff'),
+         local('OpenSans Bold'),
+         local('OpenSans-Bold'),
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    font-weight: bold;
+    font-style: italic;
+    src: url('../fonts/opensans_bolditalic/OpenSans-BoldItalic-webfont.woff') format('woff'),
+         local('OpenSans Bold Italic'),
+         local('OpenSans-BoldItalic'),
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    font-weight: 800;
+    font-style: normal;
+    src: url('../fonts/opensans_extrabold/OpenSans-ExtraBold-webfont.woff') format('woff'),
+         local('OpenSans Extra Bold'),
+         local('OpenSans-ExtraBold'),
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    font-weight: normal;
+    font-style: italic;
+    src: url('../fonts/opensans_italic/OpenSans-Italic-webfont.woff') format('woff'),
+         local('OpenSans Italic'),
+         local('OpenSans-Italic'),
+}
+
+@font-face {
+    font-family: 'Verdana';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../fonts/Verdana/Verdana.woff2') format('woff2');
+    src: url('../fonts/Verdana/Verdana.woff') format('woff'),
+         local('Verdana'),
+         local('Verdana'),
+}
+
+@font-face {
+    font-family: 'Verdana';
+    font-weight: bold;
+    font-style: normal;
+    src: url('../fonts/Verdana-Bold/Verdana-Bold.woff2') format('woff2');
+    src: url('../fonts/Verdana-Bold/Verdana-Bold.woff') format('woff'),
+         local('Verdana Bold'),
+         local('Verdana-Bold'),
+}
+
+@font-face {
+    font-family: 'Verdana';
+    font-weight: normal;
+    font-style: italic;
+    src: url('../fonts/Verdana-Italic/Verdana-Italic.woff2') format('woff2');
+    src: url('../fonts/Verdana-Italic/Verdana-Italic.woff') format('woff'),
+         local('Verdana Italic'),
+         local('Verdana-Italic'),
+}
+
+@font-face {
+  font-family: 'LiberationMono';
+  font-weight: normal;
+  font-style: normal;
+  src: url('LiberationMono-Regular.woff2') format('woff2');
+  src: url('LiberationMono-Regular.woff') format('woff'),
+       local('LiberationMono Regular'),
+       local('LiberationMono-Regular'),
+}
+
+@font-face {
+  font-family: 'LiberationMono';
+  font-weight: bold;
+  font-style: normal;
+  src: url('LiberationMono-Bold.woff2') format('woff2');
+  src: url('LiberationMono-Bold.woff') format('woff'),
+       local('LiberationMono Bold'),
+       local('LiberationMono-Bold'),
+}
+
+@font-face {
+  font-family: 'LiberationMono';
+  font-weight: normal;
+  font-style: italic;
+  src: url('LiberationMono-Italic.woff2') format('woff2');
+  src: url('LiberationMono-Italic.woff') format('woff'),
+       local('LiberationMono Italic'),
+       local('LiberationMono-Italic'),
+}
+
+@font-face {
+  font-family: 'LiberationMono';
+  font-weight: bold;
+  font-style: italic;
+  src: url('LiberationMono-BoldItalic.woff2') format('woff2');
+  src: url('LiberationMono-BoldItalic.woff') format('woff'),
+       local('LiberationMono BoldItalic'),
+       local('LiberationMono-BoldItalic'),
+}

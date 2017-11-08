@@ -1,0 +1,6 @@
+[submodule "opingsoc.github.io.wiki"]
+	path = opingsoc.github.io.wiki
+	url = https://github.com/opingsoc/opingsoc.github.io.wiki.git
+[submodule "_wiki"]
+	path = _wiki
+	url = https://github.com/opingsoc/opingsoc.github.io.wiki.git

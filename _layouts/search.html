@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+                <html><html lang="en">
+                  <head>
+     <script type="text/javascript">
+    var host = "opingsoc.com";
+    if ((host == window.location.host) && (window.location.protocol != "https:"))
+        window.location.protocol = "https";
+    </script>
+  		  {% capture lchar %}{{page.url | slice: -1, 1}}{% endcapture %}
+  		  {% capture url %}{% if lchar == "/" %}{{page.url}}index.html{% else %}{{ page.url | default: 'index.html' }}{% endif %}{% endcapture %}
+                    <meta content="text/html; charset=utf-8" http-equiv="content-type">
+                    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+                    <title>Search Results</title>
+                    <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+			  crossorigin="anonymous"></script>
+                    <link rel="stylesheet" 
+                          href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" 
+                          title="default">
+                     <script src="{{ '/assets/js/wiki-features.js' | relative_url }}"></script>
+                    
+                    <link rel="stylesheet" href="assets/tipuesearch/css/normalize.css">
+                    <link rel="stylesheet" href="assets/tipuesearch/css/tipuesearch.css">
+                    <script type="text/javascript" src="assets/tipuesearch/tipuesearch_set.js"></script>
+                    <script type="text/javascript" src="assets/tipuesearch/tipuesearch_content.js"></script>
+                    <script type="text/javascript" src="assets/tipuesearch/tipuesearch.min.js"></script>
+
+                    <meta name="viewport" content="width=device-width">
+                    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>    <![endif]-->
+                  </head>
+
+                  <body>
+		    <div class="preload">
+                   <img src="/assets/images/button-normal.png" alt="search button">
+		           <img src="/assets/images/button-normal-720-480.png" alt="search button">
+			       <img src="/assets/images/button-hover.png" alt="search button">
+					<img src="/assets/images/button-hover-720-480.png" alt="search button">
+					<img src="/assets/images/button-disabled.png" alt="search button">
+					<img src="/assets/images/button-disabled-720-480.png" alt="search button">
+                </div>
+                    <div class="wrapper">
+                      <header>
+         <div class="logo-center"><a href="{{ '/' | relative_url }}"><img src="{{ site.logo_url }}">
+         </a></div>
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+<div class="dropdown">
+<button class="dropbtn">Menu</button>
+  <div class="dropdown-content">
+  {% for p in site.pages %}
+    {% if p.menu == "wiki" %}
+    <a href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</div>
+</div>
+
+
+<div class="open-menu">
+        {% if site.custom_sidebar %}
+          {% include sidebar.html %}
+        {% endif %}
+</div>
+
+        {% if site.github.is_user_page %}
+          <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+        {% endif %}
+
+        {% if site.show_downloads %}
+        {% endif %}
+        
+    
+                      </header>
+
+                      <section>
+                        <div class="search-div">
+			{{page.relative_path}}
+                          <span class="tools-element1"><a href="/wiki/Home.html">Home</a></span>
+          		  <span class="tools-element2"><a href="">Research</a></span>
+         		  <span class="tools-element3"><a href="">Wiki</a></span>
+        		  <span class="tools-element4"><a href="">News</a></span>
+                        </div>
+                        <div id="toc"></div>
+
+                      <div class="tools-header">
+                          <h2>Search Results</h2>
+                        </div>
+
+                        <div class="block" style="padding-top: 31px">
+                          <div id="tools-buttons" style="width: 100%; text-align: left">
+                            <form action="search.html">
+
+							<input type="text" class="search-box" id="tipue_search_input" name="q" placeholder="Search" autocomplete="off" pattern=".{3,}" title="At least 3 characters"
+                                  required="">
+ 	<input type="submit" class="search-button" value="Search" />
+
+                              
+				<div style="clear: both;"></div>
+				</form>
+				</div>
+				</div>
+                      
+                           <div id="tipue_search_content" style="padding-top: 15px"></div>  
+ 
+                       
+
+                    <!-- body -->
+                 
+</section>
+
+
+<footer>
+</footer> 
+</div> 
+
+<script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>   
+    
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('#toc').toc({ title: '<i>Contents</i>'});
+        });
+    </script>
+  
+
+<script>
+$(document).ready(function() {
+     $('#tipue_search_input').tipuesearch();
+});
+</script>
+
+</body>
+</html>
