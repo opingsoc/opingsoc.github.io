@@ -1,0 +1,157 @@
+<!doctype html>
+  <html lang="en">
+  <head>
+<title>{{ page.title }}</title>
+
+    <meta charset="utf-8">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self' 'unsafe-inline' 'unsafe-eval' opingsoc.com; script-src 'self' 'unsafe-inline' code.jquery.com github.com/opingsoc opingsoc.com; img-src 'self' opingsoc.weebly.com opingsoc.com;">
+ <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+   <meta name="format-detection" content="telephone=no">
+  <meta name="msapplication-tap-highlight" content="no">
+    <script type="text/javascript">
+        var host = "opingsoc.com";
+    
+    if ((host == window.location.host) && (window.location.protocol != "https:"))
+        window.location.protocol = "https";
+    </script>
+
+    {% capture lchar %}{{page.url | slice: -1, 1}}{% endcapture %}
+    {% capture url %}{% if lchar == "/" %}{{page.url}}index.html{% else %}{{ page.url | default: 'index.html' }}{% endif %}{% endcapture %}
+    
+<!-- load jQuery 3.2.1 -->
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"
+			  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+			  crossorigin="anonymous"></script>
+
+<!-- load jQuery 1.6.2 -->
+<script
+			  src="https://code.jquery.com/jquery-1.6.2.min.js"
+			  integrity="sha256-0W0HoDU0BfzslffvxQomIbx0Jfml6IlQeDlvsNxGDE8="
+			  crossorigin="anonymous"></script>
+<script type="text/javascript">
+var jQuery_1_6_2 = $.noConflict(true);
+</script>
+
+          <link rel="stylesheet" href="{{ '/assets/css/style-light.css?v=' | append: site.github.build_revision | relative_url }}" title="style-light">
+
+ <script src="https://opingsoc.com/assets/js/lightbox.js" integrity="sha384-YyABfDLy17bJneFJ6kDoPBXGWX+QNuOBSgzyVt/z2eyNjZtYmpU0jpa/Yi/Ky53p" crossorigin="anonymous"></script>
+
+    <script src="https://opingsoc.com/assets/js/wiki-features.js" integrity="sha384-gi7qIfOLHD/iBnFlW0lQt3S2qLORrAz/Ov0gk7yZYuXojyH+ggWPec28kdmkmJpa" crossorigin="anonymous"></script>
+
+    {% if site.custom_head %}
+        {% include head.html %}
+    {% endif %}
+  </head>
+
+  <body ondragstart="return false;" ondrop="return false;">
+
+  
+  <link rel="preload" href="/assets/images/button-normal.png" as="image">
+  <link rel="preload" href="/assets/images/button-hover.png" as="image">
+<link rel="preload" href="/assets/images/button-hover-red.png" as="image">
+<link rel="preload" href="/assets/images/button-menu-long-white.png" as="image">
+<link rel="preload" href="/assets/images/button-white-normal.png" as="image">
+<link rel="preload" href="/assets/images/overlay.png" as="image">
+
+ 
+<div id="nav">
+<ul> 
+<li><a href="#">Home</a>
+  <ul> 
+  <li><a href="/index.html">Home Page</a></li> 
+  </ul>
+  </li>
+<li><a href="#">Research</a> 
+	<ul> 
+	<li>{% for p in site.pages %}
+    {% if p.menu == "research" %}
+    <a href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a></li>
+    {% endif %}
+  {% endfor %}</li> 
+	</ul> 
+</li> 
+<li><a href="#">Wiki</a> 
+	<ul> 
+	<li>{% for p in site.pages %}
+    {% if p.menu == "wiki" %}
+    <a href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a></li>
+    {% endif %}
+  {% endfor %}</li> 
+</ul> 
+</li>
+     <li><a href="#">News</a> 
+     </li> 
+</ul> 
+</div>
+</div>
+<br>
+
+<div class="search-div">
+  <form action="https://opingsoc.github.io/search.html">
+  <input type="text" class="search-box" id="search-query" name="q" placeholder="Search" autocomplete="off">
+  <input type="submit" class="search-button" value="Search" />
+</form>
+</div>
+
+
+    <div class="wrapper">
+
+      <header>
+
+
+        <div class="logo-center" style="text-align:center;"><img src="/assets/images/sidebar-logo-black1.png"></div>
+
+
+  {% if site.custom_sidebar %}
+    {% include sidebar.html %}
+  {% endif %}    
+  
+
+      </header>
+<div class="scroll-top-wrapper ">Top
+  <span class="scroll-top-inner">
+    <i class="fa fa-2x fa-arrow-circle-up"></i>
+  </span>
+</div>
+          <section>
+
+<div class="search-div-2" ontouchstart="">
+  <form action="https://opingsoc.github.io/search.html">
+  <input type="text" class="search-box" id="search-query" name="q" placeholder="Search" autocomplete="off">
+  <input type="submit" class="search-button" value="Search" ontouchstart="" />
+</form>
+</div>
+  
+      <div class="toc-menu">    
+      <div id="toc"></div>
+      </div>
+
+
+      {{ content }}
+
+<div class="footer">
+            {% if site.custom_footer %}
+            {% include footer.html %}
+        {% endif %}
+<div class="footer-text">
+<a href="#top">Back to Top</a>
+
+</div>
+</div>
+
+      </section>
+
+  <script src="https://opingsoc.com/assets/js/scale.fix.js" integrity="sha384-1kXXzJdU0RhTpy4AR2pS7GDjVe5snWlRMZFB4ZHuQYTmIcj54r2v91UA5OemXJFp" crossorigin="anonymous"></script>
+
+ <script src="https://opingsoc.com/assets/js/scroll.js" integrity="sha384-THLkb2fXnEPV9urqPgldg7NME3AoAjcLeSTlLpdVLXSsoRC6iQFC1YyRDqC2E4Vl" crossorigin="anonymous"></script>
+
+<script type="text/javascript">
+        $(document).ready(function() {
+            $('#toc').toc({ title: '<i>Contents</i>' });
+        });
+</script> 
+    
+  </body>
+</html>

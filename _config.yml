@@ -2,8 +2,8 @@ title: operation ingsoc
 description:
 show_downloads: false
 comments: false
-logo_url: https://github.com/opingsoc/opingsoc.github.io/blob/master/assets/images/sidebar-logo-black1.png?raw=true
-logo_url_dark: https://github.com/opingsoc/opingsoc.github.io/blob/master/assets/images/sidebar-logo-white1-dim.png?raw=true
+logo_url: /assets/images/sidebar-logo-black1.png
+logo_url_dark: /assets/images/sidebar-logo-white1-dim.png
 git_branch: master
 theme: 
 use_github_wiki: true
@@ -47,7 +47,7 @@ wikiToJekyll:
   #
   # Example : https://github.com/userName/repositoryName.wiki.git
 
-  wiki_repository_url: # https://github.com/userName/repositoryName.wiki.git
+  wiki_repository_url: https://github.com/opingsoc/opingsoc.github.io.git
 
   # wiki submodule folder
   # the underscore makes sure that this folder is ignored by Jekyll

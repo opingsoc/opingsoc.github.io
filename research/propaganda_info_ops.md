@@ -1,34 +1,35 @@
 ---
-layout: dark
+layout: light
 title: Propaganda & Information Ops
-menu: wiki
+menu: research
 permalink: research/propaganda_info_ops.html
 ---
 
-<div class="center">
-<div class="largeOutline">Propaganda & Information Operations</div>  
-<div class="sub-head">[by OpINGSOC, Feb.03.2017]</div>  
-</div>
-![bezos and cia](https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/wapo-ciaborder-3-orig_orig.png) 
+<div class="preheader">Propaganda & Information Operations</div>  
+<div class="subheader">[by OpINGSOC, Feb.03.2017]</div>  
 &nbsp;
-&nbsp;
+
+<div class="centerimg">
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/wapo-ciaborder-3-orig_orig.png" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/wapo-ciaborder-3-orig_orig.png" alt="image: facts about Bezos and the CIA"></a>
+</div>  
+<br>  
 
 # <a name="propornot-wapo-cia"></a>PART ONE: PropOrNot, The Washington Post & the CIA  
-  
+
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/editor/telly_1.png" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/editor/telly_1.png" alt="image: turn off the tv"></a>  
+
 PropOrNot warns people about Russian propaganda online. “Russia is manipulating US public opinion through online propaganda”. This would be a great service if it was real. Who wouldn’t want to know if they were being manipulated? Unfortunately their definition of online propaganda is basically: alternative media sites or blogs that contain any criticism of US foreign policy, Hillary Clinton, Ukrainian Ultra-Nationalists and US involvement in the war in Syria. They themselves are propagandists.  
   
-![turn it off](https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/editor/telly_1.png)
-&nbsp;
-
 Their blacklist of “Russian propaganda sites” includes Truthdig, Wikileaks, True Activist, Max Keiser, Ron Paul Institute, Zero Hedge and many more. They want these sites to be investigated by the federal government and prosecuted under the Espionage Act as Russian spies. If you promise to stop posting the content they don’t want you to post, you can talk to them about possibly being removed from the list.
 
 * <span class="ref">Washington Post Disgracefully Promotes a McCarthyite Blacklist From a New, Hidden, and Very Shady Group: <https://archive.fo/DBT3C></span>
 
 The people behind PropOrNot have decided to remain anonymous. There’s no Whois information on the website’s registrant because they hide behind a service called Domain By Proxy.
 
-![whois propornot](https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/who-is-propornot-orig_orig.png)
-<div class="center"><a href="https://whois.icann.org/en/lookup?name=propornot.com">https://whois.icann.org/en/lookup?name=propornot.com</a></div>
-&nbsp;
+<div class="caption">
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/who-is-propornot-orig_orig.png" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/who-is-propornot-orig_orig.png" alt="image: screenshot of WhoIs results for PropOrNot"></a>
+<p><a href="https://whois.icann.org/en/lookup?name=propornot.com">https://whois.icann.org/en/lookup?name=propornot.com</a></p>
+</div>
 
 No one knows who is really behind the site, but we do have some clues as to what groups and people are involved in this wave of “fake news” and Cold War hysteria.
 
@@ -62,16 +63,13 @@ Both the Washington Post and the New York Times have had a close working relatio
 
 * <span class="ref">Mockingbird: The Subversion Of The Free Press By The CIA / How the Washington Post Censors the News: <https://archive.fo/huvdH></span>
 * <span class="ref">The CIA and the Press: When the Washington Post Ran the CIA’s Propaganda Network: <https://archive.fo/aBUQF></span>  
-&nbsp;
 
-![bankers want war](https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/bankerswar_6.png?1490225411)
-&nbsp;  
-
-<div class="doubleHeader">
+<div class="doubleHeader2">
 <h1><a name="new-cold-war-legislation"></a>PART TWO: The Return of Cold War Legislation</h1>  
 <h2><a name="cold-war-committee"></a>Cold War Committee Created with the Passing Of H.R. 6393</h2>
 </div>
 
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/bankerswar_6.png?1490225411" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/bankerswar_6.png?1490225411" alt="image: bankers want war"></a>
   
 Coincidently, a propaganda bill was introduced to the House two days before the Washington Post article was published, and then passed 8 days later, slipped inside the Intelligence Authorization Act for Fiscal Year 2017 (H.R. 6393) on November 30th, 2016.
 
@@ -121,7 +119,6 @@ We've already started to see the signs of a CIA and Soros sponsored coup or "col
 >
 >* <span class="ref">America's Coup Machine: Destroying Democracy Since 1953: <https://archive.fo/XMRIc></span>
 
-&nbsp;
 
 ### <a name="color-revolution"></a>What is a color revolution?
 
@@ -153,12 +150,9 @@ We've already started to see the signs of a CIA and Soros sponsored coup or "col
 >
 >* <span class="ref">Color Revolutions and Geopolitics (See "About Us" section): ​<https://archive.fo/ytcov></span>  
   
-&nbsp;
-
-![nothing to fear](https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/nothing-to-hide-cut.jpeg?1490225445)  
-&nbsp;
-
 ## <a name="disinfo-act-s3274"></a>Countering Foreign Propaganda and Disinformation Act (S.3274)  
+
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/nothing-to-hide-cut.jpeg?1490225445" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/nothing-to-hide-cut.jpeg?1490225445" alt="image:nothing to fear"></a>
 
 A month after the previously mentioned propaganda bill was passed (H.R. 6393), the Countering Foreign Propaganda and Disinformation Act (S.3274) was passed and placed into the NDAA for 2017 (S.2943). Signed by Obama on December 23rd, 2016.
 
@@ -175,11 +169,10 @@ The article below by Naked Capitalism* does a great job in going over the ambigu
 * <span class="ref">*Does the “Countering Foreign Propaganda and Disinformation Act” Apply to ....Alternative Media?: <https://archive.fo/oVltF></span>
 * <span class="ref">A New Center for Global Engagement: <https://archive.fo/6imdZ></span>
 
-&nbsp;
-![bernays quote 1](https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/bernays_orig.png)  
-&nbsp;
 
 ## <a name="smith-mundi"></a>Smith-Mundi Act Amendment - Lifting the Ban on Domestic Propaganda
+
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/bernays_orig.png" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/bernays_orig.png" alt="image:Bernays Quote"></a>
 
 It really does go on and on and on.... so here's the general info: By amending the Smith-Mundi Act in the NDAA for 2013, essentially a ban on domestic propaganda was lifted. In the US we are now able to hear the same propaganda the US government airs in foreign countries.
 
@@ -201,7 +194,6 @@ Wait... what was the purpose of the original legislation?
 
 ​I think we can safely say at this point that Congress no longer gives a damn about the American people.
 
-&nbsp;
 
 ### The real reasons why
  The following article was written in 2012  prior to the passing of this amendment. We want to give a shout out to an amazing journalist that is greatly missed, Michael Hastings. We won't forget.
@@ -214,7 +206,6 @@ Wait... what was the purpose of the original legislation?
 >
 >* <span class="ref">Congressmen Seek To Lift Propaganda Ban (Michael Hastings, 2012):  <https://archive.fo/rYEgP></span>
 
-&nbsp;
 
 ### The asinine excuses
 
@@ -224,7 +215,6 @@ Wait... what was the purpose of the original legislation?
 
 ​Transparency?! What backwards, completely-detached-from-reality PSYOP school did these people go to? 'We're going to deceive to our own people in the name of transparency'. Seriously?
 
-&nbsp;
 
 ### The legal jargon
 "public diplomacy information" = **propaganda**
@@ -252,46 +242,52 @@ Wait... what was the purpose of the original legislation?
 ><span class="ref">United States Information and Educational Exchange Act of 1948:</span>
 >* <span class="ref">Link PDF: <https://www.state.gov/documents/organization/177574.pdf></span>
 >* <span class="ref">Archive PDF: <https://tinyurl.com/info-exch-1948></span>
-&nbsp;
 
-![bernays quote 2](https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/bernays-quote1_orig.png)  
-&nbsp;  
 
-<div class="doubleHeader">
+<div class="doubleHeader2">
 <h1><a name="censorship-1st-amendment"></a>PART THREE: Censorship & The First Amendment</h1>
 <h2><a name="synchronized-call-censorship"></a>The Synchronized Call for Censorship</h2>
 </div>
 
-<span class="gray bold underline">President Obama:</span>
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/bernays-quote1_orig.png" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/bernays-quote1_orig.png" alt="image:Bernays quote"></a>
+
+<span class="mini-title">President Obama:</span>
 >"We’re going to have to rebuild, within this Wild, Wild West of information flow, some sort of curating function that people agree to. But there has to be, I think, some sort of way in which we can sort through information that passes some basic truthiness tests and those that we have to discard."
 >
 >* <span class="ref">Obama Enters the Media Wars – Why His Recent Attack on Free Speech is So Dangerous and Radical: <https://archive.fo/wCaaY></span>
 
-<span class="gray bold underline">Hillary Clinton:</span>
+<span class="mini-title">Hillary Clinton:</span>
 >"Let me mention briefly one threat in particular that should concern all Americans. Democrats, Republicans and Independents alike, especially those who serve in our Congress. The epidemic of malicious fake news and false propaganda that flooded social media over the past year. It is now clear that so-called fake news can have real world consequences. It's a danger that must be addressed and addressed quickly. Bipartisan legislation is making its way through Congress to boost the government's response to foreign propaganda, and Silicon Valley is starting to grapple with the challenge and threat of fake news. It's imperative that leaders in both the private sector and the public sector step up to protect our democracy and innocent lives."  
 >
 >* <span class="ref">Hillary Reemerges, Slams "Dangerous Epidemic" Of Fake News: <https://archive.fo/lOrjv/></span>
 
-<span class="gray bold underline">Donald Trump:</span>
+<span class="mini-title">Donald Trump:</span>
 >"We're losing a lot of people because of the internet," Trump said. "We have to see Bill Gates and a lot of different people that really understand what's happening. We have to talk to them about, maybe in certain areas, closing that internet up in some ways. Somebody will say, 'Oh freedom of speech, freedom of speech.' These are foolish people."
 >
 >* <span class="ref">Donald Trump wants to ban the internet, will ask Bill Gates to ‘close it up’: <https://archive.fo/v6FPj></span>
 
-<span class="gray bold underline">Angela Merkel:</span>
+<span class="mini-title">Angela Merkel:</span>
 >"Today we have fake sites, bots, trolls -- things that regenerate themselves, reinforcing opinions with certain algorithms and we have to learn to deal with them.[...] We must confront this phenomenon and if necessary, regulate it."
 >
 >* <span class="ref">Merkel warns against fake news driving populist gains: ​<https://archive.fo/Hurhb></span>  
-  
-![truth. it's the new hate speech. during times of universal deceit, telling the truth becomes a revolutionary act. george orwell.](https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/0022_orig.png)
+
 &nbsp;
 
+<div class="centerimg">  
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/0022_orig.png" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/0022_orig.png" alt="image:quote - truth, it's the new hate speech"></a>
+</div> 
+
+&nbsp; 
+  
 **It doesn't matter if you're on the right, left, ​center, Republican, Democrat, Independent or an Anarchist. It's us against the establishment. It always has been. Don't forget that. The rich elites & politicians have more in common with each other than they will ever have with any of us. Mainstream media has been their greatest weapon, printing lies and propaganda to influence our opinions, while keeping us divided and hating one another. It's time to turn around and take their weapon away. Mainstream media must be weakened.**  
 &nbsp;  
   
-<div class="center red bold">They are only as strong as we allow them to be.</div>
+<div class="center red bold large">They are only as strong as we allow them to be.</div>
 &nbsp;
 
-![we are fucking angry](https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/editor/ec0871627d8d0d7e8dca7f778327c2c0_1.jpg)
+<div class="centerimg"> 
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/editor/ec0871627d8d0d7e8dca7f778327c2c0_1.jpg" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/editor/ec0871627d8d0d7e8dca7f778327c2c0_1.jpg" alt="image:we are fucking angry"></a>
+</div>
 
 &nbsp;
 
@@ -302,16 +298,15 @@ Wait... what was the purpose of the original legislation?
 ><span class="ref">--George Orwell, 1984</span>
 >* <span class="ref">Link PDF:  <http://www.planetebook.com/ebooks/1984.pdf></span>
 >* <span class="ref">Archive PDF: <https://tinyurl.com/g-orwell-84></span>  
-  
-&nbsp;
-![when you tear out a man's tongue](https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/fearwhathemightsay_orig.jpg)  
-&nbsp;  
+
   
 ## <a name="1st-amendment-dying"></a>The First Amendment is Dying
 
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/fearwhathemightsay_orig.jpg" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/fearwhathemightsay_orig.jpg" alt="image:quote - when you tear out a man's tongue..."></a>
+
 With the propaganda bills and the calls for censorship, we have a very, very serious threat against our First Amendment rights. These actions can knock out 3 of the 5 pillars of the First Amendment. 
  
-><span class="gray bold underline">Congress shall make no law</span>   
+><span class="dark-gray bold underline">Congress shall make no law</span>   
 >I. respecting an establishment of religion, or prohibiting the free exercise thereof;  
 >II. or abridging the freedom of speech,  
 >III. or of the press;  
@@ -325,15 +320,13 @@ Hell, we might as well knock out the 4th one and make sure the last one is compl
 >* <span class="ref">URGENT: proposed law would charge protesters with terrorism: <https://archive.fo/MfOC8></span>
 
 * <span class="ref">Washington Lawmaker Proposes Bill To Charge Protesters With “Economic Terrorism”: <https://archive.fo/NitDP></span>  
-  
-&nbsp;
-![rise up against the liars](https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/riseup.png?1491516560)  
-&nbsp;
 
-<div class="doubleHeader">
+<div class="doubleHeader2">
 <h1><a name="manipulation-info-ops"></a>PART FOUR: Manipulation & Information Operations</h1>
 <h2><a name="tim-snyder-newspeak"></a>Tim Snyder: Newspeak & the Rewriting of History</h2>
 </div>
+
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/riseup.png?1491516560" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/riseup.png?1491516560" alt="image:anonymous - rise up against the liars"></a>
 
 
 Let's circle back to PropOrNot, our "friendly neighborhood" propaganda agency. The first person that seems to have mentioned and promoted PropOrNot in print was Yale history professor Tim Snyder. This was before PropOrNot got exposure from the Washington Post. Snyder is an American historian, author, and academic specializing in the history of Central and Eastern Europe  and the Holocaust. He’s also a member of the Council on Foreign Relations (CFR). Note his specialization in the history of Central and Eastern Europe, it will be important later. He's the State Department's favorite go-to Eastern European historian and academic, especially when it comes to Ukraine. 
@@ -362,12 +355,11 @@ The Mockingbird Paper has a great breakdown of Snyder's 20 lessons. It's worth r
 ><span class="ref">--Gary Bello</span>
 >
 >* <span class="ref">20 Ways to defeat both fascism and the new McCarthyism: <https://archive.fo/j1ixb></span>  
-  
-&nbsp;
-![war is when your government tells you who the enemy is. revolution is when you figure it out for yourself](https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/revolutionandwar.png?1490226177)  
-&nbsp;
+
   
 ## <a name="inform-influence"></a>Inform and Influence Operations (IIO)
+
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/revolutionandwar.png?1490226177" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/revolutionandwar.png?1490226177" alt="image: war is when your government tells you who the enemy is. revolution is when you figure it out for yourself"></a>
 
 >"We also must restrict fake news sites, fake news, and their spread on social media and elsewhere. Detractors will cite the first amendment, but the issue is national security, so preventing information designed to undermine our freedom more than justifies such a law."
 ><span class="ref">-- Joel Harding </span>
@@ -376,15 +368,15 @@ The Mockingbird Paper has a great breakdown of Snyder's 20 lessons. It's worth r
 
 The next person possibly connected to PropOrNot is Joel Harding. There's a lot of information on Harding, but first we'll be giving an overview of what Information Operations (IO) are, and most importantly, Influence Operations. (We're  jumping into data mode now).
 
-><span class="bold underline gray">Influence Operations</span>  
+><span class="bold underline dark-gray">Influence Operations</span>  
 >"Influence operations are focused on affecting the perceptions and behaviors of leaders, groups, or entire populations. Influence operations employ capabilities to affect behaviors, protect operations, communicate commander’s intent, and project accurate information to achieve desired effects across the cognitive domain. These effects should result in differing behavior or a change in the adversary’s decision cycle, which aligns with the commander’s objectives. The military capabilities of influence operations are psychological operations (PSYOP), military deception (MILDEC), operations security (OPSEC), counterintelligence (CI) operations, counterpropaganda operations and public affairs (PA) operations."
 >
-><span class="bold underline gray">Information Operations</span>  
+><span class="bold underline dark-gray">Information Operations</span>  
 >"Information Operations. The integrated employment of the core capabilities of electronic warfare, computer network operations, psychological operations, military deception and operations security, in concert with specified supporting and related capabilities, to influence, disrupt, corrupt or usurp adversarial human and automated decision making while protecting our own. Also called IO."
 >
 >* <span class="ref">What are Information Operations?: <https://archive.fo/CMA9></span>  
 
-><span class="bold underline gray">The RAND Corporation (Global Policy Think Tank)</span>  
+><span class="bold underline dark-gray">The RAND Corporation (Global Policy Think Tank)</span>  
 >"Our definition of influence operations has some resemblance to the joint operations definition for STRATCOMM that was approved in December 2006, which also focuses on the communication of messages to target audiences that are synchronized with military or other actions and nonkinetic activities:
 > 
 >Focused US Government efforts to understand and engage key audiences in order to create, strengthen, or preserve conditions favorable for the advancement of US Government interests, policies, and objectives through the use of coordinated programs, plans, themes, messages, and products synchronized with the actions of all instruments of national power."
@@ -394,10 +386,10 @@ The next person possibly connected to PropOrNot is Joel Harding. There's a lot o
 >* IO and most of its disciplines, but especially psychological operations (PSYOP)  
 >* STRATCOMM activities  
 >* the public relations–oriented parts of civil-military operations (CMO), including civil affairs (CA)"
+>  
+><a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/rand-diagram-iio-3_orig.jpg" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/rand-diagram-iio-3_orig.jpg" alt="image: elements of influence"></a>
 >
 >"We use “influence operations” as an umbrella term that includes military activities (e.g., IO, PA, military support to diplomacy and public diplomacy, and parts of CA and CMO) and civilian ones (comprising both public and covert—or clandestine—efforts)."
->
->![elements of influence operations](https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/rand-diagram-iio-3_orig.jpg)
 >
 ><span class="ref">RAND Corporation: Foundations of Effective Influence Operations A Framework for Enhancing Army Capabilities:</span>  
 >* <span class="ref">Link PDF: <https://www.rand.org/content/dam/rand/pubs/monographs/2009/RAND_MG654.pdf></span>  
@@ -410,16 +402,15 @@ The next person possibly connected to PropOrNot is Joel Harding. There's a lot o
 ><span class="ref">U.S. Army FM 3-13 Inform and Influence Activities Draft Manual:</span>  
 >* <span class="ref">Link PDF: <https://info.publicintelligence.net/USArmy-InformInfluence.pdf></span>  
 >* <span class="ref">Archive PDF: <https://tinyurl.com/iio-army></span>  
-  
-&nbsp;
-![2+2=5](https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/0028_orig.png) 
-&nbsp;
 
+  
 ## <a name="joel-harding-ukraine"></a>Joel Harding & Ukraine's Ministry of Information Policy  
+
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/0028_orig.png" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/0028_orig.png" alt="image: 2+2=5"></a>
 
 According to Harding's LinkedIn profile, he has specialized in Russian Information Warfare for at least 30+ months.  
 
-><span class="gray bold underline">Experience:</span>  
+><span class="dark-gray bold underline">Experience:</span>  
 >"My blog, 'To Inform is to Influence', deals with propaganda, exposing propaganda and highlighting the intricacies and nuances of propaganda at all levels. I am currently focusing on the Ukraine/Russia information war with a simultaneous heavy emphasis on the accompanying hybrid war. I currently teach classes about Russian Information Warfare and a second class on Propaganda/Agitprop."
 > 
 >"Specialties: Information Operations/Information Warfare, Public Diplomacy, Strategic Communication, Counter-Disinformation, Electronic Warfare, Deception, Operational Security, Cyberwar, Intelligence, Special Forces and Special Operations."
@@ -499,14 +490,12 @@ Here are excerpts from a blog by Joel Harding sharing his experience meeting wit
 
 Harding has worked for the current Ukrainian government, which is officially recognized by the US and was placed into power by the CIA/MI6/Mossad. (More on that later).  
   
-&nbsp;
-![the CIA - democratizing the shit out of the 3rd world](https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/editor/85b7934efd6b9eb8fc8047263031cb89.png?1490227007) 
-&nbsp;
-
-<div class="doubleHeader">
+<div class="doubleHeader2">
 <h1><a name="ukranian-nationalists"></a>PART FIVE: Organization of Ukrainian Nationalists (OUN)</h1>  
 <h2><a name="OUN-bandera"></a>Organization of Ukrainian Nationalists (OUN) & Bandera</h2>
 </div>  
+
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/editor/85b7934efd6b9eb8fc8047263031cb89.png?1490227007" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/editor/85b7934efd6b9eb8fc8047263031cb89.png?1490227007" alt="image:CIA - democratizing the shit out of the 3rd world"></a>
 
 Here's where it gets a bit complicated. Understanding the history of certain political groups in Ukraine is important to untangle the web of propaganda being spun by factions of the US gov't, mainstream media and US allied intelligence agencies. This all relates to what has been happening in Ukraine (which some call the Euromaiden Revolution and others call the Ukrainian Coup of 2014), why the U.S. is returning to McCarthyism, repressing our rights and seems to be recklessly pushing for a war with Russia. Later we will be releasing more information on the history of the OSS/CIA and Ukrainian Nationalist parties going back to WWII.
  
@@ -519,11 +508,13 @@ Ok, back to Joel Harding... Take a look at the slogan at the end of his blog ent
 >
 >* <span class="ref">Glory to Ukraine (Wikipedia): <https://archive.fo/0ammw></span>  
 
-This is one of the very early tweets from PropOrNot:  
+This is one of the very early tweets from PropOrNot:
 
-![PropOrNot Tweet Героям слава!!](https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/propornot-3_orig.png)  
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/propornot-3_orig.png" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/propornot-3_orig.png" alt="screenshot of PropOrNot Tweet - Героям слава!!"></a>
 
->"Героям слава!" translates to "Glory to the heroes!" If we remember from above, this last part of the slogan was commonly used by the Ukrainian Insurgent Army.
+>"Героям слава!" translates to "Glory to the heroes!"  
+>  
+>If we remember from above, this last part of the slogan was commonly used by the Ukrainian Insurgent Army.
 >
 ><span class="ref">PropOrNot Twitter Post:</span>  
 >* <span class="ref">Link: <https://twitter.com/propornot/status/799314450893438976></span>  
@@ -541,11 +532,11 @@ On a side note, Joel Harding happens to be friends with one of the Board Members
 
 What a coincidence, that's the provision lifting the ban on the propaganda bill.  
 
-![ministry of propaganda](https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/ministryofpropaganda-1-orig_orig.png)  
-
 There is a very interesting history between the OSS/CIA, OUN-B and Nazi's. Unfortunately we're only taught the whitewashed version of history.  We will have a second release containing unclassified CIA documents, among other resources that will help explain the relationship between the CIA and Ukraine.   
 
-><span class="gray bold underline">Ukrainian Insurgent Army</span>  
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/ministryofpropaganda-1-orig_orig.png" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/ministryofpropaganda-1-orig_orig.png" alt="image: ministry of propaganda"></a>
+
+><span class="dark-gray bold underline">Ukrainian Insurgent Army</span>  
 >"Ukrayins’ka Povstans’ka Armiya or UPA was a Ukrainian nationalist paramilitary and later partisan army. The political leadership of the army belonged to the Organization of Ukrainian Nationalists—Bandera. (OUN-B)"
 >  
 >"The OUN's stated immediate goal was the re-establishment of a united, independent, mono-ethnic national state on Ukrainian ethnic territory. Violence was accepted as a political tool against foreign as well as domestic enemies of their cause, which was to be achieved by a national revolution led by a dictatorship that would drive out what they considered to be occupying powers and set up a government representing all regions and social groups. The organization began as a resistance group and developed into a guerrilla army."
@@ -554,7 +545,7 @@ There is a very interesting history between the OSS/CIA, OUN-B and Nazi's. Unfor
 >  
 >* <span class="ref">Ukrainian Insurgent Army (Wikipedia): <https://archive.fo/6zvOw></span>  
 
-><span class="gray bold underline">Organization of Ukrainian Nationalists</span>  
+><span class="dark-gray bold underline">Organization of Ukrainian Nationalists</span>  
 >"The OUN sought to infiltrate legal political parties, universities and other political structures and institutions. As revolutionary ultra-nationalists the OUN have been characterized by some historians as fascist. The OUN's strategy to achieve Ukrainian independence included violence and terrorism against perceived foreign and domestic enemies."
 >
 >"During the Cold War, the OUN was covertly supported by western intelligence agencies, including the CIA."
@@ -565,7 +556,7 @@ There is a very interesting history between the OSS/CIA, OUN-B and Nazi's. Unfor
 >
 >* <span class="ref">Organization of Ukrainian Nationalists (Wikipedia): <https://archive.fo/hDHit></span>  
 
-><span class="gray bold underline">Mykola Lebed</span>  
+><span class="dark-gray bold underline">Mykola Lebed</span>  
 >"Mykola Lebed, as leader of the OUN-B and part of the Ukrainian Insurgent Army, was considered a war criminal and responsible for the genocide of Poles in Volhynia and East Galicia. He was sentenced to death, later escaped and then emigrated to the US in 1949. Through his CIA funded organization, Prolog Research Corporation, he gathered intellegence on the Soviet Union. The CIA project name was AERODYNAMIC. The CIA considered him to be a valuable asset until at least 1991. He died in 1998."
 > 
 >"In a government reports publication, published by the National Archives, Lebed is being suspected of having collaborated with Nazi Germany. Lebed was described as a "Ukrainian fascist leader and suspected Nazi collaborator", and later labeled as a 'well-known sadist and collaborator of the Germans" by United States Army counterintelligence.'"  
@@ -575,35 +566,34 @@ There is a very interesting history between the OSS/CIA, OUN-B and Nazi's. Unfor
 <span class="ref">Hitler's Shadow: Nazi War Criminals, U.S.Intelligence, and the Cold War (published by the National Archives):</span>  
 * <span class="ref">Link PDF: <https://www.archives.gov/files/iwg/reports/hitlers-shadow.pdf></span>  
 * <span class="ref">Archive PDF: <https://tinyurl.com/hitlers-shadow></span>  
+
   
-&nbsp;
-![azov battalion](https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/0032_orig.png)  
-
-![wolfsangel azov nazi symbols](https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/0033_orig.png)
-&nbsp;
-
 ## <a name="ukrain-azov-battalion"></a>National Guard of Ukraine - Azov Battalion  
-  
+
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/0032_orig.png" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/0032_orig.png" alt="image: azov battalion"></a>
+
 Initially a volunteer unit, the Azov Battalion was incorporated into the Ukrainian National Guard in November 2014. In early reports members were open about the fact that they were neo-Nazi's and white supremacists. Although they use Nazi symbols like the swastika, SS Armanen runes, and the Wolfsangel, the soldiers in the Azov Battalion now claim they aren't Nazi's, but "National Socialists".  It sounds like at some point they received disinformation training from the US.   
 
-><span class="gray bold underline">Etymology of the Word Nazi</span>  
+><span class="dark-gray bold underline">Etymology of the Word Nazi</span>  
 >"1930, noun and adjective, from German Nazi, abbreviation of German pronunciation of Nationalsozialist (based on earlier German sozi, popular abbreviation of "socialist"), from Nationalsozialistische Deutsche Arbeiterpartei "National Socialist German Workers' Party," led by Hitler from 1920." 
 >
 >"Before 1930, party members had been called in English National Socialists, which dates from 1923. The use of Nazi Germany, Nazi regime, etc., was popularized by German exiles abroad. From them, it spread into other languages, and eventually was brought back to Germany, after the war."  
 >
 >* <span class="ref">Etymology of the word Nazi: <https://archive.fo/wycc></span>  
 
-![azov battalion with nazi flag](https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/azov-batallion-large.jpg?1491517229)  
-
-><span class="gray bold underline">Azov Battalion</span>  
->"The regiment's first commander was far-right nationalist Andriy Biletsky, who led the neo-Nazi Social-National Assembly and Patriot of Ukraine. In its early days, Azov was the Ministry of Internal Affairs' special police company, led by Volodymyr Shpara, the leader of the Vasylkiv, Kiev, branch of Patriot of Ukraine and Right Sector."
->
+><span class="dark-gray bold underline">Azov Battalion</span>  
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/0033_orig.png" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/0033_orig.png" alt="wolfsangel azov nazi symbols"></a>  
+>  
+>"The regiment's first commander was far-right nationalist Andriy Biletsky, who led the neo-Nazi Social-National Assembly and Patriot of Ukraine. In its early days, Azov was the Ministry of Internal Affairs' special police company, led by Volodymyr Shpara, the leader of the Vasylkiv, Kiev, branch of Patriot of Ukraine and Right Sector."  
+>  
 >"Biletsky stayed out of the public spotlight working on expanding Azov to battalion size. In summer 2014, he took the command of the unit. In August 2014, he was awarded a military decoration, "Order For Courage", by Ukrainian president Petro Poroshenko, and promoted to lieutenant colonel of in the Interior Ministry's police forces. Because Biletsky was elected into the Ukrainian parliament in the 2014 Ukrainian parliamentary election he left the battalion in October 2016 (Ukrainian elected officials can not be in the military (nor police))."
 >
 >"Azov has gained notoriety among its detractors due to allegations of torture and war crimes, as well as the neo-Nazi sympathies of some of its members."
 >
->"On October 18, 2008, Biletsky and other Patriot of Ukraine members were arrested during the Ukrainian Insurgent Army memorial march. In November 2008, Biletsky initiated the creation of the Social National Assembly (SNA) which included four other organizations: Spadshchyna (Heritage), Patriot of Ukraine (2005), Revolyutsiya i Derzhava (RiD, Revolution and State), and Slava i Chest (SiCh, Glory and Honor)."  
+><a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/azov-batallion-large.jpg?1491517229" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/azov-batallion-large.jpg?1491517229" alt="image: azov battalion with nazi flag"></a>
 >
+>"On October 18, 2008, Biletsky and other Patriot of Ukraine members were arrested during the Ukrainian Insurgent Army memorial march. In November 2008, Biletsky initiated the creation of the Social National Assembly (SNA) which included four other organizations: Spadshchyna (Heritage), Patriot of Ukraine (2005), Revolyutsiya i Derzhava (RiD, Revolution and State), and Slava i Chest (SiCh, Glory and Honor)."  
+>  
 >* <span class="ref">Azov Battalion (Wikipedia): <https://archive.fo/1SpLK></span>  
 
 >"The Social-National Assembly (led by the battalion's leader Biletsky) calls for the expansion of Ukraine, the "struggle for the liberation of the entire White Race," and seeks to "punish severely sexual perversions and any interracial contacts"."  
@@ -616,7 +606,7 @@ Initially a volunteer unit, the Azov Battalion was incorporated into the Ukraini
 >
 >* <span class="ref">NYT Whites Out Ukraine’s Brown Shirts: <https://archive.fo/rVGEp></span>  
 
-![azov battalion helmets with nazi symbols](https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/0035_orig.png)  
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/0035_orig.png" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/0035_orig.png" alt="azov battalion helmets with nazi symbols"></a>
 
 >"Now that the situation in Ukraine has officially been upgraded to "war", what really happens on the ground will remain largely wrapped by the fog of war on either side, with just one thing assured: a war it may be but more than anything it is a proxy war - one in which both western and Russian interests are manifest in the fighting, and killing, of mostly innocent civilians in Ukraine - a carbon copy replica of what happened last year in Syria.
 >
@@ -624,7 +614,6 @@ Initially a volunteer unit, the Azov Battalion was incorporated into the Ukraini
 >	
 >* <span class="ref">Dozens Of CIA, FBI Agents "Advising Ukraine Government", German Press Reports: <https://archive.fo/iZ9sI></span>  
 
-&nbsp;
 
 ## <a name="hillary-clinton-chalupa-ukraine"></a>Hillary Clinton, Alexandra Chalupa & Ukraine  
 
@@ -660,12 +649,11 @@ In fact the major Ukrainian organizations in the US are also OUN-B, including th
 >"... a DNC consultant researching pro-Russian politicians in Ukraine lead DNC leaders to conclude the Russian government is behind such attacks."  
 >
 >* <span class="ref">Clinton Email Investigation Timeline, Late April 2016—Early May, 2016: <https://archive.fo/04Ubh></span>  
-  
-&nbsp;
-![say our democracy again. say 'our democracy' again, I dare you, I double dare you motherfucker, say 'our democracy' one more goddamn time - image from pulp fiction](https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/ourdem_2.png?1491517474)  
-&nbsp;
 
+  
 ## <a name="CIA-soros-fact-checking"></a>CIA, Soros & Fact-Checking  
+
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/ourdem_2.png?1491517474" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/ourdem_2.png?1491517474" alt="image from pulp fiction: say our democracy again. say 'our democracy' again, I dare you, I double dare you motherfucker, say 'our democracy' one more goddamn time"></a>
   
 >"The Atlantic Council itself is no stranger to the promotion of the Banderite [OUN-B] ideology as representing “democratic” Ukrainian nationalism. A Senior Fellow in its Translatlantic Relations Program is Adrian Karatnycky, formerly the head of Freedom House and an AFL-CIO political operations staffer. Karatnycky and his wife, National Endowment for Democracy (NED) Vice President Nadia Diuk, worked in the 1980s in programs run through Prolog Research Corporation, the front organization set up by the CIA in 1952 as a vehicle for Banderite war criminal Mykola Lebed to continue anti-Soviet operations. Diuk edited a Prolog-funded publication in London, while Karatnycky, according to published accounts by then-colleague Taras Kuzio (today a top expert on Ukraine for NATO), coordinated Prolog’s Ukrainian literature production through underground printing operations in Poland."  
 >
@@ -685,9 +673,9 @@ NED is also funding the Poynters Institute's International Fact-Checking Network
 * <span class="ref">Full list of Soros NGOs manipulating elections in all EU member states: <https://archive.fo/kHNi8></span>  
 * <span class="ref">DCLeaks Soros Searchable Files: <http://soros.dcleaks.com/></span>  
 
-![to learn who rules over you, simply find out who you are not allowed to criticize - voltaire](https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/editor/free-speech-voltaire.jpeg?1490226924)  
-
 Supposed themes of Russian propaganda masking as alternative media:  
+
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/editor/free-speech-voltaire.jpeg?1490226924" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/editor/free-speech-voltaire.jpeg?1490226924" alt="image: to learn who rules over you, simply find out who you are not allowed to criticize - voltaire"></a> 
 
 >"How terrible, weak, aggressive, and corrupt the the opponents of Russia and their friends are: The US, Obama, Hillary Clinton, the EU, Angela Merkel, NATO, Ukraine, Jewish people, US allies, the "mainstream media", and democrats."  
 >
@@ -712,7 +700,7 @@ We can also get a good idea of who is behind PropOrNot by taking a look at their
 
 ​​So, if you think any of the above are possibly corrupt and decide to voice your opinion, you're spreading Russian propaganda. PropOrNot claims their website is not a blacklist and it's not McCarthyism. LULZ.  
 
-<span class="gray bold underline">Emigre Super Bloc Part 4 - Clinton's Jihadis: Will the Super Delegates Vote YES to More Terrorism?</span>  
+<span class="dark-gray bold underline">Emigre Super Bloc Part 4 - Clinton's Jihadis: Will the Super Delegates Vote YES to More Terrorism?</span>  
 * <span class="ref">Link: <https://tinyurl.com/superbloc4></span>  
 * <span class="ref">Archived - Page 01: <https://archive.fo/qyecB></span>  
 * <span class="ref">Archived - Page 02: <https://archive.fo/uHdrr></span>  
@@ -722,7 +710,7 @@ We can also get a good idea of who is behind PropOrNot by taking a look at their
 * <span class="ref">Archived - Page 06: <https://archive.fo/n8wiV></span>  
 * <span class="ref">Archived - Page 07: <https://archive.fo/0AvUX></span>  
 
-<span class="gray bold underline">Bait & Switch - Fake News, Propornot, The Real Inform & Influence Operation</span>  
+<span class="dark-gray bold underline">Bait & Switch - Fake News, Propornot, The Real Inform & Influence Operation</span>  
 * <span class="ref">Link: <https://tinyurl.com/propornot-ukraine></span>  
 * <span class="ref">Archived - Page 01: <https://archive.fo/CD4f8></span>  
 * <span class="ref">Archived - Page 02: <https://archive.fo/nrlXI></span>  
@@ -733,7 +721,8 @@ It’s not just a push to silence activists and journalists but a full on inform
  
 It's time to fight for our freedoms. The mainstream media is the Establishment's main propaganda tool in the US. These fake fact-checking sites funded by Soros and the CIA are enhancing the propaganda of mainstream media and trying to censor anything they don't agree with. It's time to show them that we aren't fooled. It's time to dismantle this propaganda machine. Together we are more powerful than we think, it's why the propaganda is so important to them...
 
-Because they fear us.  
+**Because they fear us.**  
   
-&nbsp;  
-![dissent](https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/dissent-orig1_orig.png)  
+<div class="centerimg">
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/dissent-orig1_orig.png" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/dissent-orig1_orig.png" height="241" width="308" alt="image:dissent"></a>
+</div>
