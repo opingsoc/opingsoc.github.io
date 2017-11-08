@@ -10,14 +10,12 @@
 
           </head>
             <body>
- 		<div class="preload">
-                   <img src="/assets/images/button-normal.png" alt="search button">
-		           <img src="/assets/images/button-normal-720-480.png" alt="search button">
-			       <img src="/assets/images/button-hover.png" alt="search button">
-					<img src="/assets/images/button-hover-720-480.png" alt="search button">
-					<img src="/assets/images/button-disabled.png" alt="search button">
-					<img src="/assets/images/button-disabled-720-480.png" alt="search button">
-                </div>
+ 		      <link rel="preload" href="/assets/images/button-normal-720-480.png" as="image">
+    <link rel="preload" href="/assets/images/button-hover-720-480.png" as="image">
+    <link rel="preload" href="/assets/images/button-disabled-720-480.png" as="image">
+    <link rel="preload" href="/assets/images/button-normal.png" as="image">
+    <link rel="preload" href="/assets/images/button-hover.png" as="image">
+    <link rel="preload" href="/assets/images/button-disabled.png" as="image">
               {% capture lchar %}{{page.url | slice: -1, 1}}{% endcapture %}
               {% capture url %}{% if lchar == "/" %}{{page.url}}index.html{%
               else %}{{ page.url | default: 'index.html' }}{% endif %}{%

@@ -1,21 +1,19 @@
 ---
-layout: dark
+layout: light
 title: Third Red Scare
 description: 
-menu: wiki
+menu: research
 permalink: research/third_red_scare.html
 ---
 
-# <a name="third-red-scare"></a>The Third Red Scare is Being Used to Fund Propaganda Centers Stifle Free Speech and Provide Weapons to Ukraine  
-  <div class="sub-head">[by OpIngsoc, Apr.10.2017]</div>  
+<div class="preheader">The Third Red Scare is Being Used to Fund Propaganda Centers Stifle Free Speech and Provide Weapons to Ukraine</div>
+<div class="subheader">[by OpIngsoc, Apr.10.2017]</div>   
 
-&nbsp;  
-![centre de propagande](https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/propagande_orig.png)  
-&nbsp;
+<h1><a name="HR-1751"></a>H.R. 1751: Counteracting Russian Hostilities Act of 2017</h1>   
+   
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/propagande_orig.png" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/propagande_orig.png" alt="image: centre de propagande"></a>
   
-## <a name="HR-1751"></a>H.R. 1751: Counteracting Russian Hostilities Act of 2017  
-  
-<span class="ref">Bill Introduced by Rep Alexander X. Mooney (R-West Virginia) <br> 115th Congress (2017-2018)</span>  
+<span class="mini-title">Bill Introduced by Rep Alexander X. Mooney (R-West Virginia) <br> 115th Congress (2017-2018)</span>  
 * <span class="ref">Bill Full Text: <https://archive.fo/5QYGL></span>  
   
 ​Here are some excerpts:  
@@ -44,9 +42,10 @@ permalink: research/third_red_scare.html
 > 
 >(11) support programs to <span class="italic">counter “fake news”</span>."  
   
-&nbsp;
-![The current truth announcement. We have always been at war with the Motherland.](https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/current-truth-dark.png)
+
 # <a name="pentagon-military-analyst-program"></a>Using Propaganda Against U.S. Citizens: ​The Pentagon Miltary Analyst Program  
+
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/current-truth-dark.png" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/current-truth-dark.png" alt="image: The current truth announcement. We have always been at war with the Motherland"></a>
   
 Mainstream media and “nonpartisan” think tanks already have a history of collusion with the government. Throwing money at more programs to “counter fake news” to me is quite frightening. We don’t need more propaganda coming from our corrupt government, especially not geared towards U.S. citizens. We don’t need our real independent media, (the ones that actual criticize our government and try to keep them in check), shut down for being “fake news”.
  
@@ -67,9 +66,11 @@ From an article by Michael Hastings in 2012, Congressmen Seek To Lift Propaganda
 This amendment was slipped into the 2013 NDAA and passed into law. Why does it seem like every NDAA that passes just takes more of our rights away? The previous year’s NDAA, 2012, we saw the provisions authorizing the indefinite military detention of civilians, including U.S. citizens, without habeas corpus or due process.
 
 ​Not that the legality of using propaganda against US citizens ever mattered. In 2008, investigative journalist David Barstow published an exposé in the New York Times revealing the details of a propaganda program used by the DoD since 2002. The Pentagon military analyst program was a campaign to influence public opinion of the Iraq war by briefing retired commanders for TV and radio appearances. Many published op-eds in the New York Times, as well as other newspapers and websites. They were always presented as independent analysts, rather than the mouthpiece of the military-industrial-complex that they really were.  
-  
-![Dining with Donald Rumsfeld](https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/generals.jpg?1491956793)  
-<span class="small bold"></span>Dining with Donald H. Rumsfeld, second from left, during his final week as secretary of defense were the retired officers Donald W. Shepperd, left, Thomas G. McInerney and Steven J. Greer, right. (Image from NYTimes)</span>  
+
+<div class="caption">  
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/generals.jpg?1491956793" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/generals.jpg?1491956793" alt="image: Dining with Donald Rumsfeld"></a>
+<p>Dining with Donald H. Rumsfeld, second from left, during his final week as secretary of defense were the retired officers Donald W. Shepperd, left, Thomas G. McInerney and Steven J. Greer, right. (NYTimes)</p>
+</div>
   
 ​​From Barstow’s exposé, Behind TV Analysts, Pentagon’s Hidden Hand:  
   
@@ -77,8 +78,8 @@ This amendment was slipped into the 2013 NDAA and passed into law. Why does it s
 > 
 These records reveal a symbiotic relationship where the usual dividing lines between government and journalism have been obliterated.
 > 
->“Internal Pentagon documents repeatedly refer to the military analysts as “message force multipliers” or “surrogates” who could be counted on to deliver administration “themes and messages” to millions of Americans “in the form of their own opinions.””
->​* * * * *
+>“Internal Pentagon documents repeatedly refer to the military analysts as “message force multipliers” or “surrogates” who could be counted on to deliver administration “themes and messages” to millions of Americans “in the form of their own opinions.””<br>
+>​* * * * *<br>
 >​“Over time, the Pentagon recruited more than 75 retired officers, although some participated only briefly or sporadically. The largest contingent was affiliated with Fox News, followed by NBC and CNN, the other networks with 24-hour cable outlets. But analysts from CBS and ABC were included, too. Some recruits, though not on any network payroll, were influential in other ways — either because they were sought out by radio hosts, or because they often published op-ed articles or were quoted in magazines, Web sites and newspapers. At least nine of them have written op-ed articles for The Times.
 > 
 >The group was heavily represented by men involved in the business of helping companies win military contracts. Several held senior positions with contractors that gave them direct responsibility for winning new Pentagon business. James Marks, a retired Army general and analyst for CNN from 2004 to 2007, pursued military and intelligence contracts as a senior executive with McNeil Technologies. Still others held board positions with military firms that gave them responsibility for government business. General McInerney, the Fox analyst, for example, sits on the boards of several military contractors, including Nortel Government Solutions, a supplier of communication networks.”  
@@ -120,10 +121,10 @@ Wikipedia however is not correct in saying the operation ended back in 2008.
 >
 >* <span class="ref">Pentagon Used Psychological Operation on US Public, Documents Show – Part 2 (Raw Story): <https://archive.fo/Oz0Kl></span>  
 
-&nbsp;
-![Propaganda. Control the media - The media controls us.](https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/editor/propmsm1.png?1491960947)  
 
 # <a name="global-engagement-center"></a>The Global Engagement (Propaganda) Center  
+
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/editor/propmsm1.png?1491960947" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/editor/propmsm1.png?1491960947" alt="image: Propaganda. Control the media - The media controls us"></a>
   
 The new propaganda bill introduced in March follows on the heels of H.R. 5181: Countering Foreign Propaganda & Disinformation Act of 2016, also known as S. 2692, Countering Information Warfare Act of 2016. This bill was very quietly inserted into the NDAA 2017 and signed into law by Obama in December 2016.
  
@@ -164,10 +165,10 @@ If releasing truthful information about our corrupt politicians influenced the e
  
 ​Anarchists. They always have to be number one. For over a hundred years there has been a system in place to shape people’s view of Anarchists. The majority of people, when you say Anarchist, think of senseless violence and people that eat babies. Well maybe not eating babies, but you get the point. The whole “no rulers” thing is about as dangerous as you can get for a kleptocrat. If you don’t know much about Anarchism, or its history, look it up – look up Pierre-Joseph Proudhon. I’ll bet it’s not what you think it is.)  
   
-&nbsp;
-![we are ungovernable](https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/we-are-ungovernable_orig.png)  
   
 # <a name="first-red-scare"></a>The First Red Scare  
+
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/we-are-ungovernable_orig.png" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/we-are-ungovernable_orig.png" alt="image: we are ungovernable"></a>
   
 Did you know the first red scare was created to stifle labor worker strikes in the early 1900’s? It was the anarchists and labor unions that got us the 8 hour work day, instead of the 12-18 hour days they were forced to work. 
  
@@ -181,7 +182,8 @@ Those “evil” anarchists wanted rights for the poor, wanted the wealthy and t
 > 
 >“Not surprisingly the entire city was prepared for mass bloodshed, reminiscent of the railroad strike a decade earlier when police and soldiers gunned down hundreds of striking workers. On May 1, 1886, more than 300,000 workers in 13,000 businesses across the United States walked off their jobs in the first May Day celebration in history. In Chicago, the epicenter for the 8-hour day agitators, 40,000 went out on strike with the anarchists in the forefront of the public's eye. With their fiery speeches and revolutionary ideology of direct action, anarchists and anarchism became respected and embraced by the working people and despised by the capitalists.”  
   
-<span class="ref">Anarchy literally means “no rulers”. That’s why our “rulers” hate them so much. <br>People in power will do anything to stay in power.</span>  
+**Anarchy literally means “no rulers”. That’s why our “rulers” hate them so much.  
+People in power will do anything to stay in power.**
   
 Here’s a very basic overview of the Red Scare from [Wikipedia](https://archive.fo/7BOaH):  
   
@@ -191,7 +193,8 @@ Here’s a very basic overview of the Red Scare from [Wikipedia](https://archive
 > 
 >“Newspapers exacerbated those political fears into anti-foreign sentiment because varieties of radical anarchism were becoming popular as possible solutions to poverty, often by recent European immigrants (cf. hyphenated-Americans). When the Industrial Workers of the World (IWW) backed several labor strikes in 1916 and 1917, the press portrayed them as "radical threats to American society" inspired by "left-wing, foreign agents provocateurs." Those on the side of the IWW claim that the press "misrepresented legitimate labor strikes" as "crimes against society," "conspiracies against the government," and "plots to establish communism." Opponents, on the other hand, saw these as an extension of the radical, anarchist foundations of the IWW, which contends that all workers should be united as a social class and that capitalism and the wage system should be abolished.”  
   
-​OH NO! A solution to poverty? Abolish the slave wage system? We must fight against such threats to the kleptocratic order of the US Empire! 
+​OH NO! A solution to poverty? Abolish the slave wage system? We must fight against such threats to the kleptocratic order of the US Empire!   
+  
 ​₍₍ ᕕ(´◓⌓◔)ᕗ⁾⁾  <-- That’s me, running to fight for my masters, the kleptocrats. LOL.
  
 Take a look at that again:  
@@ -203,7 +206,8 @@ Sound familiar? Why would they bother changing the playbook when it works every 
 It is currently the “left” screaming Red, but don’t think the “right” is innocent either. It’s the Republicans that are introducing all the censorship bills to fight Russia’s “propaganda agents”. These bills will only be used to stifle free speech and take away our First Amendment rights permanently. Just read the Washington Post’s article on PropOrNot and their list of “Russian propaganda” websites. It’s only a list of media sites that don’t lick the boots of the kleptocrats. Do you think I’m over-exaggerating?  
   
 Here are [ProporNot’s signs of Russian propaganda](https://archive.fo/6OUZR):  
-![PropOrNot's Signs of Propaganda](https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/proplist_orig.png)  
+
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/proplist_orig.png" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/proplist_orig.png" alt="image: PropOrNot's Signs of Propaganda"></a>
   
 So that’s basically criticism of:
 
@@ -230,8 +234,8 @@ Personally, I’m not a fan of Alex Jones and InfoWars, but I don’t think it�
 ><span class="gray bold">"If we don’t believe in freedom of expression for people we despise, we don’t believe in it at all."
 --Noam Chomsky</span>  
   
-You can read more about ProporNot and the clues as to who is likely behind the website (Ukraine/CIA), as well as the history between CIA and mainstream media; also OSS/CIA/Ukraine/Nazi connections going back to WWII, in our report: [Propaganda and Information Operations](https://opingsoc.com/research/propaganda_info_ops)
+You can read more about ProporNot and the clues as to who is likely behind the website (Ukraine/CIA), as well as the history between CIA and mainstream media; also OSS/CIA/Ukraine/Nazi connections going back to WWII, in our report: [Propaganda and Information Operations](https://opingsoc.com/research/propaganda_info_ops.html)
  
-Here’s our report on “fake news” and the push for censorship: [Operation Ingsoc: Fighting Censorship](https://opingsoc.com/research/operation_ingsoc)
+Here’s our report on “fake news” and the push for censorship: [Operation Ingsoc: Fighting Censorship](https://opingsoc.com/research/operation_ingsoc.html)
  
 Keep an eye out for Part Two of this article on who was really behind H.R. 5181: The Countering Foreign Propaganda and Disinformation Act.

@@ -1,0 +1,160 @@
+<!doctype html>
+  <html lang="en">
+  <head>
+<title>{{ page.title }}</title>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width">
+      <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+      <![endif]-->
+
+   
+    <script type="text/javascript">
+        var host = "opingsoc.com";
+        if ((host == window.location.host) && (window.location.protocol != "https:"))
+        window.location.protocol = "https";
+    </script>
+
+    {% capture lchar %}{{page.url | slice: -1, 1}}{% endcapture %}
+    {% capture url %}{% if lchar == "/" %}{{page.url}}index.html{% else %}{{ page.url | default: 'index.html' }}{% endif %}{% endcapture %}
+    
+<!-- load jQuery 3.2.1 -->
+<script
+			  src="https://code.jquery.com/jquery-3.2.1.min.js"
+			  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+			  crossorigin="anonymous"></script>
+
+<!-- load jQuery 1.6.2 -->
+<script
+			  src="https://code.jquery.com/jquery-1.6.2.min.js"
+			  integrity="sha256-0W0HoDU0BfzslffvxQomIbx0Jfml6IlQeDlvsNxGDE8="
+			  crossorigin="anonymous"></script>
+<script type="text/javascript">
+var jQuery_1_6_2 = $.noConflict(true);
+</script>
+
+          <link rel="stylesheet" href="{{ '/assets/css/style-light.css?v=' | append: site.github.build_revision | relative_url }}" title="style-light">
+
+ <script src="/assets/js/lightbox.js" integrity="sha384-2wxwH/pDn9Vj5OCjRJoTljwL4dWive3kFp5RI0f9JAKcY7qjwSkpDPBtTqUP0qt6" crossorigin="anonymous"></script>
+
+    <script src="{{ '/assets/js/wiki-features.js' | relative_url }}"                  
+            integrity="sha384-XXZyp6aiNqU5CLLeNGxwjFgQfynF1v4+TwP+4J9xU1iBQotJ1ZksAaEC+xJ+1YXP"
+            crossorigin="anonymous"></script>
+
+    {% if site.custom_head %}
+        {% include head.html %}
+    {% endif %}
+  </head>
+
+  <body ondragstart="return false;" ondrop="return false;">
+
+        <link rel="preload" href="/assets/images/button-normal-720-480.png" as="image">
+  <link rel="preload" href="/assets/images/button-hover-720-480.png" as="image">
+  <link rel="preload" href="/assets/images/button-disabled-720-480.png" as="image">
+  <link rel="preload" href="/assets/images/button-normal.png" as="image">
+  <link rel="preload" href="/assets/images/button-hover.png" as="image">
+  <link rel="preload" href="/assets/images/button-disabled.png" as="image">
+<link rel="preload" href="/assets/images/overlay.png" as="image">
+
+ 
+<div id="nav">
+<ul> 
+<li><a href="#">Home</a>
+  <ul> 
+  <li><a href="/index.html">Home Page</a></li> 
+   </ul>
+  </li>
+<li><a href="#">Research</a> 
+	<ul> 
+	<li>{% for p in site.pages %}{% if p.menu == "research" %}<a href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+	</ul> 
+</li> 
+<li><a href="#">Wiki</a> 
+	<ul> 
+	<li>{% for p in site.pages %}
+    {% if p.menu == "wiki" %}
+    <a href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul> 
+</li>
+     <li><a href="#">News</a> 
+     </li> 
+</ul> 
+</div>
+</div>
+<br>
+
+<div class="search-div">
+  <form action="https://opingsoc.github.io/search.html">
+  <input type="text" class="search-box" id="search-query" name="q" placeholder="Search" autocomplete="off">
+  <input type="submit" class="search-button" value="Search" />
+</form>
+</div>
+
+
+    <div class="wrapper">
+
+      <header>
+
+
+        <div class="logo-center" style="text-align:center;"><a href="{{ '/' | relative_url }}"><img src="{{ site.logo_url }}"></a></div>
+
+
+  {% if site.custom_sidebar %}
+    {% include sidebar.html %}
+  {% endif %}    
+  
+
+      </header>
+<div class="scroll-top-wrapper ">Top
+  <span class="scroll-top-inner">
+    <i class="fa fa-2x fa-arrow-circle-up"></i>
+  </span>
+</div>
+
+          <section>
+
+<div class="search-div-2">
+  <form action="https://opingsoc.github.io/search.html">
+  <input type="text" class="search-box" id="search-query" name="q" placeholder="Search" autocomplete="off">
+  <input type="submit" class="search-button" value="Search" />
+</form>
+</div>
+  
+      <div class="toc-menu">    
+      <div id="toc"></div>
+      </div>
+
+
+      {{ content }}
+
+<div class="footer">
+            {% if site.custom_footer %}
+            {% include footer.html %}
+        {% endif %}
+<div class="footer-text">
+<a href="#top">Back to Top</a>
+
+</div>
+</div>
+
+      </section>
+
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}" integrity="sha384-AaXP7oeEiMGy5aVqFtK79qgtnEvdBH9rwOf+lXbmyAwac825aighs1x53wNtsO73"
+	    crossorigin="anonymous"></script>
+
+ <script src="/assets/js/scroll.js" integrity="sha384-v3lD2J67Pbp2ix2F8mpYtziSCU1qOvfW1voMt99SRdyNKluOGBfaD9yCiDm/GSnf" crossorigin="anonymous"></script> 
+
+<script type="text/javascript">
+        $(document).ready(function() {
+            $('#toc').toc({ title: '<i>Contents</i>' });
+        });
+</script> 
+    
+  </body>
+</html>

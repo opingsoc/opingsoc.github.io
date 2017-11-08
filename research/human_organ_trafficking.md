@@ -1,28 +1,25 @@
 ---
-layout: dark
+layout: light
 title: Human Organ Trafficking 
-menu: wiki
+menu: research
 permalink: research/human_organ_trafficking.html
 ---
 
-<div class="center">
-<div class="largeOutline">Human Organ Trafficking​</div>  
-<div class="sub-head">[by OpIngsoc, Apr.2017]</div>
-</div>  
-  
-![Kidney Donor Map](https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/editor/the-kidney-world-order.png?1490522650)  
-  
+<div class="preheader">Human Organ Trafficking​</div>  
+<div class="subheader">[by OpIngsoc, Apr.2017]</div>
+
 # <a name="organs-watch"></a>Nancy Scheper-Hughes and Organs Watch  
+
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/editor/the-kidney-world-order.png?1490522650" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/editor/the-kidney-world-order.png?1490522650" alt="image: kidney donor map"></a>
   
 Below is a paper by Nancy Scheper-Hughes, ​the Chancellor’s Professor of Medical Anthropology at the University of California, Berkeley. Scheper-Hughes co-founded Organs Watch in 1999 and her investigative research into an international ring of organ traffickers led to arrests several years later. Organs Watch has identified at least 50 nations that have been involved in organ transplantation for profit. Nancy and Organs Watch have played a large role in spreading awareness of organ trafficking in organized crime. Corrupt government officials are bought off and very few people involved in organ trafficking networks are prosecuted - the ones who have are slapped with fines or ridiculously short prison sentences. For decades this has been covered up, as health professionals along with government officials worldwide denied that organ trafficking even existed. Many still believe that it's an extremely rare occurrence.
  
 The poor are the ones that are taken advantage of; coerced, lied to, kidnapped and murdered. The poor are used to make a profit and keep the wealthy alive longer. The wealthy are the ones that run the corporations, the governments, and they are even the ones that fund the so called “humanitarian” non-profits. It's not that hard to figure out how something so horrific and widespread can be kept quiet for so long.  Too many believe that a "conspiracy" or "crime" involving a large number of people could not possibly exist, because there's no way it could be kept silent and allowed to continue. If you believe this, please do some research into the history of organized crime or the CIA. It's very possible. We’ve been spoon-fed propaganda our whole lives and sadly the majority still believe exactly what those in power want them to believe. Slowly more people are waking up to the atrocities committed by the global plutocracy, and the more people wake up, the harder the corrupt will push back – which is what we’re witnessing now. The repressive laws that have been introduced and passed in the last several years are an indication of this. These laws are becoming more repressive and are being introduced with more frequency.  
   
-&nbsp;
 
-![child trafficking](https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/organ-harv-israel.jpg?1490741846)  
-  
 # <a name="usia-propaganda"></a>USIA Propaganda Agents  
+
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/organ-harv-israel.jpg?1490741846" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/organ-harv-israel.jpg?1490741846" alt="image:child trafficking"></a> 
   
 We’ve also posted a report released in 1994, titled The Child Organ Trafficking Rumor: A Modern ‘Urban Legend'. The report was created by Todd Leventhal of the United States Information Agency (USIA) and submitted to the United Nations Special Rapporteur on the sale of children, child prostitution, and child pornography. You’ll also find links to multiple reports and news articles on organ trafficking in the reference section below.
  
@@ -36,7 +33,6 @@ There has since been a lot of evidence to support the fact that organ traffickin
  
 The emphasis that Leventhal places on debunking every possible rumor of organ trafficking in the media, as well as repeatedly stating how impossible it would be for such a thing to even occur, makes me believe it wasn’t just ignorance or naivety behind these assertions. His report sounds more like the US State Department actively trying to cover up the existence of organ trafficking. In his position within the US State Department, he would be aware that organ trafficking was real… and to write a report made to convince people it was all a myth, a silly fear and the imagination gone wild – well, that is truly one of the most evil disinformation campaigns I’ve seen so far.  
 
-&nbsp;
 
 # <a name="modern-urban-legend"></a>A Modern ‘Urban Legend'  
   
@@ -98,7 +94,6 @@ USIA’s Propaganda 101, Lesson One: Be a hypocrite and provide no evidence of y
 
 ​Fear of reprisal from criminal organizations? In Latin America? This is a ridiculous excuse for lack of evidence and witnesses. Who would believe such a wild claim, Todd? 
 
-&nbsp; 
   
 ## <a name="nameless-bodies"></a>Nameless bodies pile up in drug cartel violence  
   
@@ -111,25 +106,22 @@ USIA’s Propaganda 101, Lesson One: Be a hypocrite and provide no evidence of y
 >* <span class="ref">​Original Link: <https://www.nydailynews.com/news/world/nameless-bodies-pile-drug-cartel-violence-article-1.1120726></span>  
 >* <span class="ref">Archive: <https://archive.fo/fGAoq></span>  
   
-&nbsp;  
   
 ## <a name="gang-dumps-bodies"></a>Mexican drugs gang dumps 35 bodies on city highway in rush hour as they point guns at terrified drivers  
   
 >“Suspected drug traffickers drove two trucks to a main avenue in a Mexican Gulf coast city and dumped 35 dead bodies during rush hour while gunmen stood guard and pointed their weapons at frightened motorists.”  
 >  
->* <span class="ref">Original Link: <http://www.dailymail.co.uk/news/article-2039937/Mexican-drug-lords-dump-35-dead-bodies-road-wave-guns-passing-drivers.html></span>  
+>* <span class="ref">Original Link: <https://www.dailymail.co.uk/news/article-2039937/Mexican-drug-lords-dump-35-dead-bodies-road-wave-guns-passing-drivers.html></span>  
 >* <span class="ref">Archive: <https://archive.fo/b5C1g></span>  
   
-&nbsp;
 
 ## <a name="body-of-journalist"></a>Body of slain Mexican journalist found wrapped in plastic, handcuffed on side of highway  
   
 >“The body of a Mexican journalist who was kidnapped from her home by a group of armed men Monday was found handcuffed and bound, with a plastic bag wrapped around her head and dumped on the side of a highway Tuesday, according to Mexican media reports.”  
 >  
->* <span class="ref">Original Link: <http://www.mysanantonio.com/news/us-world/border-mexico/article/Body-of-slain-Mexican-journalist-found-wrapped-in-6820748.php></span>  
+>* <span class="ref">Original Link: <https://www.mysanantonio.com/news/us-world/border-mexico/article/Body-of-slain-Mexican-journalist-found-wrapped-in-6820748.php></span>  
 >* <span class="ref">Archive: <https://archive.fo/i5w1L></span>  
   
-&nbsp;
 
 ## <a name="mexico-police-suspected"></a>Mexico police suspected over deaths of 28 people found mutilated in secret grave – close to where students disappeared last week  
   
@@ -142,7 +134,6 @@ USIA’s Propaganda 101, Lesson One: Be a hypocrite and provide no evidence of y
 >* <span class="ref">Original Link: <https://www.independent.co.uk/news/world/americas/mexico-police-suspected-as-secret-grave-found-with-28-mutilated-bodies-close-to-where-students-9778310.html></span>  
 >* <span class="ref">Archive: <https://archive.fo/ZIaGz></span>  
   
-&nbsp;
 
 ## <a name="mexico-missing-students"></a>Mexico missing students: Gang members 'confess' to killing 43 in Iguala and burning their bodies  
   
@@ -155,7 +146,6 @@ USIA’s Propaganda 101, Lesson One: Be a hypocrite and provide no evidence of y
 >* <span class="ref">Original Link: <https://www.independent.co.uk/news/world/americas/mexico-student-killings-gang-members-confess-to-killing-43-in-iguala-and-burning-their-bodies-9848369.html></span>  
 >* <span class="ref">Archive: <https://archive.fo/d0HLV></span>  
   
-&nbsp;
 
 ## <a name="hiding-organ-transplants"></a>“The Impossibility of Concealing Clandestine Organ Transplants”  
   
@@ -167,12 +157,14 @@ USIA’s Propaganda 101, Lesson One: Be a hypocrite and provide no evidence of y
   
 Personally, Todd, I think there’s no “reason” someone would cover up the abuses and crimes of the plutocracy, endangering the lives of more innocent people, and by doing so be complicit in their crimes… unless they were actually complicit in those crimes. But alas, here we are.
   
-&nbsp;
+<br>
 <hr>
 <div class="bold">Archived from the International Affairs Forum:</div>
-<hr>  
-><h1 style="margin-top:20px"><a name="times-of-war"></a>​​Organ Trafficking in Times of War and Political Conflict</h1>  
-><div class="sub-head" style="margin-bottom:0px">[Nancy Scheper-Hughes]</div>
+<hr>
+<br>
+
+><h1 style="margin-top:0"><a name="times-of-war"></a>​​Organ Trafficking in Times of War and Political Conflict</h1>  
+><div class="subheader" style="margin-bottom:0px">[Nancy Scheper-Hughes]</div>
 ><small>Chancellor’s Professor, Chair of the Doctoral Program in Medical Anthropology, University of California, Berkeley. 2016</small>   
 >  
 >Today, following decades of denial, human trafficking for the removal of kidneys from the living is recognized and condemned by the global medical and transplant professions. (Ambagtsheer, F., and W. Weimar W. 2012 and 2016 ). The United Nations Convention Against Transnational Organized Crime (UN 2000a) and the Protocol to Prevent, Suppress and Punish Trafficking in Persons (UN 2000b) recognizes forced labor, sex, and human trafficking in kidneys as organized crime, a human rights abuse, and as a potential crime against humanity. The Istanbul Declaration of 2008 (Danovitch, et al, 2013; Capron and Delmonico, 2015) convened by transplant professionals from the Transplantation Society (TTS) and the International Society of Nephrology established a set of universal first principles and an international custodial group to oversee transplant laws, practices, and violations regarding human organs trafficking. Despite these prohibitions and the criminalization of human trafficking for the purpose of organ removal, the global quest for fresh organs is widespread, involving private, clandestine, and public exchanges among buyers, brokers, surgeons, and sellers from North and South, East and West (Scheper-Hughes 2003a and b; 2008, 20011a and b, 2014). It is, as I have argued elsewhere, a protected crime (Scheper-Hughes 2013).
@@ -182,14 +174,14 @@ Personally, Todd, I think there’s no “reason” someone would cover up the a
 >The motives behind the plunder of enemy bodies - for example, the violations of Palestinian enemy bodies at the National Forensic Institute of Abu Kabir in Tel Aviv and the abuses of the mentally and cognitively challenged inmates of Argentina’s National asylum as free sources of blood from the living and cornea, and heart valves and organs from the dead during and after the Argentine Dirty War - were political and military ideologies and the greed of financial corruption. In Argentina, a Nazi-like scheme to plunder the bodies of psychiatric inmates - seen as an eyesore to the fascist state - managed to supply Argentina with all the cornea and blood it needed. Blood was extracted from patients at Colonia Montes de Oca and sold to private hospitals. During the Falkland War, the blood was supplied to the military for injured soldiers and for military officials and family members who needed blood infusions. (Scheper-Hughes, 2015). Similarly, during the anti-Apartheid struggle in Cape Town, South Africa, police mortuaries piled up with the bodies of young black men killed by police, and those bodies were used as sources of tissues and other biomaterials for White South Africans. This case was similar to the allegations of organ theft by KLA militants from Serbs remaining in Kosovo and Albania at the end of the Kosovo War in 1999 (Ghia, 2011). These cases were born of contradictory motives, ranging from race hatred, retaliation, nationalist interests, the desire to display power and authority, and ordinary greed and corruption.​
 >
 ​In times of instability, severe rights abuses are conducted through the theft of illicit organs and tissues from prisoners of war, mental patients, and the unwanted dead bodies of the poor. Organs and tissues are harvested from socially and politically dead nonpersons, the Homo Sacer of the postmodern era. These acts are so abhorrent that they fall under the moral-political category of crimes against humanity: evil crimes.  
->&nbsp;  
->## <a name="mobilities"></a>Mobilities and Immobilities  
->### <a name="refugees"></a>Trafficking Syrian Refugees in Detention Camps  
+>   
+><div class="doubleHeader3"><h2><a name="mobilities"></a>Mobilities and Immobilities</h2>  
+><h3><a name="refugees"></a>Trafficking Syrian Refugees in Detention Camps</h3></div>  
 >  
 >Until fairly recently, anthropologists liked to describe the new globalized world as one in which extreme mobility, flexibility, and the free circulation of people, technologies, and capital are all regulated by world banks and world courts and aided by Doctors Without Borders. Today, however, we face a very different world, resulting from the chaos of unresolved - or unresolvable - warfare in the Middle East and its producing the tragedy of political asylum seekers in the Middle East, Africa, and Europe, alongside a rising tide of neo-Nazism in countries and places that we can hardly fathom: Denmark, of all places, Hungary, and Poland. The United States has its own “great migration,” as refugees from Honduras, one of the world’s most violent and dangerous countries, and those escaping the drug wars and vigilantes who control large swaths of Mexico, are being hunted for their kidneys.
 >
 >Since the beginning of the war in Syria, religious and cultural minorities in ISIS-controlled areas have made the trek now known as the “Great Migration” across the borders of Syria to Turkey, Lebanon, Italy, and Scandinavia by foot, bicycle, taxi, and, most notoriously, by dinghy, rafts, and “boats of wrath.” It is the bodies of the meticulously dressed toddlers washed up on the sandy shores that move the world’s indifferent citizens. Stateless people are nobody’s primary concern, not even in nations we came to think of as cosmopolitan secular humanist states, including Denmark, Hungary, Italy, and Germany. Xenophobia is raising its ugly head in Europe and the United States.  
->&nbsp; 
+> 
 >### <a name="wolf-to-man"></a>Man is Wolf to Man: An Organ Trafficker Among the Sheep  
 >  
 >In December 2015, a man named Boris Wolfman (or Volfman) was arrested in Istanbul, where he had been contacting Syrian refugees to recruit them to sell their organs to foreign transplant tourists who would be treated in one of the several private transplant units in Turkish hospitals. Wolfman was a fugitive wanted in Israel, where he had been indicted for setting up illegal transplant operations in shadowy clinics in Kosovo, Azerbaijan, Sri Lanka, and other locations for international transplant patients willing to pay upwards of $100,000 for an illegal transplant with a kidney from an anonymous trafficked person.
@@ -201,7 +193,7 @@ Personally, Todd, I think there’s no “reason” someone would cover up the a
 >At the beginning of the latest political conflict in Syria, I was contacted by a political refugee in the Bay Area of California to obtain political asylum following a kidney removal at the famous Cleveland Clinic Transplant unit. Salah X. was a bonded servant to a royal family in Qatar, who, in the last year of his bonded servitude, was taken to the United States without his knowledge of what he would be doing there for the family. Upon arrival, he was told that he would be providing a kidney to a member of the royal family related to his boss. The Cleveland clinic paid no attention to Salah’s panic and his attempt to leave the hospital surgical ward. The kidney removal proceeded without the man’s consent. He refused to return to Qatar and, with the help of a lawyer, filed a petition for political asylum based on his fears of retribution from his employer and his status in Syria as a political minority, a Druze cleric. I wrote a deposition based on copies of Salah’s medical records. He was, however, denied political asylum, and he disappeared from the radar.  
 >  
 >As for Boris Wolfman, I am told from inside sources that he is in custody in Israel. Syrians continue to be targets of other brokers from other countries, even in the United States. Boris’s unfortunate surname evokes the ancient Roman Latin proverb, Homo homini lupus: "A man is a wolf to man."  
->&nbsp;  
+>  
 >### <a name="isis-trafficking"></a>ISIS and Allegations of Organ Trafficking  
 >  
 >In March 2015, I was bombarded by telephone calls from CNN and other international news services to comment on allegations by the Iraqi ambassador to the UN, Mohamed Alhakim, who, at a special meeting with the UN Security Counsel, called on the Counsel to investigate the deaths of 12 doctors in Mosul, Iraq. He said they were killed after refusing to remove organs from the bodies of captives held by ISIS. “Some of the bodies we found are mutilated... and [body] parts are missing” (Sanchez 2015). According to the UN ambassador, bodies were exhumed from shallow graves in an undisclosed location in Iraq and were missing kidneys and other organs. "We have bodies,” he said. “Come and examine them.” These allegations followed earlier international reports that ISIS had opened a medical school in its main stronghold in Syria and that doctors there had been forced to remove organs from prisoners of war, including Iraqis across religious and ethnic divides: Sunni, Shia, Christian, and Turkman. There were also reports of ​medicalized executions by ISIS during which transplant organs were taken. This would be similar to the medicalized executions of prisoners (many of them allegedly political prisoners) in China who were and continue to be harvested. Reports that ISIS was using organs as an additional source of income and simultaneously as a display of power (like beheadings) were also being considered.
@@ -209,7 +201,7 @@ Personally, Todd, I think there’s no “reason” someone would cover up the a
 >When asked by CNN to comment on these reports, I took a deep breath, thinking that this was perhaps one battle in which I did not wish to be involved. Nonetheless, I commented that the demand for organs and tissues was insatiable (Sanchez 2015).
 >
 >Similar cases include the allegations by the Council of Europe (Marty, 2010) of kidnapping, murder, and medicalized executions with kidney removal of political prisoners—Serbs and other minorities in Kosovo—in secret detention camps in Kosovo and Albania at the end of the Kosovo War. During initial United Nations Mission in Kosovo (UNMIK) investigations, witnesses testified that kidneys were removed during executions and flown to Turkey. Some witnesses were murdered, forensic data were lost or destroyed, and the investigations were interrupted. In September 2011, the Chief Prosecutor, Clint Williamson of the Special Investigative Task Force (SITF), concluded that a small number of these cases could be substantiated. Today, EU prosecutor David Schweindeman is leading a bicameral tribunal with the government of Kosovo on war crimes committed by the KLA, including harvesting organs from prisoners of war (Vukusic, 2016).  
->&nbsp;
+>
 >### <a name="dangerous-rumors"></a>Dangerous Rumors  
 >  
 >Trafficking for organs is not uncommon in war zones, areas dealing with political conflict, transitional states, and regions suffering from natural disasters, like the earthquakes in Turkey and Haiti. These conditions create public chaos, which provides a cover for illegal harvesting and plundering of the bodies of the dead. However, at the same time, these conditions can stir up rumors of organ harvesting, without any forensic evidence. Of course, some of these allegations are false, based on moral panic, posttraumatic stress disorder, and the anxieties and worst fears of vulnerable populations and ethnic groups. For many marginalized populations across the world who have experienced the disappearances of their loved ones, and to whom almost anything could be done, even the theft of organs, the fears are based on a real sense of existential insecurity.
@@ -217,7 +209,7 @@ Personally, Todd, I think there’s no “reason” someone would cover up the a
 >There were, for example, allegations of illegal organ harvesting by the Israeli humanitarian field clinic set up in Haiti following the 2010 earthquake. A spokesperson for the U.K. Liberal Democratic Party called for a parliamentary investigation of the allegations, which were later dismissed as political propaganda from Iran and Palestine (Leyden, 2010). However, these rumors were actually fueled by the presence in Haiti of both U.S. and Israeli religious organizations that proposed airlifts and adoptions by foreign families of the alleged "tens of thousands of Haitian children" orphaned by the earthquake. Organ theft and child theft are often linked in rumors. In this instance, speculation was fueled by humanitarian interventions to rescue children whose parents were wrongly presumed to be dead in the initial chaos.
 ​>
 >Rumors of organ stealing have led to mob lynching of foreigners suspected of adopting poor and disabled children for their organs. Several of these rumors led to violence and international diplomatic problems in Central America and Moldova in the early 2000s. As recently as 2014 in Sao Paulo, Brazil, a woman was attacked and killed by a mob after her photo was posted on Facebook alleging that she was kidnapping stray children with the intent to kill them for their organs.  
->&nbsp;
+>
 >### <a name="borderlands"></a>​U.S.-Mexico Borderlands and Drug and Organs Trafficking  
 >  
 >Along the U.S. border with Mexico, a string of barrier fences was signed into law by George W. Bush and extends almost 700 miles. Whereas a great migration came from war-torn countries in the Middle East into Europe, Baja, California has war-ravaged refugees from the drug cartel–infested states of Sinaloa and Michoacán. In 2010, I contacted FBI agents about a private hospital in Baja where illegal transplants for North Americans were taking place. I also told them about a Mexican refuge, Adriana Gil, who contacted me through her partner for help in filing her complaints of kidnapping, torture, sex slavery, and child trafficking for organs at the hands of a brutal drug cartel. Then living in Riverside County in Southern California, I agreed to meet with them on the campus of UC Riverside. The story seemed outrageous, one that, under ordinary circumstances, I would have rejected at the outset. Perhaps the woman was suffering from recovered memories of some kind of trauma, but what would motivate her to call Organs Watch to go public and put herself in danger of deportation? She said that she wanted the truth to be known and for the horrendous crimes to stop.
@@ -231,10 +223,10 @@ Personally, Todd, I think there’s no “reason” someone would cover up the a
 >After my interviews with Adriana Gil, I contacted FBI agents assigned to cover the California and Mexico borderlands for human trafficking by drug cartels. I shared with the young FBI agents (with Adriana’s permission) the story of Mexico-U.S. borderland drug cartels involved in organ harvesting from children. The investigators said that they did not have the tools, the support team, or the resources to investigate Adriana’s gruesome testimony. They were convinced that it was a likely scenario, but they did not have the resources to tackle it. So, instead, I worked with a Hollywood film company that produced a second-class social thriller, the film “Inhale,” staring Sam Shepard, which was based in part on Adriana’s allegations. As I stated above, in the Organs Watch project, the real, the unreal, and the uncanny often collide.
 >
 >Thus, I was not surprised when in March 2014, Manuel Plancar Gaspar, a member of a drug gang known as the Knights Templar (Los Caballeros Templarios) was arrested and detained by Carlos Castellanos Becerra, the head of Seguridad Pública, in the state of Michoacán on charges of ​kidnapping children for the purpose of selling their organs. Gaspar was identified as the leader of the cartel’s organ trafficking ring.  
->&nbsp;
+>
 >### <a name="body-of-the-enemy"></a>ISIS Decrees on The Right and The Duty to Kill and to Cannibalize the Body of the Enemy, the Infidels and Apostates  
 >  
->In the wake of allegations of executions, beheadings, and organ harvesting of kidnapped persons by ISIS forces in Iraq and Syria, one of our UC Berkeley anthropological graduate students, Khashayar Beigi, came across the website of Jihadica last February (2014) where a number of fatwas bearing ISIS insignia have been collected by a team of academicians and researchers (http://www.jihadica.com/32-islamic-state-fatwas/).
+>In the wake of allegations of executions, beheadings, and organ harvesting of kidnapped persons by ISIS forces in Iraq and Syria, one of our UC Berkeley anthropological graduate students, Khashayar Beigi, came across the website of Jihadica last February (2014) where a number of fatwas bearing ISIS insignia have been collected by a team of academicians and researchers (https://www.jihadica.com/32-islamic-state-fatwas/).
 >
 >Mostly originating from Yemen, many of these fatwas were circulated by cell phones and Twitter. These fatwas informed ISIS combatants that harvesting organs from the bodies of the enemy-infidel or removing organs from living apostates, even if this might cause their death, was permissible. The fatwas neither prove nor disprove the allegations made by the UN ambassador, but they do cast light on ISIS militants’ use of ancient and classic Islamic texts in fatwas bearing on the current wars in the Middle East. Fatwas are traditional religious decrees delivered in response to a pressing question or problem without precedence in Islamic jurisprudence. Many of the ISIS fatwas seem to deal with the administration and adjudication of a vast range of everyday life matters, such as marital arrangements, inherited property, and the permissibility of sports. However, some of the fatwas clearly show a direct engagement with inquiries specific to exceptional circumstances in the context of current wars and struggles.
 >
@@ -243,7 +235,7 @@ Personally, Todd, I think there’s no “reason” someone would cover up the a
 >Among the fatwas posted online were many concerned with medical circumstances during war, such as the shortage of doctors and the use of enemy bodies and organs for life-saving measures. A partial translation of the ISIS fatwa on organ transplant shows not only that bodies are being held captive in the current wars in the Middle East, but also that medical, moral, and theological teachings on life and death are being reshaped forcefully. In contrast to secular courts of law, fatwas are not binding rules unless a Muslim chooses to follow them. So, rather than seeing ISIS fatwas as enforcing individual actions or moral judgments by the religious authorities who release them, one can study fatwas as religious expert pronouncements that can shed light on the social, historical, and political circumstances in which ancient religious traditions and reasoning are applied to current social and political realities. For example, terms such as "the constrained person" (modhtar) or a “person living in exceptional times and circumstances” (idhtar) are used in fatwas to convey that the person or the subject of the fatwa is concerned with emergencies that might require a new religious decree. The application of these terms to organ harvesting during the current wartime violence and medical needs in ISIS-ruled territories shows the way in which analogical reasoning and ancient precedents drawn from traditional Islamic jurisprudence can justify cannibalizing the bodies of infidels and apostates.
 >
 The violence and chaos of war, parallel to the unleashing forces of death and destruction on the ground by the states, ripple into the centuries-old fabric of Islamic medical practices - ancient codes of warfare and religious reasoning. These fatwas are forensic pronouncements on medical practices, religious traditions, and wartime conducts from the perspective of moral, theological, ​and military institutions. The fatwas seeped into the desolate wartime landscapes of amputated limbs, extracted organs, bombed residences, and beheaded corpses scattered in the battlefields of Iraq and Syria. What is being held captive in these ISIS fatwas, in addition to the bodies of political prisoners, is the normal space of intelligibility, moral reasoning, and moral conduct of Islamic jurisprudence. Fatwa No. 68 is translated by Khashayar Beigi (below).  
->nss  
+>
 >### <a name="fatwa-68"></a>Fatwa No. 68  
 >
 > Question: Is it permitted to take organs of the captive apostate for those Muslims in need of it?
@@ -260,7 +252,7 @@ Answer: There is no doubt that Muslim hospitals are overwhelmed with illnesses a
 >In short, the cannibalization of the infidel is permissible in times of war when destroyed bodies and limbs are scattered on the fields. War is hell, and under these extreme conditions when Muslim soldiers are famished in the desert, losing blood, and needing surgery, the right to life means that the body of the enemy—the apostate or the infidel—can be used to supply food, blood, and organs.
 >
 >It is an argument that resonates with the demands made by those individuals of all religions who travel abroad to purchase “spare” kidneys from the poor, the destitute, the displaced, and the wretched of the earth, to make themselves whole. I have applied the word “neo-cannibalism” to all illicit transplants based on the exploitation of strangers who in the minds of the buyer are mere “things” (organs) from the bodies of people who do not count, and who might as well be “infidels.”  
->&nbsp;
+>
 >### <a name="biopiracy"></a>The Body of the Terrorist: Biopiracy at the Israeli Forensic Institute at Abu Kabir, Tel Aviv  
 >  
 >There was trophy collecting of skinned tattoos taken from the bodies of Russian new immigrants and from prisoners. Tattoos were an oddity in Israel, where they are still associated with the Shoah. But, there was also a taint of suspicion about the new immigrants from the former Soviet ​bloc states, who were privately suspected of being economic refugees rather than cultural refugees, claiming a tenuous-at-best Jewish identity. As explained by Dr. Hiss, the director of the Israeli Forensic Institute, eye globes were taken from the heads and sheets of skin were taken from the backs of Palestinian combatants whose bodies would be returned to their family members in tightly bound sheets and with eyes glued shut to avoid detection. But some family members (as in the case of South Africa) carefully uncovered and inspected their "war" dead and were horrified at seeing the second death to which their loved ones had been subjected.
@@ -304,7 +296,7 @@ Answer: There is no doubt that Muslim hospitals are overwhelmed with illnesses a
 The turnabout began in mid-December 2009, when I called Donald Bostrom in Sweden. He picked up the phone and heard the voice of a stranger saying, “My name is Nancy Scheper-Hughes, and your story in the Swedish newspaper is true.” “Who is this person that is speaking?” Boström asked. Boström said that when I qualified who I was and said, “I have the evidence, an hour taped interview with Dr. Jehuda Hiss admitting that he was harvesting organs, tissues, skin, long bones and other body parts that were stockpiled and sold that will play tomorrow, December 1, on Channel 2 news in Israel,” he collapsed with relief. Subsequently, Dr. Kugel and I presented a scientific paper in Vienna, and Jared Cohen invited Kugel, Boström, and myself to a Google Ideas conference on Illicit Networks.
 >
 >Meanwhile, the Ministry of Health and the Israeli government concluded their own internal investigations that led to the forced retirement of Yehuda Hess and the unanticipated appointment of Dr. Chen Kugel as his successor.  
->&nbsp;
+>
 >### <a name="one-body"></a>One Body  
 >  
 >“The dead body has rights and a dignity of its own,” Kugel said firmly as he took my Israeli colleague, anthropologist Meir Weiss, and my research assistant, Zvika, on a private tour of the “new” Forensic Institute and Ministry of Health, including a visit to the forensic morgue in the basement of Abu Kabir in 2013, now under his direction. “Other mistakes or bad things may happen here, as in any forensic institution,” Kugel said as he rolled out a dead body from its refrigerated cubby. “But these bodies under my care will be safe from illicit harvesting. It won’t matter if they are Jewish bodies, Muslim bodies, Christian bodies, Israeli bodies, or Palestinian bodies, foreign guest worker bodies, or Russian bodies. There is only one body here, and they are all treated in the same way.”
@@ -315,31 +307,33 @@ The turnabout began in mid-December 2009, when I called Donald Bostrom in Sweden
 >
 >The allegations against ISIS may be false, based on rumors and the worst fears of what can possibly happen to the enemy-combatant. They may have even been invented by the ISIS propaganda machine. Nonetheless, the wanton harvesting of the dead bodies of the enemy is not only a war crime or a crime against humanity in which normative morality is suspended. It may signal a dangerous hour for humanity when in the words of Jan Gross (2001) writing about the systematic butchery, torture, and burning alive of 1,600 Jewish men, women, and children in the Polish town of Jedwabne on July 10, 1941 "the devil enters history.”  
 ><hr>  
->[click here to skip past references](#child-organ-trafficking)   
+>[click here to skip past references](#child-organ-trafficking)  
+><hr>  
+><h3 style="margin-top:0"><a name="references-notes"></a>References & Author Notes</h3>
 ><small>[1] Like Boström, I was greeted on an Organs Watch visit to Israel in 2003 with an ugly headline and centerfold ("New Blood Libel on French TV: Israel Steals Kidneys of Orphan Children in Moldova") in Makor Rishon, a right-wing tabloid. The feature story reviewed a TV documentary by French filmmaker Catherine Bentellier, "Kidneys Worth Their Weight in Gold," that followed my research in Moldova, Turkey, and Israel. In Moldova, we interviewed people in villages that had been ravaged by human traffickers recruiting young men to Turkey, the Ukraine, and Georgia to provide kidneys to Israeli transplant patients. The "blood libel" accusation featured medieval woodcuts and a blurry photo of me holding the hand of a Moldovan orphan in his crib, during which I described the scandal of kidney selling in Moldova and its links to child trafficking that were sometimes merged in journalistic stories (as they had been in Brazil).</small>  
 ><hr> 
-><span class="gray bold small">Acknowledgments:</span>  
+><span class="dark-gray bold small">Acknowledgments:</span>  
 ><small>This paper is a longer version of a paper delivered at the 4th ELPAT Congress in Rome, April 22–25, 2016. ELPAT is the movement for Ethical, Legal and Psychosocial Aspects of Transplant. The paper draws on my article “Terrorist Necropolitics: Allegations of Organ Theft of Executed Captives by ISIS Through An Anthropological Perspective, Harvard International Review, July 28, 2015
-<a href="http://hir.harvard.edu/terrorist-necropolitics-allegations-of-organ-theft-of-executed-captives-by-isis-through-an-anthropological-perspective/">http://hir.harvard.edu/terrorist-necropolitics-allegations-of-organ-theft-of-executed-captives-by-isis-through-an-anthropological-perspective/</a></small>  
+<a href="https://hir.harvard.edu/terrorist-necropolitics-allegations-of-organ-theft-of-executed-captives-by-isis-through-an-anthropological-perspective/">https://hir.harvard.edu/terrorist-necropolitics-allegations-of-organ-theft-of-executed-captives-by-isis-through-an-anthropological-perspective/</a></small>  
 ><hr>  
-><small><span class="gray bold">Nancy Scheper-Hughes</span> is the Chancellor’s Professor of Medical Anthropology at the University of California, Berkeley where she directs the doctoral program in Critical Studies in Medicine, Science, and the Body. In 1999, Scheper-Hughes co-founded Organs Watch, an anthropological medical human rights research and documentation project, with Professor Lawrence Cohen. Their goal was to map and study as field anthropologists the spread of global illicit networks of ‘transplant tourism’ involving human trafficking of persons for organ removal. Working closely on site with local medical and anthropological field assistants, investigative journalists, documentary film makers, human rights workers, police and prosecutors, Scheper-Hughes collaborated with governmental investigations and prosecutions of international trafficking schemes in several countries. She was a member of the Bellagio Task Force and the Asian Task Force on organs trafficking as well as a consultant with the WHO, the UN Office on Drugs, Crime and Human Trafficking, a member of the Istanbul Summit and co-signer of the Istanbul Declaration on Organ Trafficking and Commerce. She has written over 50 medical and scholarly chapters, articles and essays on the topic of human trafficking for organs from the living and the dead, its structures of violence and its consequences applying anthropological, theoretical, psychological, and human rights perspectives. She is the co-editor of Violence in War and Peace (Wiley- Blackwell), Commodified Bodies (Sage), of Medical Migrations (Body and Society) and most recently, on Violence at the Urban Margins (Oxford University Press). She is the recipient of several book awards and prizes.</small>  
+><span class="dark-gray bold">Nancy Scheper-Hughes</span><small> is the Chancellor’s Professor of Medical Anthropology at the University of California, Berkeley where she directs the doctoral program in Critical Studies in Medicine, Science, and the Body. In 1999, Scheper-Hughes co-founded Organs Watch, an anthropological medical human rights research and documentation project, with Professor Lawrence Cohen. Their goal was to map and study as field anthropologists the spread of global illicit networks of ‘transplant tourism’ involving human trafficking of persons for organ removal. Working closely on site with local medical and anthropological field assistants, investigative journalists, documentary film makers, human rights workers, police and prosecutors, Scheper-Hughes collaborated with governmental investigations and prosecutions of international trafficking schemes in several countries. She was a member of the Bellagio Task Force and the Asian Task Force on organs trafficking as well as a consultant with the WHO, the UN Office on Drugs, Crime and Human Trafficking, a member of the Istanbul Summit and co-signer of the Istanbul Declaration on Organ Trafficking and Commerce. She has written over 50 medical and scholarly chapters, articles and essays on the topic of human trafficking for organs from the living and the dead, its structures of violence and its consequences applying anthropological, theoretical, psychological, and human rights perspectives. She is the co-editor of Violence in War and Peace (Wiley- Blackwell), Commodified Bodies (Sage), of Medical Migrations (Body and Society) and most recently, on Violence at the Urban Margins (Oxford University Press). She is the recipient of several book awards and prizes.</small>  
 ><hr>  
-><small>References (​Organ Trafficking in Times of War and Political Conflict)</small> 
+><span class="dark-gray bold">References (​Organ Trafficking in Times of War and Political Conflict)</span>
 >* <small>Agamben, Giorgio. 1998. Homo Sacer: Sovereign Power and Bare Life. Stanford University Press.</small>
 >* <small>Allain, J. 2011. Trafficking of persons for the removal of organs and the admission of guilt of a South African Hospital. Med Law Review 19(1): 117–122.</small>
->* <small>Aliu, Fatmir. 2012. Medicus Clinic was “part of wider crime syndicate.” Interview with Nancy Scheper-Hughes. Balkan Insight. September 14. Retrieved at: <http://www.balkaninsight.com/en/article/medicus-clinic-was-part-of-wider-crimesyndicate/>   1425/6</small>
+>* <small>Aliu, Fatmir. 2012. Medicus Clinic was “part of wider crime syndicate.” Interview with Nancy Scheper-Hughes. Balkan Insight. September 14. Retrieved at: https://www.balkaninsight.com/en/article/medicus-clinic-was-part-of-wider-crimesyndicate/>   1425/6</small
 >* <small>Ambagtsheer, F., and W. Weimar W. 2012. A criminological perspective: why prohibition of organ trade is not effective and how the Declaration of Istanbul can move forward. Am J Transplant 12(3): 571–575.</small>
 >* <small>Ambagtsheer, F., and W. Weimar (eds) . 2016. Trafficking in Human Beings for the Purpose of Organ Removal: Results and Recommendations. The HOTT Project. Lengerich: Pabst Science Publishers</small>
 >* <small>Caplan, Alexander and Francis Delmonico. 2015. Preventing Trafficking in Organs for Transplantation: An Important Facet of the Fight Against Human Trafficking . Journal of Human Trafficking: 1(1): 56-64.</small>
 >* <small>Campion-Vincent, V., and N. Scheper-Hughes. 2001. On organ theft narratives. Curr Anthropol 42(4): 555–558.</small>
 >* <small>Danovitch, G., et al. 2013. Organ trafficking and transplant tourism: the role of global professional ethical standards—the 2008 Declaration of Istanbul. Transplant 95(11).</small>
->* <small>Ghia, Riccardo M. 2011. Organ trafficking in Kosovo: a word with Nancy Scheper-Hughes. Bright: Organising Media against Organised Crime. Retrieved at: ​<http://flarenetwork.org/report/enquiries/article/organ_trafficking_in_kosovo_a_german_connection.htm></small>
+>* <small>Ghia, Riccardo M. 2011. Organ trafficking in Kosovo: a word with Nancy Scheper-Hughes. Bright: Organising Media against Organised Crime. Retrieved at: ​https://flarenetwork.org/report/enquiries/article/organ_trafficking_in_kosovo_a_german_connection.htm</small>
 >* <small>Gross, Jan. (2001). Neighbors: The Destruction of the Jewish Community in Jedwabne. Princeton University Press.</small>
 >* <small>Harrison, Simon. 2013. Dark Trophies: Hunting the Enemy Body in Modern War. Berghahn Press.</small>
 >* <small>Leyden, Joel. 2010. Did the Israel Defense Forces IDF Steal Human Organs in Haiti? 2010. Israel News Agency, March 20.</small>
 >* <small>Levi, Primo. 1959 (2010). Survival at Auschwitz. New York: Orion Press</small>
->* <small>Putz, Ulrike. Syrian Refugees Sell Organs to Survive. December 11, 2013. Spiegel online <http://www.spiegel.de/international/world/organ-trade-thrives-among-desperate-syrian-refugees-in-lebanon-a-933228-druck.htm></small>
->* <small>Sanchez, Ray. 2015. “United Nations investigates claim of ISIS organ theft” online <http://www.cnn.com/2015/02/18/middleeast/isis-organ-harvesting-claim/index.html></small>
+>* <small>Putz, Ulrike. Syrian Refugees Sell Organs to Survive. December 11, 2013. Spiegel online https://www.spiegel.de/international/world/organ-trade-thrives-among-desperate-syrian-refugees-in-lebanon-a-933228-druck.htm</small>
+>* <small>Sanchez, Ray. 2015. “United Nations investigates claim of ISIS organ theft” online https://www.cnn.com/2015/02/18/middleeast/isis-organ-harvesting-claim/index.html</small>
 >* <small>Scheper-Hughes, Nancy. 2003a. Keeping an eye on the global traffic in human organs. The Lancet 361: 1645– 1648.</small>
 >* <small>———. 2003b. Rotten trade: millennial capitalism, human values, and global justice in organs trafficking. J Hum Rights 2(2): 197–226.</small>
 >* <small>———. 2006. Alistair Cooke’s bones: a morality tale. Anthropol Today 22(6): 3–8.</small>
@@ -355,18 +349,13 @@ The turnabout began in mid-December 2009, when I called Donald Bostrom in Sweden
 >* <small>UN (United Nations). 2000a. United Nations Conventions Against Transnational Organized Crime. ———. 2000b. Protocol</small>
 >* <small>Vukusic, Iva. 2016. Kosovo War Court Prosecutor Promises ‘Fearless’ Probes’. Balkan Transitional Justice, September 1, 2016.</small>​  
   
-&nbsp;
-
 <h1><a name="child-organ-trafficking"></a>The Child Organ Trafficking Rumor</h1>
 <hr>
 <div class="bold">A Report Submitted to the United Nations Special Rapporteur on the Sale of Children, Child Prostitution, and Child Pornography</div>  
-<div class="gray bold"><small>by Todd Leventhal, United States Information Agency, Washington D.C., 1994</small></div>
+<div class="dark-gray bold" style="margin-bottom:10px"><small>by Todd Leventhal, United States Information Agency, Washington D.C., 1994</small></div>
 <hr> 
- 
-http://archive.is/5bnS9
-
- 
->EXECUTIVE SUMMARY
+  
+><h2 style="margin-top:5px"><a name="summary"></a>EXECUTIVE SUMMARY</h2>  
 >Since January 1987, rumors that children are being kidnapped so that they can be used as unwilling donors in organ transplants have been rampant in the world media. No government, international body, non-governmental organization, or investigative journalist has ever produced any credible evidence to substantiate this story, however. Instead, there is every reason to believe that the child organ trafficking rumor is a modern "urban legend," a false story that is commonly believed because it encapsulates, in story form, widespread anxieties about modern life.  
 >  
 >Organ transplant experts agree that it would be impossible to successfully conceal any clandestine murder-for-organ-trafficking ring. Because of the large number of people who must be involved in an organ transplant, the sophisticated medical technology needed to conduct such operations, the extremely short amount of time that organs remain viable for transplant, and the abhorrent nature of the alleged activities, such operations could neither be organized clandestinely nor be kept secret. Despite the impossibility of such practices occurring, and the fact that no credible evidence has ever been produced to substantiate rumors of such activities, the child organ trafficking myth has attained unprecedented credibility during the past year. It was given credence in British/Canadian and French television documentaries, a book published in Spain, a paper by the director of the World Organization Against Torture, a resolution by the European Parliament, numerous press articles, and the January 14, 1994 report of the U.N. Special Rapporteur on the Sale of Children, Child Prostitution, and Child Pornography. None of these sources contains any credible evidence of child organ trafficking, however.  
@@ -393,13 +382,13 @@ http://archive.is/5bnS9
 >  
 >Given the total lack of evidence for the child organ trafficking myth, its impossibility from a technical point of view, and the widespread, serious damage that it has already caused and is likely to cause in the future, the United States Information Agency respectfully requests that the U.N. Special Rapporteur give maximum attention and publicity to the information in this report, which demonstrates the groundlessness of reports of child organ trafficking and the impossibility of such practices occurring. Otherwise, more innocent people may become victims of this deadly rumor.     
 >
->INTRODUCTION  
+>## <a name="intro"></a>INTRODUCTION  
 >  
 >The United States Information Agency (USIA) welcomes the opportunity to respond to the request of the U.N. Special Rapporteur on the Sale of Children, Child Prostitution, and Child Pornography for material to assist him in preparing his upcoming report to the U.N. Human Rights Commission. In its reply, the United States Information Agency wishes to draw special attention to one aspect of the Special Rapporteur's area of inquiry: the alleged sale of children for the purpose of organ transplantation.  
 >  
 >The U.S. Information Agency has investigated allegations of trafficking in children's organs since these charges first appeared in the world press in January 1987. In addition to its own investigations, the U.S. Information Agency has also attempted to learn about the results of examinations of this issue by intergovernmental bodies such as the United Nations and the European Parliament, and by other governments, non-governmental organizations, and investigative journalists. Despite almost eight years of exhaustive inquiries involving numerous allegations, the U.S. Information Agency is not aware of any credible evidence produced by any of these investigations that indicates that any trafficking in children's organs has ever occurred. On the contrary, all the information points to the opposite conclusion: that allegations of trafficking in children's organs are a totally unfounded myth. In examining this issue, the U.S. Information Agency has not restricted its interest to claims of trafficking in children's organs allegedly involving U.S. citizens, but rather has sought to establish whether there is any truth to any of the child organ trafficking reports, regardless of whether or not they involve U.S. citizens. As stated above, we are not aware of any credible evidence that would indicate that trafficking in children's organs is a real phenomenon.  
->  
->A MODERN "URBAN LEGEND"  
+>
+>## <a name="legend"></a>A MODERN "URBAN LEGEND"   
 >  
 >Rumors of child organ trafficking appear to be a modern "urban legend," a false story that is
 >commonly believed despite the total lack of evidence for it because it encapsulates, in story form, widespread anxieties about modern life. Many present-day urban legends revolve around fears of modern technology. For example, apprehensions about microwave ovens gave rise to the widely believed tale about the person who tried to dry a wet dog in a microwave oven, only to have it explode! Another postulates that the oil companies have invented a super-efficient carburetor that enables cars to drive enormous distances on a tiny amount of gasoline, but are preventing this invention from being sold in order to maintain their sales. Despite the lack of evidence for these urban legends, and the fact that they are insupportable when subjected to rational scrutiny, these myths achieve their credibility because they give voice, form, and substance to unarticulated anxieties or suspicions.  
@@ -421,8 +410,8 @@ http://archive.is/5bnS9
 >is a new -- updated and technologized -- version of an immemorial fable. The core of the fable is that a group's children are being kidnapped and murdered by evil outsiders.  
 >  
 >Accusations of such kidnappings and ritual murders were made against Christians in ancient Rome [and against] Jews throughout antiquity, the Middle Ages, and up to modern times.... Child abductions in 18th century France were explained by ailing nobility who needed them for medical reasons: the leprous King needed blood baths, or a mutilated Prince needed a new arm which incompetent surgeons were trying each day to graft from a new kidnapped child.  
->  
->THE RUMOR ENTERS THE WORLD PRESS  
+>
+>## <a name="world-press"></a>THE RUMOR ENTERS THE WORLD PRESS  
 >  
 >Folklorists have instantly recognized the child organ trafficking myth for what it is -- a modern urban legend that is widely believed despite the fact that it is not true. But, in 1987, the child organ trafficking myth escaped from the usual realm of folklore, which is passed by word-of-mouth, and began to appear in the mass media worldwide.  
 >  
@@ -433,8 +422,8 @@ http://archive.is/5bnS9
 >Occasional disinformation -- deliberate lies or distortions undertaken for a political purpose -- still occurs. The Cubans continue to press the child organ trafficking story, having repeatedly tried to introduce resolutions on this issue in U.N. human rights meetings. One formerly Soviet-controlled front group, the International Association of Democratic Lawyers, has continued to try to foster the rumor, particularly through its status as a non-governmental organization accredited to the United Nations. In addition, some anti-U.S. extremists, from the far left in some countries and the far right in other countries, have embraced the rumor enthusiastically, perhaps because it fits with their anti- U.S. political agenda.  
 >  
 >Although political motivations have been responsible for some of the more spectacular outbursts of the child organ trafficking rumor, for the most part, the rumor has been embraced and spread by well-meaning individuals who believe it out of naivete or worry that it may be true. Tragically, the publicity these well-intentioned individuals have given the rumor by deploring a non-existent crime has inadvertently contributed to its credibility and the resultant damage it has done. At this point, the rumor has attained such currency that it appears certain to continue on the strength of its own momentum for years to come.  
->  
->THE RUMOR'S ADVERSE EFFECTS  
+>
+>## <a name="adverse-effects"></a>THE RUMOR'S ADVERSE EFFECTS 
 >  
 >The continued circulation of unfounded child organ trafficking rumors has done great harm in a number of ways. Most dramatically, it led to unprovoked, violent attacks on U.S. citizens and others in Guatemala during March and April 1994. On March 8, a mob in the Guatemalan town of Santa Lucia Cotzumalaguapa burned the police station in which an U.S. woman wrongly suspected of kidnapping a child for organ trafficking, Melissa Larson, had been held. The mob resisted the efforts of several hundred riot police and was not quieted until army troops and armored vehicles arrived to restore order. Fortunately, Ms. Larson was not harmed.  
 >  
@@ -459,14 +448,14 @@ http://archive.is/5bnS9
 >This has already happened with regard to the donation of corneas, which are tissues, not organs. After false charges of cornea theft in Colombia were publicized in a French television program in November 1993, cornea donations in Colombia plummeted, decreasing by 90 percent, according to the Pan-American Association of Eye Banks. Prior to the broadcast of the false charges, cornea donations in Colombia averaged 94 per month, but dropped to 8 to 10 per month after the program. As a result, the list of people in Colombia waiting to have their eyesight restored by corneal transplants increased from 250 to 878. Even if false charges of child organ trafficking cause a decrease in organ donation that is less precipitous, precious lives will be lost unnecessarily. In the view of the U.S. Information Agency, the extremely adverse effects of this rumor, particularly those involving violent attacks on innocent bystanders and the potential loss of life from decreased organ donation, impose severe moral constraints on those who are inclined to repeat these rumors uncritically.  
 >  
 >Before the attacks in March and April 1994, it was plausible, although, in the opinion of the U.S. Information Agency, incorrect to argue that the greater good was served by calling attention to these rumors, even if they could not be confirmed. This approach entailed serious risks, however. Regrettably, the unjustified credibility given to child organ trafficking rumors by journalists, government officials in several countries, several non-governmental organizations (in particular, the International Association of Democratic Lawyers), the European Parliament, and the U.N. Special Rapporteur may well have played a significant role in creating the atmosphere that led to violent attacks on U.S. citizens and others in Guatemala in 1994. Moreover, the threat of further unwarranted attacks and of premature deaths due to decreased organ donations remains ever present. Given the violence that this false rumor has caused and the serious threat that it poses to the extremely fragile system of voluntary organ donation, the U.S. Information Agency believes that it is incumbent upon all observers, in particular the Special Rapporteur, to subject allegations of child organ trafficking to the most careful and skeptical scrutiny.  
->  
->1993-1994: THE RUMOR ATTAINS UNPRECEDENTED CREDIBILITY  
+>
+>## <a name="credibility"></a>1993-1994: THE RUMOR ATTAINS UNPRECEDENTED CREDIBILITY  
 >  
 >The need for objective and responsible reporting on this issue has never been greater in light of the unprecedented credibility that the child organ trafficking rumor has achieved during the past year. Since September 1993, the rumor has been given credence in British/Canadian and French television documentaries, a book published in Spain, a paper presented by the director of the World Organization Against Torture, a resolution by the European Parliament, numerous press articles, and the January 14, 1994 report of the Special Rapporteur, which claimed that there is "mounting evidence of a market for children's organs." (E/CN.4/1994/84, page 23).  
 >  
 >The U.S. Information Agency has examined the allegations made in all of these television programs, books, reports, and resolutions, and has found no credible evidence of child organ trafficking in any of them. A detailed examination of each item follows.  
->  
->"THE BODY PARTS BUSINESS"  
+>
+>## <a name="body-parts"></a>"THE BODY PARTS BUSINESS"  
 >  
 >The British/Canadian television program "The Body Parts Business" was broadcast in Britain on November 21, 1993 and in Canada on November 22, 1993. It was produced by Judy Jackson of Alma Associates Ontario Ltd. in Toronto, Canada, and narrated by Bruce Harris, who works for Covenant House in Central America. The program was funded by the British Broadcasting Corporation, the Canadian Broadcasting Corporation, and the Canadian National Film Board.  
 >  
@@ -517,8 +506,8 @@ http://archive.is/5bnS9
 >The final section of "The Body Parts Business" deals with Russia and uncritically cites a Russian police lieutenant who believes that people have been kidnapped for organ transplantation, although he admits that he has no evidence for this. The program does not mention that false rumors of child organ trafficking have been widespread in Russia since the Soviet disinformation campaign on this issue in 1987 and 1988, and fails to point out that organ trafficking claims need to be evaluated with this fact in mind.  
 >  
 >In sum, the most sensational revelations in "The Body Parts Business" turn out, on closer examination, to be mistakes or apparent fabrications. Like all other examinations of this issue, it contains no credible evidence of child organ trafficking.  
->  
->"ORGAN SNATCHERS"  
+>
+>## <a name="organ-snatchers"></a>"ORGAN SNATCHERS"  
 >  
 >A French television documentary "Organ Snatchers" ("Voleurs d'organes"), which also purported to show evidence of child organ trafficking, was also broadcast in late 1993. "Organ Snatchers" was produced by CAPA, and is narrated by Marie-Monique Robin. It has been shown in several countries and on February 4, 1994 was shown at the U.N. Center for Human Rights in Geneva, Switzerland, courtesy of the International Association of Democratic Lawyers (IADL). The IADL claimed that "the film presents irrefutable evidence" of "criminal trafficking of organs removed from destitute children." This is not the case.  
 >  
@@ -577,8 +566,8 @@ http://archive.is/5bnS9
 >In the summer of 1994, more than six months after "Organ Snatchers" first aired, its narrator Marie- Monique Robin wrote a three-part series of feature articles that was offered for sale to magazines in various countries by the GLMR agency in France. Articles by Ms. Robin subsequently appeared in the July 7 and July 14 issues of the Turkish magazine "Aktuel" and in the November issue of the Spanish edition of the French magazine "Marie Claire." The articles, entitled "The Organ Thieves," accompanied by 40 photographs, contained much of the same material that had been in the "Organ Snatchers" television program. Despite the fact that she was writing in mid-1994, Ms. Robin continued to publicize the original claims made in her program about Pedro Reggi and Jeison. Mr. Reggi's claim had been repudiated and disproved in November 1993 and Jeison's claim had been decisively discredited by February 1994.  
 >  
 >The print articles also included distortions and inaccuracies that were not present in the television program. For example, in discussing the case of Jeison, Ms. Robin wrote that Jeison's mother took him to a hospital "when he was eight," at which time his corneas were allegedly removed. Ms. Robin then wrote, "a child's eyeball is fully developed when it is seven years old. An adult can therefore receive a child's cornea. One that is less than seven years old is simply `of inferior quality.'" Thus, according to Ms. Robin, Jeison's eyes were suitable for transplants into anyone his age or older. However, as Jeison's medical records show, he was admitted to the hospital when he was four months of age, not eight years old, and lost his eyesight just before he turned five months old. Either Ms. Robin's research was so shoddy that she was not even able to determine Jeison's age at the time of his hospitalization correctly, or else she deliberately misrepresented his age in order to make the tale of alleged cornea theft seem more plausible.  
->  
->THE EUROPEAN PARLIAMENT RESOLUTION   
+>
+>## <a name="parliament-resolution"></a>THE EUROPEAN PARLIAMENT RESOLUTION   
 >  
 >On September 14, 1993, the European Parliament adopted a "Resolution on Prohibiting Trade in Transplant Organs." Two of its preambular clauses stated:  
 >  
@@ -679,8 +668,8 @@ http://archive.is/5bnS9
 >Intercountry adoptions typically take weeks or months to process. Similarly, the article assumed that 75 percent of the numerous Brazilian infants arriving in Italy could vanish without anyone noticing this for years. In short, all objectivity was abandoned in the Pinero article.  
 >  
 >The article in "Le Monde Diplomatique" was one of many that Ms. Pinero had written giving credence to the child organ trafficking myth. She has written articles on this subject since April 14, 1987, when her first article, "To Sell the Hearts of Infants," appeared in the French communist party newspaper "L'Humanite." At the time, Ms. Pinero was the Central American correspondent for "L'Humanite," based in Havana. She has written numerous articles on this subject in the years since, but none with the impact of her August 1992 article in "Le Monde Diplomatique."  
->  
->THE "SOTTAS REPORT"  
+>
+>## <a name="sottas-report"></a>THE "SOTTAS REPORT" 
 >  
 >In March 1994, Eric Sottas, director of the World Organization Against Torture, presented a 13-page paper on "Trade in organs and torture" at the Eurosciences Media Workshop. In this paper, described in media accounts as the "Sottas report," Mr. Sottas expressed his belief that there was "increasing evidence emerging to support the allegations of the existence of a network involving the trafficking of human beings for organ transplants," and discussed seven countries in which he believed that clandestine organ trafficking might be occurring. Sottas was also interviewed by the Mexican newspaper "Proceso" on this subject, and their article on his allegations was the basis for subsequent articles in other newspapers in Latin America, and for an article in the "Los Angeles Times." This latter article stated that the "Sottas report" had listed six Latin American countries as "confirmed traffickers in child organs." In fact, all of Sottas' supposed evidence was hearsay; none of it was substantiated, and some of it had been repudiated before his paper had been written.  
 >  
@@ -725,8 +714,8 @@ http://archive.is/5bnS9
 >This passage is incorrect. First, all the organ transplants that have been performed in the United States since October 1, 1987 have been recorded in the U.S. Scientific Registry on Transplantation -- not one-fifth of them, as Mr. Sottas claimed. All U.S. transplant operations are closely monitored in a highly centralized system organized by the United Network for Organ Sharing, which coordinates all organ transplant allocation in the United States.  
 >  
 >Finally, Mr. Sottas' claim that numerous U.S. surgeons "seem to accept the notion of the purchase of organs" ignores the fact that since the passage of the National Organ Transplant Act in 1984, the sale of organs for transplant in the United States has been outlawed, with stiff penalties for violation. In sum, the "Sottas report" is nothing more than a rehashing of the various claims that have circulated in the world media, none of which has ever produced any credible evidence that would substantiate the claims of child organ trafficking.  
->  
->"NINOS DE REPUESTO"  
+>
+>## <a name="ninos"></a>"NINOS DE REPUESTO"  
 >  
 >In May 1994, a full-length 200-page book giving credence to the child organ trafficking myth was published in Spain. It was entitled "Ninos de Repuesto" ("Spare-Parts Children"), and was written by Spanish journalist Jose Manuel Martin Medem, an editor who works for the international section of Spanish National Radio.  
 >  
@@ -790,8 +779,8 @@ http://archive.is/5bnS9
 >The trafficking of children and the marketing of their organs are the most merciless businesses in the dungheap of the market economy, in which anyone who can pay obtains whatever he needs.  
 >  
 >The author states that his book was the culmination of six years of research. It is unfortunate that despite the many long hours that the author labored on the project he was not able to conduct sufficient research to learn that the claims he was repeating were contradicted by the facts and, in many cases, had been repudiated by the individuals making the claims. Despite its length, "Ninos de Repuesto," like all other examinations of this issue, contains no credible evidence of child organ trafficking.  
->  
->THE "CORREIO BRAZILIENSE" SERIES  
+>
+>## <a name="braziliense"></a>THE "CORREIO BRAZILIENSE" SERIES 
 >  
 >From July 24 to July 31, 1994, a series of articles on alleged child organ trafficking appeared in the Brazilian newspaper "Correio Braziliense." The articles demonstrated the journalistic hazards involved in relying on secondary sources. Although the author of the articles, Ana Beatriz Magno, interviewed 101 people during her research, she did not consult any sources in Argentina or Colombia. Therefore, when she wrote about the Pedro Reggi and Jeison cases in those countries, her reports were badly out of date and inaccurate. In addition, the sources to whom she talked in Europe, who included three people who have been in the forefront of the effort to give credence to the child organ trafficking charges, French journalists Maite Pinero and Marie-Monique Robin and International Association of Democratic Lawyers Assistant Representative Renee Bridel, apparently did not tell Ms. Magno that the original allegations of cornea theft involving Pedro Reggi and Jeison had been discredited months earlier. Thus, the articles in "Correio Braziliense," while they may have appeared reliable and authoritative to a Brazilian audience not familiar with these cases, suffered from a lack of even the most elementary fact checking.  
 >  
@@ -836,8 +825,8 @@ http://archive.is/5bnS9
 >In the midst of the media furor unleashed by the "Correio Braziliense" articles, the Brazilian government released the results of a previous investigation of child organ trafficking charges, which it had undertaken after the claims in the 1993 European Parliament resolution had been reported in the Brazilian press. According to the July 26 issue of "Correio Braziliense," Brazilian Minister of Justice Alexandre Dupeyrat reported that this "extensive investigation" discovered "no concrete evidence that could prove illicit, criminal activity."  
 >  
 >In sum, the series of articles in "Corrieo Braziliense" does not include any evidence that substantiates allegations of child organ trafficking. The stories that were capable of being checked had been proven false months earlier, a fact of which the reporter was unaware. Even the simplest facts about these cases were reported inaccurately, raising serious questions about the quality of research in the articles. The Brazilian government stated that it had investigated earlier alleged cases of child organ trafficking in Brazil and found no evidence to substantiate them, and resolved to investigate the allegations raised by the latest articles as well.  
->  
->ALLEGED ORGAN TRAFFICKING IN THE PHILIPPINES  
+> 
+>## <a name="philippines"></a>ALLEGED ORGAN TRAFFICKING IN THE PHILIPPINES  
 >  
 >A story reported in August 1994 about events in the Philippines illustrates how misinformation may result if journalists rely exclusively upon international media stories as their sources and do not conduct follow-up investigations of media reports in the country in question.  
 >  
@@ -876,8 +865,8 @@ http://archive.is/5bnS9
 >None of the Philippine press reports containing these additional facts was reported by any wire service. Thus, all that readers outside the Philippines would know was contained in the initial press accounts, which gave no details of the accused doctors' side of the story. It is this natural tendency of the media to report sensationalistic charges and to ignore subsequent clarifications, denials or repudiations that has led to the circulation of much misinformation and half-truths with regard to charges of child organ trafficking and other alleged organ trafficking abuses.  
 >  
 >[Addendum to report: On December 28, 1994, a Philippine court dismissed the charges against the doctors, ruling that evidence indicated that Logmao was already "brain dead" when his organs were removed.]  
->  
->MISINFORMATION IN ITALY  
+>
+>## <a name="italy"></a>MISINFORMATION IN ITALY  
 >  
 >In September 1994, allegations of child organ trafficking appeared in Italy, and spread to Germany, Turkey, and Brazil. The sequence of events demonstrates how vague allusions or hypothetical statements can be mistakenly reported as confirmed fact.  
 >  
@@ -936,8 +925,8 @@ http://archive.is/5bnS9
 >Italian Health Minister Costa also warned of the adverse effects that the child organ trafficking allegations could have on voluntary organ donations. In the September 24 issue of the Italian newspaper "L'Unita," he was reported as stating:  
 >   
 >Minister Guidi's alarmist tone is not justified. I regret as a person that these conjectures can be exploited. ... the activity of surgeons, researchers, immunologists, scholars, the sacrifice of donors and the efforts at building civic awareness could be undermined by vague insinuations.  
->  
->THE IMPOSSIBILITY OF CONCEALING CLANDESTINE ORGAN TRANSPLANTS  
+> 
+>## <a name="clandestine"></a>THE IMPOSSIBILITY OF CONCEALING CLANDESTINE ORGAN TRANSPLANTS  
 >  
 >Health and organ transplant officials in the United States and other countries have stated emphatically that it would be impossible to successfully conceal any clandestine organ trafficking ring.  
 >  
@@ -970,8 +959,8 @@ http://archive.is/5bnS9
 >Of these, 789 went to Europe and Canada. The remaining 4,253 were sent to Latin America, Asia, Africa, and the Middle East. Of these, 2,998, or 70 percent, were placed without charge. Of the 2,689 corneas sent to Latin America, 2,457, or more than 90 percent, were provided free of charge. Thus, the insinuation in "The Body Parts Business" that "after gold, diamonds, and natural resources, are human body parts to become the next commodity to be extracted from the Third World?" has its facts inverted. In reality, much of the flow of human tissue for transplant goes from the United States to the Third World, and the majority of it is provided gratis.  
 >  
 >Allegations of child kidnapping for tissue transplants are essentially indistinguishable in the popular mind from the child organ trafficking urban legend. Most people do not understand the important differences between corneas and organs, even though the transplant procedures for them differ significantly as does the supply/demand situation in some countries.  
->  
->PREVIOUS INVESTIGATIONS OF CHILD ORGAN TRAFFICKING ALLEGATIONS  
+> 
+>## <a name="allegations"></a>PREVIOUS INVESTIGATIONS OF CHILD ORGAN TRAFFICKING ALLEGATIONS  
 >  
 >In addition to the investigations of child organ trafficking allegations mentioned previously, in early 1987, when it was first alleged that Americans were adopting children for the purpose of organ transplantation, the U.S. Justice Department, the Federal Bureau of Investigation, the Food and Drug Administration, the National Institutes of Health, the Department of Health and Human Services, and the Immigration and Naturalization Service all investigated their records and stated that they found no evidence of alleged organ trafficking.  
 >  
@@ -994,8 +983,8 @@ http://archive.is/5bnS9
 >On June 6, 1989, U.S. Assistant Secretary for Health James Mason and U.S. Surgeon General C. Everett Koop released a lengthy letter in which they pointed out that "the technical and medical aspects of organ transplantation make it impossible to obtain and transplant organs secretly." They stated, "The requirements of the process, including numerous highly trained professional personnel and sophisticated equipment, assure that any such activity would be detected and exposed," stressing that "removals of organs is a complex surgical procedure, performed only in hospitals, and specialized technical arrangements are needed to preserve the organs." Mason and Koop went on to point out, "Organ transplant procedures are also highly complex and must be performed in the highest level surgical facilities, most often in large hospitals affiliated with schools for the education of physicians." "Because of the nature of the technology involved," they concluded, "these activities could not be conducted in secret or makeshift facilities."  
 >  
 >On June 7, 1993, Mexico's "El Financiero" newspaper quoted Pablo Chapa, the director of complaints at Mexico City's attorney general's office, as stating, "I have not seen a single case where a person has been kidnapped and has later appeared with scars where his organs were taken, or his eyes were taken away. If these famous clandestine hospitals existed, we would have found out about them immediately." Dr. Arturo Dib Kuri, director of Mexico's National Registry of Transplants, stated, "I compare the rumor of stolen children whose organs are sold for transplant to a story saying that several thieves stole three [space] ships from Cape Canaveral to go to the moon."  
->   
->CONCLUSION  
+>
+>## <a name="conclusion"></a>CONCLUSION  
 >  
 >A thorough examination of this issue demonstrates that rumors of child organ trafficking are a fictional "urban legend." This myth derives its credibility from the fact that it speaks to widespread, largely unconscious anxieties about mutilation and death that have been stimulated by the dramatic advances made in the field of organ transplantation in recent years.  
 >  
@@ -1011,4 +1000,232 @@ http://archive.is/5bnS9
 >   
 >Given the ubiquitous nature of the false child organ trafficking rumor, the role that the Special Rapporteur has inadvertently played in this process, the groundlessness of the rumors, their demonstrated impossibility, and the tremendous harm that they have done and can do, the U.S. Information Agency respectfully requests that the Special Rapporteur give maximum attention and publicity to the information contained in this report, in order to counterbalance the undue credence that has unfortunately been given to false rumors of child organ trafficking in past reports by the Special Rapporteur.  
 >  
->[End Report]
+>[End Report]  
+>  
+>* <span class="ref">Original Link: <https://pascalfroissart.online.fr/3-cache/1994-leventhal.pdf></span>  
+>* <span class="ref">Archive 1: <https://web.archive.org/web/20170329023912/http://pascalfroissart.online.fr/3-cache/1994-leventhal.pdf></span>  
+>* <span class="ref">Archive 2: <https://archive.is/5bnS9></span>  
+  
+# <a name="other-reports"></a>Other Reports & News Articles on Human Organ Trafficking  
+  
+**Terrorist Necropolitics: Allegations of Organ Theft of Executed Captives by ISIS Through An Anthropological Perspective**  
+[Scheper-Hughes, Nancy. Harvard International Review, 07.28.15]
+
+* <span class="ref">Original Link: <https://hir.harvard.edu/terrorist-necropolitics-allegations-of-organ-theft-of-executed-captives-by-isis-through-an-anthropological-perspective/></span>  
+* <span class="ref">Archive 1: <https://archive.fo/36HvH></span>  
+* <span class="ref">Archive 2: <https://web.archive.org/web/20170329024552/http://hir.harvard.edu/terrorist-necropolitics-allegations-of-organ-theft-of-executed-captives-by-isis-through-an-anthropological-perspective/></span>  
+
+ 
+**Organ Trafficking a Protected Crime?**  
+[Scheper-Hughes, Nancy. Chancellor’s Professor, Chair of the Doctoral Program in Medical Anthropology, University of California, Berkeley. 2016]
+
+* <span class="ref">Original Link (Sign In required for download): <https://www.academia.edu/7509871/Organ_Trafficking_a_Protected_Crime></span>  
+* <span class="ref">Archive 1: <https://opingsoc-archive.weebly.com/archive/organ-trafficking-a-protected-crime></span>  
+* <span class="ref">Archive 2: <https://www.mediafire.com/file/wa725bjaf1eo7br/Organ_Trafficking_a_Protected_Crime.pdf></span>  
+
+ 
+**The Rosenbaum Kidney Trafficking Gang**  
+[Scheper-Hughes, Nancy. Counterpunch, 11.30.11]
+
+* <span class="ref">Original Link: <https://www.counterpunch.org/2011/11/30/the-rosenbaum-kidney-trafficking-gang/></span>  
+* <span class="ref">Archive 1: <https://archive.fo/VQCbf></span>  
+* <span class="ref">Archive 2: <https://web.archive.org/web/20170326052219/http://www.counterpunch.org/2011/11/30/the-rosenbaum-kidney-trafficking-gang/></span>  
+
+ 
+**Mr Tati’s Holiday and João’s Safari – Seeing the World through Transplant Tourism**  
+[Scheper-Hughes, Nancy. Chancellor’s Professor, Chair of the Doctoral Program in Medical Anthropology, University of California, Berkeley, 2011]
+
+ * <span class="ref">Original Link: <https://www.sss.ias.edu/files/pdfs/Nancy%20Scheper-Huges,TATI's%20Holiday%20in%20BodSoc-2.pdf></span>  
+ * <span class="ref">Archive 1: <https://www.mediafire.com/?91ccpczp8yq3e96></span>  
+ * <span class="ref">Archive 2: <https://web.archive.org/web/20170326042128/https://www.sss.ias.edu/files/pdfs/Nancy%20Scheper-Huges,TATI's%20Holiday%20in%20BodSoc-2.pdf></span>  
+ * <span class="ref">Archive 3: <https://opingsoc-archive.weebly.com/archive/mr-tatis-holiday-and-joaos-safari-seeing-the-world-through-transplant-tourism></span>  
+
+ 
+**Israel is the Organ Harvesting and Human Trafficking Global Ringleader, with Complicit Help From US and Turkey**  
+[Hagopian, Joachim. Empire Exposed, 05.14.16]
+
+ * <span class="ref">Original Link: <https://empireexposed.blogspot.nl/2016/05/israel-is-global-organ-harvesting.html></span>  
+ * <span class="ref">Archive 1: <https://archive.fo/Q8z1s></span>  
+ * <span class="ref">Archive 2: <https://web.archive.org/web/20170325012343/http://empireexposed.blogspot.nl/2016/05/israel-is-global-organ-harvesting.html></span>  
+
+ 
+**Organ Harvesting, Human Trafficking, and the Black Market**  
+[Small-Jordan, Dianne. Decoded Science, 03.23.16]
+
+ * <span class="ref">Original Link: <https://www.decodedscience.org/organ-harvesting-human-trafficking-black-market/56966></span>  
+ * <span class="ref">Archive 1: <https://archive.fo/zRAsQ></span>  
+ * <span class="ref">Archive 2: <https://web.archive.org/web/20170323053930/https://www.decodedscience.org/organ-harvesting-human-trafficking-black-market/56966></span>  
+
+ 
+**Egypt arrests 45 people over organ trafficking network**  
+[Middle East Eye, 12.06.16]
+
+ * <span class="ref">Original Link: <https://www.middleeasteye.net/news/egypt-detains-45-people-involved-organ-trafficking-network-1447623771></span>  
+ * <span class="ref">Archive 1: <https://archive.fo/sNR0i></span>  
+ * <span class="ref">Archive 2: <https://web.archive.org/web/20170325010310/http://www.middleeasteye.net/news/egypt-detains-45-people-involved-organ-trafficking-network-1447623771></span>  
+
+ 
+**The Underbelly of Syria's War: A Thriving Trade In Human Organs**  
+[Ahmad Haj Hamdo, Syrian Independent Media Group, 05.12.16]
+
+ * <span class="ref">Original Link: <https://www.upi.com/Top_News/World-News/2016/05/12/The-underbelly-of-Syrias-war-a-thriving-trade-in-human-organs/5301462896201/></span>  
+ * <span class="ref">Archive 1: <https://archive.fo/Eg4oZ></span>  
+ * <span class="ref">Archive 2: <https://web.archive.org/web/20170322120003/http://www.upi.com/Top_News/World-News/2016/05/12/The-underbelly-of-Syrias-war-a-thriving-trade-in-human-organs/5301462896201/></span>  
+
+ 
+**Bangladesh Organ Trade Continues Unabated, Targeting Children, the Poor**  
+[O’Connor, Nigel. Aljazeera, 12.26.14]
+
+ * <span class="ref">Original Link: <https://america.aljazeera.com/articles/2014/12/26/bangladesh-organtrafficking.html></span>  
+ * <span class="ref">Archive 1: <https://archive.fo/imCGY></span>  
+ * <span class="ref">Archive 2: <https://web.archive.org/web/20170325212144/http://america.aljazeera.com/articles/2014/12/26/bangladesh-organtrafficking.html></span>  
+
+ 
+**Human Organ Trafficking In Bangladesh**  
+[Moniruzzaman, Monir. The Daily Star, 09.17.11]
+
+ * <span class="ref">Original Link: <https://www.thedailystar.net/news-detail-202760></span>  
+ * <span class="ref">Archive 1: <https://archive.fo/GfLSC></span>  
+ * <span class="ref">Archive 2: <https://web.archive.org/web/20170325212813/http://www.thedailystar.net/news-detail-202760></span>  
+
+ 
+**Mexican Cartel Henchman Arrested for Killing Children to Harvest Their Organs**  
+[Hastings, Deborah. NY Daily News, 03.18.14]
+
+ * <span class="ref">Original Link: <https://www.nydailynews.com/news/world/mexican-cartel-leader-accused-killing-children-harvest-organs-article-1.1725522></span>  
+ * <span class="ref">Archive 1: <https://archive.fo/05op8></span>  
+ * <span class="ref">Archive 2: <https://web.archive.org/web/20170325214053/http://www.nydailynews.com/news/world/mexican-cartel-leader-accused-killing-children-harvest-organs-article-1.1725522></span>  
+
+ 
+**Migrants Who Cannot Pay are Being Sold For Organs, Smuggler Tells Italian Authorities**  
+[McKenna, Josephine. Telegraph, 07.04.16]
+
+ * <span class="ref">Original Link: <https://www.telegraph.co.uk/news/2016/07/04/migrants-who-cannot-pay-are-being-sold-for-organs-smuggler-tells/></span>  
+ * <span class="ref">Archive 1: <https://archive.fo/pcVGY></span>  
+ * <span class="ref">Archive 2: <https://web.archive.org/save/_embed/http://www.telegraph.co.uk/news/2016/07/04/migrants-who-cannot-pay-are-being-sold-for-organs-smuggler-tells/></span>  
+
+ 
+**Gurgaon Kidney Racket: Gang Had Smooth Run, Bribed Its Way Out**  
+[Dashl, Dipak Kumar. Times of India, 03.25.13]
+
+ * <span class="ref">Original Link: <https://timesofindia.indiatimes.com/city/delhi/Gurgaon-kidney-racket-Gang-had-smooth-run-bribed-its-way-out/articleshow/19177391.cms></span>  
+ * <span class="ref">Archive 1: <https://archive.fo/PpWLW></span>  
+ * <span class="ref">Archive 2: <https://web.archive.org/web/20170325214904/http://timesofindia.indiatimes.com/city/delhi/Gurgaon-kidney-racket-Gang-had-smooth-run-bribed-its-way-out/articleshow/19177391.cms?></span>  
+
+ 
+**Costa Rica Prosecutors Charge 5 Members of Alleged Organ Trafficking Ring**  
+[Dyer, Zach. Tico Times, 02.09.16]
+
+ * <span class="ref">Original Link: <https://www.ticotimes.net/2016/02/09/prosecutors-charge-5-in-costa-rica-organ-trafficking-ring></span>  
+ * <span class="ref">Archive 1: <https://archive.fo/guGva></span>  
+ * <span class="ref">Archive 2: <https://www.mediafire.com/?r40alnp56gsz534></span>  
+ * <span class="ref">Archive 3: <https://opingsoc-archive.weebly.com/archive/costa-rica-prosecutors-charge-5-members-of-alleged-organ-trafficking-ring></span>  
+
+ 
+**Organ Trafficking: 'Her Heart Was Missing'**  
+[Arsenault, Chris. Aljazeera, 05.15.2011]
+
+ * <span class="ref">Original Link: <https://www.aljazeera.com/indepth/features/2011/05/2011515153229450357.html></span>  
+ * <span class="ref">Archive 1: <https://archive.fo/KHsJ7></span>  
+ * <span class="ref">Archive 2: <https://web.archive.org/web/20170326040229/http://www.aljazeera.com/indepth/features/2011/05/2011515153229450357.html></span>  
+
+ 
+**Trafficking in Human Beings for the Purpose of Organ Removal in the OSCE Region: Analysis and Findings**  
+[OSCE: Organization for Security and Co-operation in Europe, 2013]
+
+ * <span class="ref">Original Link: <https://www.osce.org/cthb/103393?download=true></span>  
+ * <span class="ref">Archive 1: <https://www.mediafire.com/?f80ej5xkuv6wvt5></span>  
+ * <span class="ref">Archive 2: <https://opingsoc-archive.weebly.com/archive/trafficking-in-human-beings-for-the-purpose-of-organ-removal-in-the-osce-region-analysis-and-findings></span>  
+
+ 
+**South African Hospital Firm Admits 'Cash For Kidney' Transplants**  
+[Smith, David. The Guardian, 11.10.10]
+
+ * <span class="ref">Original Link: <https://www.theguardian.com/world/2010/nov/10/south-africa-hospital-organ-trafficking></span>  
+ * <span class="ref">Archive 1: <https://archive.fo/Bn6Xs></span>  
+ * <span class="ref">Archive 2: <https://web.archive.org/web/20170326041608/https://www.theguardian.com/world/2010/nov/10/south-africa-hospital-organ-trafficking></span>  
+
+ 
+**Trafficking in Human Organs**  
+[Directorate-General for External Policies, Policy Department. EU Parliament, 2015]
+
+ * <span class="ref">Original Link: <https://www.europarl.europa.eu/RegData/etudes/STUD/2015/549055/EXPO_STU(2015)549055_EN.pdf></span>  
+ * <span class="ref">Archive 1: <https://web.archive.org/web/20170326042331/http://www.europarl.europa.eu/RegData/etudes/STUD/2015/549055/EXPO_STU(2015)549055_EN.pdf></span>  
+ * <span class="ref">Archive 2: <https://www.mediafire.com/?4p52j4543wr938x></span>  
+ * <span class="ref">Archive 3: <https://opingsoc-archive.weebly.com/archive/trafficking-in-human-organs></span>  
+
+ 
+**Protection of Human Beings Trafficked for the Purpose of Organ Removal: Recommendations**  
+[Transplantation Direct, 2016]
+
+ * <span class="ref">Original Link: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4946495/pdf/txd-2-e59.pdf></span>  
+ * <span class="ref">Archive 1: <https://web.archive.org/web/20170326045238/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4946495/pdf/txd-2-e59.pdf></span>  
+ * <span class="ref">Archive 2: <https://www.mediafire.com/?v4acxdgo6x6oo86></span>  
+ * <span class="ref">Archive 3: <https://opingsoc-archive.weebly.com/archive/protection-of-human-beings-trafficked-for-the-purpose-of-organ-removal-recommendations></span>  
+
+ 
+**Organ Trafficking: An International Crime Infrequently Punished**  
+[Scutti, Susan. Medical Daily, 07.09.13]
+
+ * <span class="ref">Original Link: <https://www.medicaldaily.com/organ-trafficking-international-crime-infrequently-punished-247493></span>  
+ * <span class="ref">Archive 1: <https://archive.fo/bZneJ></span>  
+ * <span class="ref">Archive 2: <https://web.archive.org/web/20170326051610/http://www.medicaldaily.com/organ-trafficking-international-crime-infrequently-punished-247493></span>  
+
+ 
+**Desperation, Greed and the Global Organ Trade**  
+[Ginzel, Arndt; Kraushaar, Martin; and Winter, Steffen. Der Spiegel, 08.03.12]
+
+ * <span class="ref">Original Link: <https://www.spiegel.de/international/world/the-illegal-trade-in-organ-is-fueled-by-desperation-and-growing-a-847473.html></span>  
+ * <span class="ref">Archive 1: <https://archive.fo/kQnRF></span>  
+ * <span class="ref">Archive 2: <https://web.archive.org/web/20170326053332/http://www.spiegel.de/international/world/the-illegal-trade-in-organ-is-fueled-by-desperation-and-growing-a-847473-druck.html></span>  
+ * <span class="ref">Archive 3: <https://www.mediafire.com/?iwgvm99p5lldek8></span>  
+
+ 
+**N.J. Corruption Probe Includes First Organ Trafficking Case**  
+[The Associated Press, 07.24.09]
+
+ * <span class="ref">Original Link: <https://www.nj.com/news/index.ssf/2009/07/nj_corruption_probe_includes_f.html></span>  
+ * <span class="ref">Archive 1: <https://archive.fo/fuUSm></span>  
+ * <span class="ref">Archive 2: <https://www.mediafire.com/?aa48uy1dm1i63kg></span>  
+ * <span class="ref">Archive 3: <https://opingsoc-archive.weebly.com/archive/nj-corruption-probe-includes-first-organ-trafficking-case></span>  
+
+ 
+**Doctors at top Indian hospital charged in kidney harvesting racket**  
+[Bhalla, Nita. Thomson Reuters Foundation, 08.11.16]
+
+ * <span class="ref">Original Link: <https://news.trust.org/item/20160811034227-ok91o/></span>  
+ * <span class="ref">Archive 1: <https://archive.fo/gG9J8></span>  
+ * <span class="ref">Archive 2: <https://web.archive.org/web/20170326054936/http://news.trust.org/item/20160811034227-ok91o/></span>  
+
+ 
+**Five Arrested In Spain’s First Case of Human Organ Trafficking**  
+[Sahuquillo, María & Duva, Jesús. El País, 03.12.14]
+
+ * <span class="ref">Original Link: <https://elpais.com/elpais/2014/03/12/inenglish/1394620383_790202.html></span>  
+ * <span class="ref">Archive 1: <https://archive.fo/OD0LW></span>  
+ * <span class="ref">Archive 2: <https://web.archive.org/web/20170326055321/http://elpais.com/elpais/2014/03/12/inenglish/1394620383_790202.html></span>  
+
+ 
+**Chinese Organ Trafficking Ring Dismantled**  
+[Phillips, Tom. The Telegraph, 08.05.12]
+
+ * <span class="ref">Original Link: <https://www.telegraph.co.uk/news/worldnews/asia/china/9453357/Chinese-organ-trafficking-ring-dismantled.html></span>  
+ * <span class="ref">Archive 1: <https://archive.fo/Va3CO></span>  
+ * <span class="ref">Archive 2: <https://web.archive.org/web/20170326060135/http://www.telegraph.co.uk/news/worldnews/asia/china/9453357/Chinese-organ-trafficking-ring-dismantled.html></span>  
+
+ 
+**Medicus Clinic Was ‘Part of Wider Crime Syndicate’**  
+[Aliu, Fatmir. Balkan Insight, 09.14.12]
+
+ * <span class="ref">Original Link: <https://www.balkaninsight.com/en/article/medicus-clinic-was-part-of-wider-crime-syndicate></span>  
+ * <span class="ref">Archive 1: <https://archive.fo/ktMjg></span>  
+ * <span class="ref">Archive 2: <https://web.archive.org/web/20170326060318/http://www.balkaninsight.com/en/article/medicus-clinic-was-part-of-wider-crime-syndicate></span>  
+
+ 
+**Kosovo Organ-Trafficking Retrial Disappoints EU Mission**  
+[Morina, Die. Balkan Insight, 01.05.17]
+
+ * <span class="ref">Original Link: <https://www.balkaninsight.com/en/article/kosovo-organ-trafficking-retrial-disappoints-eu-01-05-2017></span>  
+ * <span class="ref">Archive 1: <https://archive.fo/eVYIl></span>  
+ * <span class="ref">Archive 2: <https://web.archive.org/web/20170326060713/http://www.balkaninsight.com/en/article/kosovo-organ-trafficking-retrial-disappoints-eu-01-05-2017></span>  
+​

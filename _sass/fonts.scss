@@ -1,4 +1,60 @@
 @font-face {
+  font-family: 'Proxima Nova';
+  font-weight: 400;
+  font-style: normal;
+  src: url('../fonts/proxima-nova/proxima-nova-regular.woff') format('woff'),
+       local('Proxima Nova Regular'),
+       local('proxima-nova-regular'),
+}
+
+@font-face {
+  font-family: 'Proxima Nova';
+  font-weight: 700;
+  font-style: normal;
+  src: url('../fonts/proxima-nova/proxima-nova-bold.woff') format('woff'),
+       local('Proxima Nova Bold'),
+       local('proxima-nova-bold'),
+}
+
+@font-face {
+  font-family: 'Proxima Nova';
+  font-weight: 600;
+  font-style: normal;
+  src: url('../fonts/proxima-nova/proxima-nova-semibold.woff') format('woff2');
+  src: url('../fonts/proxima-nova/proxima-nova-semibold.woff') format('woff'),
+       local('Proxima Nova Semi-Bold'),
+       local('proxima-nova-semibold'),
+}
+
+@font-face {
+  font-family: 'Proxima Nova';
+  font-weight: 300;
+  font-style: normal;
+  src: url('../fonts/proxima-nova/proxima-nova-light.woff') format('woff'),
+       local('Proxima Nova Light'),
+       local('proxima-nova-light'),
+}
+
+@font-face {
+  font-family: 'Proxima Nova';
+  font-weight: 400;
+  font-style: italic;
+  src: url('../fonts/proxima-nova/proxima-nova-italic.woff') format('woff'),
+       local('Proxima Nova Italic'),
+       local('proxima-nova-italic'),
+}
+
+@font-face {
+  font-family: 'Proxima Nova';
+  font-weight: 100;
+  font-style: normal;
+  src: url('../fonts/proxima-nova/proxima-nova-thin.woff') format('woff2');
+  src: url('../fonts/proxima-nova/proxima-nova-thin.woff') format('woff'),
+       local('Proxima Nova Thin'),
+       local('proxima-nova-thin'),
+}
+
+@font-face {
   font-family: 'Noto Sans';
   font-weight: 400;
   font-style: normal;
@@ -39,8 +95,8 @@
 }
 
 @font-face {
-    font-family: 'OpenSans';
-    font-weight: normal;
+    font-family: 'Open Sans';
+    font-weight: 400;
     font-style: normal;
     src: url('../fonts/opensans_regular/OpenSans-Regular-webfont.woff') format('woff'),
          local('OpenSans Regular'),
@@ -48,8 +104,8 @@
 }
 
 @font-face {
-    font-family: 'OpenSans';
-    font-weight: bold;
+    font-family: 'Open Sans';
+    font-weight: 700;
     font-style: normal;
     src: url('../fonts/opensans_bold/OpenSans-Bold-webfont.woff') format('woff'),
          local('OpenSans Bold'),
@@ -57,8 +113,8 @@
 }
 
 @font-face {
-    font-family: 'OpenSans';
-    font-weight: bold;
+    font-family: 'Open Sans';
+    font-weight: 700;
     font-style: italic;
     src: url('../fonts/opensans_bolditalic/OpenSans-BoldItalic-webfont.woff') format('woff'),
          local('OpenSans Bold Italic'),
@@ -66,7 +122,7 @@
 }
 
 @font-face {
-    font-family: 'OpenSans';
+    font-family: 'Open Sans';
     font-weight: 800;
     font-style: normal;
     src: url('../fonts/opensans_extrabold/OpenSans-ExtraBold-webfont.woff') format('woff'),
@@ -75,8 +131,8 @@
 }
 
 @font-face {
-    font-family: 'OpenSans';
-    font-weight: normal;
+    font-family: 'Open Sans';
+    font-weight: 400;
     font-style: italic;
     src: url('../fonts/opensans_italic/OpenSans-Italic-webfont.woff') format('woff'),
          local('OpenSans Italic'),
@@ -111,44 +167,4 @@
     src: url('../fonts/Verdana-Italic/Verdana-Italic.woff') format('woff'),
          local('Verdana Italic'),
          local('Verdana-Italic'),
-}
-
-@font-face {
-  font-family: 'LiberationMono';
-  font-weight: normal;
-  font-style: normal;
-  src: url('LiberationMono-Regular.woff2') format('woff2');
-  src: url('LiberationMono-Regular.woff') format('woff'),
-       local('LiberationMono Regular'),
-       local('LiberationMono-Regular'),
-}
-
-@font-face {
-  font-family: 'LiberationMono';
-  font-weight: bold;
-  font-style: normal;
-  src: url('LiberationMono-Bold.woff2') format('woff2');
-  src: url('LiberationMono-Bold.woff') format('woff'),
-       local('LiberationMono Bold'),
-       local('LiberationMono-Bold'),
-}
-
-@font-face {
-  font-family: 'LiberationMono';
-  font-weight: normal;
-  font-style: italic;
-  src: url('LiberationMono-Italic.woff2') format('woff2');
-  src: url('LiberationMono-Italic.woff') format('woff'),
-       local('LiberationMono Italic'),
-       local('LiberationMono-Italic'),
-}
-
-@font-face {
-  font-family: 'LiberationMono';
-  font-weight: bold;
-  font-style: italic;
-  src: url('LiberationMono-BoldItalic.woff2') format('woff2');
-  src: url('LiberationMono-BoldItalic.woff') format('woff'),
-       local('LiberationMono BoldItalic'),
-       local('LiberationMono-BoldItalic'),
 }
