@@ -1,5 +1,5 @@
 ---
-layout: dark
+layout: light
 title: Operation Ingsoc - Censorship
 menu: research
 permalink: research/operation_ingsoc.html
@@ -9,7 +9,11 @@ permalink: research/operation_ingsoc.html
 <div class="subheader">[by OpIngsoc, Feb.03.2017]</div>  
 <br>  
 
+<<<<<<< HEAD
 <img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/ingsoc-censorship_2_orig.png" alt="image:censorship">
+=======
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/ingsoc-censorship_2_orig.png" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/ingsoc-censorship_2_orig.png"></a>
+>>>>>>> 72ef32f614b687aeaa5f6e71dadeac4d11dc1f02
 
 ​Once again we are at a time when we’re about to lose the internet, and not just the internet but also our privacy and freedom of speech. Slowly we have witnessed more and more of our rights getting taken away. 9/11 marked the year when we as a country decided to willingly give up our freedoms in exchange for “security”. The U.S. Government’s fear-mongering was a well-played chess move to gain more control and take away our rights. We gave them that game – hell, we handed them the whole damn chess board and said “keep it!”. Well it’s time to wake up and get back in the game because the few rights we do have left, the ones that many of us took for granted, are being stripped away, exponentially. The Executive Orders, Congressional Bills and procedural changes are passing left and right, so fast it’s hard to keep up. We try to protest one and another one slips by unnoticed. It’s time for all of us to wake up, unite and fight back!   
    
@@ -28,10 +32,18 @@ permalink: research/operation_ingsoc.html
 >* <span class="ref">With Rule 41, Little-Known Committee Proposes to Grant New Hacking Powers to the Government: <https://archive.fo/Ophob></span>  
 
 The amendment to Rule 41 became law on December 1st, 2016.  
+<<<<<<< HEAD
 
 # <a name="obama-censorship"></a>Barack Obama Calls for Censorship  
 
 <img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/obama_2_orig.png" alt="image:obama">
+=======
+&nbsp;
+
+# <a name="obama-censorship"></a>Barack Obama Calls for Censorship  
+
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/obama_2_orig.png" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/obama_2_orig.png" alt="image:obama"></a>
+>>>>>>> 72ef32f614b687aeaa5f6e71dadeac4d11dc1f02
   
 * [White House Frontier’s Conference, Pittsburgh: Transcript of Obama’s Remarks](https://archive.is/ibQT8)
 * [White House Frontier’s Conference Video Clip - YouTube](https://www.youtube.com/watch?v=FKg43vCvnxs&feature=youtu.be)  
@@ -78,10 +90,16 @@ Obama's use of the word “truthiness” is revealing, whether it was intentiona
 
 This perfectly describes the “truth” that the government wants us to believe, regardless of facts. It’s right because it feels right, and it feels right because they tell us it’s right. Right?  
 
+<<<<<<< HEAD
 
 # <a name="hillary-congress"></a>Hillary Calls On Congress  
 
 <img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/hillary-clinton_2_orig.jpg" alt="image:hillary clinton">
+=======
+# <a name="hillary-congress"></a>Hillary Calls On Congress  
+
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/hillary-clinton_2_orig.jpg" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/hillary-clinton_2_orig.jpg" alt="image:hillary clinton"></a>
+>>>>>>> 72ef32f614b687aeaa5f6e71dadeac4d11dc1f02
   
 Hillary Clinton has made a plea to Congress to do something about this “fake” news epidemic:  
 
@@ -96,7 +114,11 @@ Hillary Clinton has made a plea to Congress to do something about this “fake�
 >* <span class="ref">​​Hillary Clinton Calls For Legislation To Fight 'Fake News': <https://archive.fo/noMyi></span>  
 >* <span class="ref">Hillary Reemerges, Slams "Dangerous Epidemic" Of Fake News: <https://archive.fo/lOrjv></span>  
 
+<<<<<<< HEAD
 <img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/wikileaksclinton_3_orig.png" alt="image:Wikileaks Tweet Screenshot">  
+=======
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/wikileaksclinton_3_orig.png" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/wikileaksclinton_3_orig.png" alt="image:Wikileaks Tweet Screenshot"></a>  
+>>>>>>> 72ef32f614b687aeaa5f6e71dadeac4d11dc1f02
 
 ​Mainstream Media colluded with Hillary Clinton, her presidential campaign and the DNC to manufacture false news. They even sent people to incite violence at Trump rallies. If anyone should be labeled fake news it’s Hillary Clinton, the DNC and MSM.  
 
@@ -111,6 +133,15 @@ From The Intercept:
 
 <img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/edgar-welch_orig.png" alt="image: edgar welch">
 
+<<<<<<< HEAD
+=======
+  
+
+# <a name="establishment-warns-fake-news"></a>The Establishment Warns About the Dangers of Fake News 
+
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/edgar-welch_orig.png" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/edgar-welch_orig.png" alt="image: edgar welch"></a>
+
+>>>>>>> 72ef32f614b687aeaa5f6e71dadeac4d11dc1f02
 
 ​MSM and the Obama administration are using the “fake” news narrative as an excuse to censor anti-establishment views and pass laws to censor us even more. As “fake” news has become some sort of novelty in the public spectrum, everyone has been talking about #pizzagate. Recently there was a shooting at Comet Ping Pong Pizza and the media is eating it up. They are using the shooting and #pizzagate to push the agenda that “fake” news incites terrorism and radicalizes people. The witness statements don't match the police or media narrative. This brings the veracity of the whole event into question. Was this event staged to push the "fake news" agenda to the level of terrorism?  
 
@@ -122,11 +153,21 @@ We must disrupt them. We must take down their sites. We must boycott mainstream 
 
 * <span class="ref">Texas Teen Facing Eight Years After Violent League of Legends Threat: <https://archive.fo/Tkban></span>  
 
+<<<<<<< HEAD
 # <a name="truth-filters"></a>Truth Filters, Fact-Checkers & Domestic Propaganda  
 
 <img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/propornot_5_orig.png" alt="image: propornot logo"> 
 
 <img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/claim_2_orig.png" alt="image: rootclaim logo">
+=======
+&nbsp;
+
+# <a name="truth-filters"></a>Truth Filters, Fact-Checkers & Domestic Propaganda  
+
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/propornot_5_orig.png" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/propornot_5_orig.png" alt="image: propornot logo"></a> 
+
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/claim_2_orig.png" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/claim_2_orig.png" alt="image: rootclaim logo"></a>
+>>>>>>> 72ef32f614b687aeaa5f6e71dadeac4d11dc1f02
 
 Now there are multiple companies claiming to be the voice of sanity in this “wild, wild west” of information, telling us what is real and what is “fake” news. Their sole purpose is to tell the public what to think and who to trust. Here’s the secret formula:  
 
@@ -147,10 +188,18 @@ Groups like Snopes, PropOrNot, Rootclaim and IFCN (The International Fact-Checki
 Their “truth” algorithm is proprietary, so we have no way of knowing how it works or if there really is an algorithm at all. They are an Israeli company and their Lead Analyst, Benjamin Resnick, is a Rabbi.  
 
 ​It’s possible another reason for Israel to jump on the “fake” news bandwagon is to stop the BDS movement and counter any type of criticism of Israel. Is it not enough that the United States government gives Israel $3 Billion per year in military aid, but they must now control the information flow to stop any and all dissent?  
+<<<<<<< HEAD
 
 # <a name="anti-bds-legislation"></a>Anti-BDS Legislation & Censorship
 
 <img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/map-story-of-palestinian-nationhood_orig.png" alt="image: palestinian land loss map from 1946-2000">
+=======
+&nbsp;
+
+# <a name="anti-bds-legislation"></a>Anti-BDS Legislation & Censorship
+
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/map-story-of-palestinian-nationhood_orig.png" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/map-story-of-palestinian-nationhood_orig.png" alt="image: palestinian land loss map from 1946-2000"></a>
+>>>>>>> 72ef32f614b687aeaa5f6e71dadeac4d11dc1f02
 
 The Israel Lobby is behind the unconstitutional anti-BDS legislation that has been enacted in several U.S. states. BDS stands for Boycott, Divestment and Sanctions of Israel. Many people consider Israel to be an apartheid state. Israel has intentionally targeted and murdered Palestinian civilians, including children, stolen land and illegally occupied Palestinian territory. Israeli occupation of Palestine is a war crime under international law. But do they care? No. According to Israel’s Prime Minister Netanyahu, Palestine is committing genocide against the Israeli people. One look at this map will show how utterly ridiculous that statement is.  
   
@@ -178,7 +227,11 @@ BDS was created to take a stand against Israel’s war crimes and fight for Pale
 
 # <a name="russian-propaganda"></a>H.R. 6393, 5181, NDAA & So Called Russian Propaganda
 
+<<<<<<< HEAD
 <img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/5011-2_orig.png" alt="image of text: title V section 501 part one">
+=======
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/5011-2_orig.png" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/5011-2_orig.png" alt="image of text: title V section 501 part one"></a>
+>>>>>>> 72ef32f614b687aeaa5f6e71dadeac4d11dc1f02
 
 >“Since the U.S. election concluded, “fake news” and “Russian propaganda” have become commonly cited by Clinton supporters and parroted by the corporate media as the scapegoat for Trump’s “shocking” victory. However, as recent articles from the corporate-owned media have shown, the “Russian propaganda” and “fake news” have both become umbrella terms for a range of opinions that are critical of the U.S. government and its policies. Now, the U.S. government has officially intervened with the passage of HR 6393, titled the “Intelligence Authorization Act for Fiscal Year 2017.” The bill, which passed on November 30th, touches on several intelligence-related issues, including managing the effects of “propaganda,” specifically that directly or indirectly funded in some way by Russia.”  
 >
@@ -188,7 +241,11 @@ BDS was created to take a stand against Israel’s war crimes and fight for Pale
 
 * <span class="ref">​H.R. 6393 reveals "Title V—Matters relating to foreign countries: <https://tinyurl.com/z635xgn></span>  
 
+<<<<<<< HEAD
 <img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/5012-2_orig.png" alt="image of text: title V section 501 part two">
+=======
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/5012-2_orig.png" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/5012-2_orig.png" alt="image of text: title V section 501 part two"></a>
+>>>>>>> 72ef32f614b687aeaa5f6e71dadeac4d11dc1f02
 
 >​“The use of incitement is particularly interesting as this term was also used by the state of Israel to crack down on dissent on Facebook, which led to the banning of several accounts belonging to Palestinian journalists and news agencies. The term “disinformation” is also riddled with problems as the term could easily be used to censor any information that runs contrary to the government’s own narrative. “Media manipulation” and “covert broadcasting” are both sufficiently broad as to include a story that the government finds to be working against its interests. According to the bill, these “active measures,” whether their “hidden” ties to Russia are proven or not, will be investigated and “countered” by an inter-agency committee set to include appointees of the Secretary of State, Secretary of Defense, and Secretary of the Treasury among others. This committee’s main duty will be to “expose falsehoods,” though the President “may designate” other relevant duties to the group.”  
 >
@@ -204,7 +261,11 @@ Buried in the National Defense Authorization Act (or NDAA) for 2017 that Obama r
   
 # <a name="social-media-fake-news"></a>Social Media's Fight Against Fake News  
 
+<<<<<<< HEAD
 <img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/1984_orig.png" alt="image: 1984 was to supposed to be an instruction manual"> 
+=======
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/1984_orig.png" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/1984_orig.png" alt="image: 1984 was to supposed to be an instruction manual"></a> 
+>>>>>>> 72ef32f614b687aeaa5f6e71dadeac4d11dc1f02
   
 Twitter and Facebook already have filters or algorithms in place to shadow ban people and censor us for talking about things that go against what they consider to be socially acceptable. Facebook has appointed the International Fact-Checking Network (IFCN), which includes Snopes and ABC News, to decide which news is “fake”. IFCN is funded by several groups including Open Society Foundations (George Soros), Bill and Melinda Gates Foundation, Google and more. Both Google and Facebook will be banning “fake” news sites from their advertising networks. Facebook may also be using curated articles “handpicked by publishers”.  
 
@@ -227,7 +288,11 @@ Government officials and main stream media are calling for a “solution” to t
 
 # <a name="internation-call"></a>An International Call  
 
+<<<<<<< HEAD
 <img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/msmingsoc_3_orig.png" alt="image: operation ingsoc"> 
+=======
+<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/msmingsoc_3_orig.png" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/msmingsoc_3_orig.png" alt="image: operation ingsoc"></a> 
+>>>>>>> 72ef32f614b687aeaa5f6e71dadeac4d11dc1f02
   
 ​Let us all here put away our petty differences and philosophical arguments about arbitrary situations. Let go of your religions and ideological differences for one brief moment in history. We are all human beings who live in a universe not controlled by any government. The possibilities are endless along with the social construction of reality. This is an international problem that affects all people, all races, and ethnicities. If they take our internet away we will be blind again. Our third eye will be closed once again. People will start to forget. They will go back to how things were before. Right now they don’t fully control the flow of information. Soon they will, and they’ve been working really hard to control the narrative, invade our privacy and squash dissent. This is why we must stand up together. No more petty bullshit fighting. This is something bigger than all of us. We need to realize this and let our egos go. Many of our brothers and sisters have been in prison but soon they will be free. They will come back to join us. They have used the U.S. Presidential Election to distract everyone from what they had planned all along. We cannot afford to be stagnant anymore.  
 
@@ -245,4 +310,8 @@ When the time is right, we’ll need you all there. We must all stand in solidar
  
 &nbsp;
 
+<<<<<<< HEAD
 <div class="centerimg" style="width:437px; height:544px;"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/msmingsocborderg_orig.png" height="544" width="437" alt="image:1984 quote - war is peace"></div>
+=======
+<div class="centerimg" style="width:437px; height:544px;"><a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/msmingsocborderg_orig.png" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/msmingsocborderg_orig.png" height="544" width="437" alt="image:1984 quote - war is peace"></a></div>
+>>>>>>> 72ef32f614b687aeaa5f6e71dadeac4d11dc1f02
