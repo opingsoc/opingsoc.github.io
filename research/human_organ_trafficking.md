@@ -1,5 +1,5 @@
 ---
-layout: light
+layout: dark
 title: Human Organ Trafficking 
 menu: research
 permalink: research/human_organ_trafficking.html
@@ -10,7 +10,7 @@ permalink: research/human_organ_trafficking.html
 
 # <a name="organs-watch"></a>Nancy Scheper-Hughes and Organs Watch  
 
-<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/editor/the-kidney-world-order.png?1490522650" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/editor/the-kidney-world-order.png?1490522650" alt="image: kidney donor map"></a>
+<img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/editor/the-kidney-world-order.png?1490522650" alt="image: kidney donor map">
   
 Below is a paper by Nancy Scheper-Hughes, ​the Chancellor’s Professor of Medical Anthropology at the University of California, Berkeley. Scheper-Hughes co-founded Organs Watch in 1999 and her investigative research into an international ring of organ traffickers led to arrests several years later. Organs Watch has identified at least 50 nations that have been involved in organ transplantation for profit. Nancy and Organs Watch have played a large role in spreading awareness of organ trafficking in organized crime. Corrupt government officials are bought off and very few people involved in organ trafficking networks are prosecuted - the ones who have are slapped with fines or ridiculously short prison sentences. For decades this has been covered up, as health professionals along with government officials worldwide denied that organ trafficking even existed. Many still believe that it's an extremely rare occurrence.
  
@@ -19,7 +19,7 @@ The poor are the ones that are taken advantage of; coerced, lied to, kidnapped a
 
 # <a name="usia-propaganda"></a>USIA Propaganda Agents  
 
-<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/organ-harv-israel.jpg?1490741846" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/organ-harv-israel.jpg?1490741846" alt="image:child trafficking"></a> 
+<img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/organ-harv-israel.jpg?1490741846" alt="image:child trafficking"> 
   
 We’ve also posted a report released in 1994, titled The Child Organ Trafficking Rumor: A Modern ‘Urban Legend'. The report was created by Todd Leventhal of the United States Information Agency (USIA) and submitted to the United Nations Special Rapporteur on the sale of children, child prostitution, and child pornography. You’ll also find links to multiple reports and news articles on organ trafficking in the reference section below.
  

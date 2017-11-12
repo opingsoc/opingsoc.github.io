@@ -1,5 +1,5 @@
 ---
-layout: light
+layout: dark
 title: Obama's Farewell Address - The Spirit of Imperialism
 menu: research
 permalink: research/obamas_farewell.html
@@ -9,7 +9,7 @@ permalink: research/obamas_farewell.html
 <div class="subheader">[Contributed by Cody Foster - The Fosterian Oeuvre - 2.22.17]</div>  
 <br>  
   
-<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/editor/obama-farewell.png?1487803695" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/editor/obama-farewell.png?1487803695" alt="image:obama waving"></a>
+<img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/editor/obama-farewell.png?1487803695" alt="image:obama waving">
   
 In the convoluted political milieu that begat the turn of a new year, Barack Obama remained a steadfast subject of unending criticism, debate, praise, and contempt worldwide. As the leader of one of the most powerful and influential countries in the world, this is not surprising. A widely renowned effective public speaker and comfortable orator, Obama is used to delivering speeches in front of millions and receiving feedback all over the spectrum. But on January 10th, 2017, President Obama was tasked with performing what precisely forty-three people had done before him, the Farewell Address: the symbolic transfer of power from one administration to the next, the declarative end to an eight-year legacy. Given the controversial end to an election season just months prior and the undeniably tumultuous political atmosphere that typifies an ideological switch in representative political party, many would consider this ceremonial speech an exigence befitting eloquence.
 
@@ -56,7 +56,7 @@ While this sounds like another great message, it is riddled again with inconsist
   
 # <a name="real-spirit"></a>The Real Spirit of Obama’s Address  
   
-<div class="smallimg"><a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/98242-slab.png?1490229196" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/98242-slab.png?1490229196" alt="image:oligarchy"></a></div>  
+<div class="smallimg"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/98242-slab.png?1490229196" alt="image:oligarchy"></div>  
   
 This real spirit identified by Obama is more of an order, the order imposed by Western neo-liberal capitalism. As he puts it himself, it is the “post-World War II order with other democracies, an order based not just on military power or national affiliations but built on principles–the rule of law, human rights, freedom of religion, and speech, and assembly, and an independent press.” The threat to this order, in violent and fanatical Islamic terrorism, in other societies’ disapproval of the free market, is eminent. It is the antithesis of the spirit of democracy to ignore these threats. In fact, “no one who ever threatens America will ever be safe,” and “we cannot withdraw from global fights to ‘expand rights’.” It is of the American, democratic, free-market spirit, then, to overlook the atrocities committed by your government, to seize international capital, to thwart local interests for the interest of Western liberal interpretations of basic, fundamental human rights. Because, “no matter how imperfect our efforts … that’s part of defending America.” By consistently referencing this spirit and the defense of it as the only logical option, Obama ingeniously uses this rhetorical appeal to confirm support for the American government’s interests.
 

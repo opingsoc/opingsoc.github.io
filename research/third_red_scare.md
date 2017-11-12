@@ -1,5 +1,5 @@
 ---
-layout: light
+layout: dark
 title: Third Red Scare
 description: 
 menu: research
@@ -11,7 +11,7 @@ permalink: research/third_red_scare.html
 
 <h1><a name="HR-1751"></a>H.R. 1751: Counteracting Russian Hostilities Act of 2017</h1>   
    
-<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/propagande_orig.png" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/propagande_orig.png" alt="image: centre de propagande"></a>
+<img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/propagande_orig.png" alt="image: centre de propagande">
   
 <span class="mini-title">Bill Introduced by Rep Alexander X. Mooney (R-West Virginia) <br> 115th Congress (2017-2018)</span>  
 * <span class="ref">Bill Full Text: <https://archive.fo/5QYGL></span>  
@@ -45,7 +45,7 @@ permalink: research/third_red_scare.html
 
 # <a name="pentagon-military-analyst-program"></a>Using Propaganda Against U.S. Citizens: ​The Pentagon Miltary Analyst Program  
 
-<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/current-truth-dark.png" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/current-truth-dark.png" alt="image: The current truth announcement. We have always been at war with the Motherland"></a>
+<img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/current-truth-dark.png" alt="image: The current truth announcement. We have always been at war with the Motherland">
   
 Mainstream media and “nonpartisan” think tanks already have a history of collusion with the government. Throwing money at more programs to “counter fake news” to me is quite frightening. We don’t need more propaganda coming from our corrupt government, especially not geared towards U.S. citizens. We don’t need our real independent media, (the ones that actual criticize our government and try to keep them in check), shut down for being “fake news”.
  
@@ -68,7 +68,7 @@ This amendment was slipped into the 2013 NDAA and passed into law. Why does it s
 ​Not that the legality of using propaganda against US citizens ever mattered. In 2008, investigative journalist David Barstow published an exposé in the New York Times revealing the details of a propaganda program used by the DoD since 2002. The Pentagon military analyst program was a campaign to influence public opinion of the Iraq war by briefing retired commanders for TV and radio appearances. Many published op-eds in the New York Times, as well as other newspapers and websites. They were always presented as independent analysts, rather than the mouthpiece of the military-industrial-complex that they really were.  
 
 <div class="caption">  
-<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/generals.jpg?1491956793" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/generals.jpg?1491956793" alt="image: Dining with Donald Rumsfeld"></a>
+<img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/generals.jpg?1491956793" alt="image: Dining with Donald Rumsfeld">
 <p>Dining with Donald H. Rumsfeld, second from left, during his final week as secretary of defense were the retired officers Donald W. Shepperd, left, Thomas G. McInerney and Steven J. Greer, right. (NYTimes)</p>
 </div>
   
@@ -124,7 +124,7 @@ Wikipedia however is not correct in saying the operation ended back in 2008.
 
 # <a name="global-engagement-center"></a>The Global Engagement (Propaganda) Center  
 
-<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/editor/propmsm1.png?1491960947" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/editor/propmsm1.png?1491960947" alt="image: Propaganda. Control the media - The media controls us"></a>
+<img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/editor/propmsm1.png?1491960947" alt="image: Propaganda. Control the media - The media controls us">
   
 The new propaganda bill introduced in March follows on the heels of H.R. 5181: Countering Foreign Propaganda & Disinformation Act of 2016, also known as S. 2692, Countering Information Warfare Act of 2016. This bill was very quietly inserted into the NDAA 2017 and signed into law by Obama in December 2016.
  
@@ -168,7 +168,7 @@ If releasing truthful information about our corrupt politicians influenced the e
   
 # <a name="first-red-scare"></a>The First Red Scare  
 
-<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/we-are-ungovernable_orig.png" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/we-are-ungovernable_orig.png" alt="image: we are ungovernable"></a>
+<img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/we-are-ungovernable_orig.png" alt="image: we are ungovernable">
   
 Did you know the first red scare was created to stifle labor worker strikes in the early 1900’s? It was the anarchists and labor unions that got us the 8 hour work day, instead of the 12-18 hour days they were forced to work. 
  
@@ -207,7 +207,7 @@ It is currently the “left” screaming Red, but don’t think the “right” 
   
 Here are [ProporNot’s signs of Russian propaganda](https://archive.fo/6OUZR):  
 
-<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/proplist_orig.png" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/proplist_orig.png" alt="image: PropOrNot's Signs of Propaganda"></a>
+<img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/proplist_orig.png" alt="image: PropOrNot's Signs of Propaganda">
   
 So that’s basically criticism of:
 

@@ -1,5 +1,5 @@
 ---
-layout: light
+layout: dark
 title: DynCorp International, Capitalism and Child Sex Slave Trafficking
 menu: research
 permalink: research/dyncorp_trafficking.html
@@ -10,13 +10,13 @@ permalink: research/dyncorp_trafficking.html
 
 # <a name="business-of-everything"></a>The Business of Everything 
 
-<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/dyncorp-help-large_1_orig.png" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/dyncorp-help-large_1_orig.png" alt="image: dyncorp international"></a> 
+<img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/dyncorp-help-large_1_orig.png" alt="image: dyncorp international"> 
    
 The creators of Capitalism socially constructed a concept that put the primary objective of survival as profit. People who understood Capitalism would know that everything and anything can be turned into a business to make a profit, including human beings themselves. There are no boundaries in this ideology. As time went on profits were to be made on everything including: war, death, birth, and health. Almost every aspect of humanity is being exploited to make a profit.
 
 The processes of Capitalism dehumanize people. Profits are more important than people and life is regarded cheaply. People die every day because of resource based wars, inferior quality of food, and poor environmental conditions. The modes of production for profit reign king among humanity. The CEOs, professionals, and venture capitalists who are paraded on media as gods; do not bat an eye when someone dies because of a medication they cannot afford. No one cares when a president starts an illegal war with no evidence and sends the lower classes to their deaths. The examples and the evidence is plenty. A system that turns everything into a business and exploits resources is not sustainable. A system that destroys the environment and does not build it, is not sustainable. For years people have been brainwashed through television and the media to believe that capitalism is the only way. But other ways are possible that advance both positively and equally.  
 
-<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/dyncorp01_3_orig.png" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/dyncorp01_3_orig.png" alt="image of text: Johnston was on the ground and saw firsthand what the military..."></a>
+<img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/dyncorp01_3_orig.png" alt="image of text: Johnston was on the ground and saw firsthand what the military...">
 
 General Dwight D. Eisenhower warned us before he left the presidency, of the military industrial complex. The power and might that comes with this production of power is something that all should be concerned with. Capitalism, media, entertainment, and materialism have blinded people from the important situations that need to be attended to, and developed a need for the motivation to participate in being mindful of our reality. The tentacles of the military industrial complex have led to a consistent amount of conflicts on a global scale. War profiteering and the testing of new war technology is motivation for creating major conflicts.
 
@@ -28,7 +28,7 @@ The military industrial complex has made the Defense industry a viable model for
 # <a name="dyncorp-international"></a>DynCorp International  
 
 <div class="caption">
-<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/editor/dyncorp-mercenaries.jpg?1499263080" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/editor/dyncorp-mercenaries.jpg?1499263080" alt="image: DynCorp mercenaries"></a>  
+<img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/editor/dyncorp-mercenaries.jpg?1499263080" alt="image: DynCorp mercenaries">  
 <p>DynCorp Mercenaries</p>
 </div>
   
@@ -42,17 +42,17 @@ According to documents obtained from the Department of Defense, DynCorp Internat
 
 According to Donna Hugh’s and John Miller's investigation, DynCorp whistleblower Ben Johnston filed a complaint against DynCorp with the U.S. Army. He was witness to children being raped and sold by DynCorp employees. Johnston explained that these DynCorp employees were purchasing young girls ages 12 to 15 years old, as sex slaves. They worked with a local mafia organization in the region.  
   
-<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/editor/dyncorp01_4.png?1499353301" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/editor/dyncorp01_4.png?1499353301" alt="image of text: remember, Johnston was fired by the this company..."></a>
+<img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/editor/dyncorp01_4.png?1499353301" alt="image of text: remember, Johnston was fired by the this company...">
   
 The military was aware of the problem with DynCorp but viewed it as a DynCorp problem. They chose not to intervene. As stated by Col. Braun, who was a base supervisor, the military was more concerned that their aircrafts were maintained and their needs met in the field. According to this investigation, DynCorp received $1 billion dollars in government contracts from 1995 to 2003. Even after the complaints against DynCorp the U.S. government continued to re-hire them for military operations overseas.
 
 The employees of DynCorp that were involved in the child sex slave trafficking were merely fired from their positions. No one was prosecuted or punished for the atrocities that were committed. Contractors like DynCorp go unchecked and unregulated by the government. According to the Department of Defense, they don't have jurisdiction over the private contractors. Essentially the private contractors do not have to operate like the military does - they don't have to follow any ethical or moral guidelines. This is part of the reason why many people who committed these crimes were not brought to justice or prosecuted for what they did.  
   
-<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/dyncorp03.png?1499456453" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/dyncorp03.png?1499456453" alt="image of text: our concern about US contractors participating in prostitution or trafficking..."></a>
+<img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/dyncorp03.png?1499456453" alt="image of text: our concern about US contractors participating in prostitution or trafficking...">
   
 DynCorp is not the only private military company that has committed heinous crimes in other countries. There were several disturbing incidents involving companies like Blackwater, Titan, KBR, CACI International, and Triple Canopy committed in Iraq, Afghanistan, and other areas of operation. Blackwater security guards murdered 17 civilians in Baghdad Nisour’s square. CACI International and Titan were involved with the Abu Ghuraib torture case. Another example of immoral and unethical behavior is when Jacob Washborne was involved in 3 unjustified shooting incidents. Before Jacob went on the operation he declared he wanted to kill somebody that day.
 
-<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/dyncorp-disgrace_orig.jpg" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/dyncorp-disgrace_orig.jpg" alt="image: DynCorp disgrace cover story"></a>
+<img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/dyncorp-disgrace_orig.jpg" alt="image: DynCorp disgrace cover story">
 
 The United States private military contractors have been responsible for some of the worst crimes against humanity on a global scale. Despite all the evidence and all the documentation, the U.S. government still employs many of these contractors to this very day. There has been no real oversight or regulation of these private military corporations. The lack of immediate controls over these situations has demonstrated that the U.S. military and government have no interest in the safety of human beings not complicit with their mission or operation.  
 
@@ -63,11 +63,11 @@ Human trafficking and child sex rings are nothing new and have been noted in his
   
 This is not just a domestic problem but a global one. There is a massive amount of information and research regarding the seriousness of the problem. In the late 1990s and the early 2000s the Catholic Church was exposed for child sexual abuse and rape committed by many of their priests since the 1950s. It was discovered by the Vatican and covered up until it was exposed years later. For many years, Catholic priests molested and raped possibly hundreds of thousands of children around the globe. Many of those priests were never prosecuted for their crimes. High profile members of the Vatican helped protect and cover up the crimes of their priests. These types of violations of humanity have been a widespread practice by elite circles of differing societal social contracts. Many other organizations have committed the same heinous crimes against innocent people and this unseemly trend has been perpetrated throughout time. As a society, we must be mindfully aware of things that have happened in the past to understand what is happening in the present.  
 
-<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/dyncorp04.png?1499456767" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/dyncorp04.png?1499456767" alt="image of text: Iraq - background on trafficking in persons"></a>
+<img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/dyncorp04.png?1499456767" alt="image of text: Iraq - background on trafficking in persons">
   
-<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/dyncorp05.png?1499456755" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/dyncorp05.png?1499456755" alt="while there are trafficked persons in Iraq the scale is nowhere near that of Bosnia or Kosovo"></a>
+<img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/dyncorp05.png?1499456755" alt="while there are trafficked persons in Iraq the scale is nowhere near that of Bosnia or Kosovo">
   
-<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/dyncorp06.png?1499456746" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/dyncorp06.png?1499456746" alt="image of text: general talking points"></a>
+<img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/published/dyncorp06.png?1499456746" alt="image of text: general talking points">
 
 Most recently, internet activists called Anonymous helped expose and bring attention to the operations and participation of government leaders, agencies, and military regarding child sex rings within the United Kingdom. According to government investigations, these child sex slave rings have been in operation since the early 1970s. Coincidentally, during those times and through the present there have been increased reports of missing children.
 
@@ -80,7 +80,7 @@ According to the Congressional Research Service the estimate for persons traffic
 
 # <a name="distractions"></a>Distractions  
 
-<a href="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/editor/dyncorp08.png?1499354991" class="lightbox_trigger"><img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/editor/dyncorp08.png?1499354991" alt="image of text: DynCorp parcel intercepted by Colomobian National Police, thick liquid tested positive for heroin"></a>
+<img src="https://opingsoc.weebly.com/uploads/9/7/2/2/97221336/editor/dyncorp08.png?1499354991" alt="image of text: DynCorp parcel intercepted by Colomobian National Police, thick liquid tested positive for heroin">
   
 The Monica Lewinsky scandal was used to distract the mainstream media and the public from the atrocities private military contractors were committing against innocent people abroad. The Bill Clinton administration was very aware of what was happening in Bosnia and Kosovo.
 
