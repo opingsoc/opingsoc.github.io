@@ -611,17 +611,43 @@ section {
 
 header {
   width:270px;
-  margin:0;
+  margin:-40px 0 0 0;
   padding:0 0 50px 0;
   float:left;
   position:fixed;
 }
 
+.neutrality img {
+  padding-bottom:10px;
+  display:block;
+  margin:0 auto;
+}
+
+.neutrality a {
+	font-size:12px;
+  margin-left:10px;
+  color:#4f8eab;
+  float:left;
+}
+
+.neutrality {
+ line-height:1;
+ border:1px solid inherit;
+padding:20px 0 20px 0;
+  width:210px;
+ height:302px;
+display:block;
+margin:0 auto;
+background-color:#121212;
+border-radius:7px 7px 7px 7px;
+}
+
 /* sidebar menu */
 
 .sidebar {
-  margin:40px 0 0 0;
+  margin:20px 0 0 0;
   padding:0 0 0 20px;
+  min-height:200px;
 }
 
 .sidebar a {
@@ -629,6 +655,10 @@ header {
   margin:10px 0 5px 10px;
   float:left;
   line-height:1.25;
+}
+
+.sidebar a:last-child {
+	margin-bottom:30px;
 }
 
 .sidebar a:hover {
