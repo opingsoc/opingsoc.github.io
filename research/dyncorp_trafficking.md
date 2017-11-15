@@ -176,22 +176,14 @@ It is no mistake that travel or mobility is only allowed through socioeconomic s
   
 <p></p>
 
-<<<<<<< HEAD
 **Handbook for Armed Private Security Contractors in Contingency Operations, 2010**   
-=======
-**Handbook for Armed Private Security Contractors in Contingency Operations, 2010**
->>>>>>> 72ef32f614b687aeaa5f6e71dadeac4d11dc1f02
 <small>U.S. Joint Forces Command</small>
 * <span class="ref">Original Link: <https://www.dtic.mil/doctrine/doctrine/jwfc/apsc_hbk.pdf></span>
 * <span class="ref">Archive: <https://opingsoc-archive.weebly.com/files/theme/documents/Handbook_Armed_Private_Security_Contractors_Contingency_Ops_2010.pdf></span>
 
 <p></p>
 
-<<<<<<< HEAD
 **Human Trafficking: Present Day Slavery - The Report of the Washington State Task Force Against Trafficking of Persons, 2004**   
-=======
-**Human Trafficking: Present Day Slavery - The Report of the Washington State Task Force Against Trafficking of Persons, 2004**
->>>>>>> 72ef32f614b687aeaa5f6e71dadeac4d11dc1f02
 <small>Office of Crime Victims Advocacy</small>  
 * <span class="ref">Original Link: <https://www.commerce.wa.gov/wp-content/uploads/2016/03/OCVA-Human-Trafficking-Rept-2004.pdf></span>
 * <span class="ref">Archive: <https://opingsoc-archive.weebly.com/files/theme/documents/Human_Trafficking_Washington_State_Task_Force_2004.pdf></span>
