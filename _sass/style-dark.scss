@@ -256,21 +256,19 @@ section > p:before {
 #nav ul li a, #nav ul li a:focus {
   background:url(/assets/images/button-active.png) 0 0 transparent;
   background-position:center;
-  border-left:1px solid rgba(0, 0, 0, 0.3);
-  border-right:1px solid rgba(0, 0, 0, 0.3);
   box-shadow: inset 0 1px 0 0 rgba(255,255,255,0.1), inset 0 0 5px 0 rgba(0,0,0,0.1);
     -webkit-box-shadow: inset 0 1px 0 0 rgba(255,255,255,0.1), inset 0 0 5px 0 rgba(0,0,0,0.1);
+  border-left:1px solid rgba(0, 0, 0, 0.2);
+	border-right:1px solid rgba(0, 0, 0, 0.2);
   color:#a6a6a6;
   float:left;
   padding:8px 20px;
-  
 }
 
 #nav ul li a:hover, 
 #nav ul li:hover > a {
   background:url(/assets/images/button-menu-long-hover.png) 0 0 transparent;
   color:#ffffff;
-
 }
 
 #nav li ul a:hover, 
@@ -280,8 +278,7 @@ section > p:before {
   background:rgba(0, 0, 0, 0) -webkit-linear-gradient(to bottom , rgb(103, 0, 0) 17%, rgb(128, 0, 0) 51%, rgb(143, 0, 0) 100%) no-repeat scroll 0 0;
 	background:rgba(0, 0, 0, 0) -o-linear-gradient(to bottom , rgb(103, 0, 0) 17%, rgb(128, 0, 0) 51%, rgb(143, 0, 0) 100%) no-repeat scroll 0 0;
   background:rgba(0, 0, 0, 0) linear-gradient(to bottom , rgb(103, 0, 0) 17%, rgb(128, 0, 0) 51%, rgb(143, 0, 0) 100%) no-repeat scroll 0 0;
-  border-bottom:1px solid rgba(0, 0, 0, 0.6);
-  border-top:1px solid rgba(0, 0, 0, 0.6);
+  border-width:0;
   color:#ffffff;
 }
 
@@ -291,7 +288,7 @@ section > p:before {
   background:rgb(60, 64, 66) -webkit-linear-gradient(to bottom , rgb(150, 157, 157) 7%, rgb(117, 122, 122) 57%, rgb(96, 102, 102) 78%) repeat scroll 0 0;
 	background:rgb(60, 64, 66) -o-linear-gradient(to bottom , rgb(150, 157, 157) 7%, rgb(117, 122, 122) 57%, rgb(96, 102, 102) 78%) repeat scroll 0 0;
   background:rgb(60, 64, 66) linear-gradient(to bottom , rgb(150, 157, 157) 7%, rgb(117, 122, 122) 57%, rgb(96, 102, 102) 78%) repeat scroll 0 0;
-  border:1px solid rgba(0, 0, 0, 0.5);
+  border-width:0;
   border-radius:0 0 10px 10px;
     -webkit-border-radius:0 0 10px 10px;
   box-shadow: inset 0 0 15px 0 rgba(0,0,0,0.4);
@@ -301,10 +298,10 @@ section > p:before {
   position:absolute;
   width:250px;
   z-index:9998;
-  opacity:0.90;
-    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
-    filter: alpha(opacity=90);
-    -moz-opacity:0.90;
+  opacity:0.92;
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=92)";
+    filter: alpha(opacity=92);
+    -moz-opacity:0.92;
 }
 
 #nav li ul li ul {
@@ -321,10 +318,7 @@ section > p:before {
 
 #nav li ul a {
   background:rgba(0, 0, 0, 0) none repeat scroll 0 0;
-  border-color:transparent currentColor;
-  border-image:none;
-  border-style:none;
-  border-width:1px;
+  border-width:0;
   box-shadow:none;
   margin-right:0;
   width:210px;
