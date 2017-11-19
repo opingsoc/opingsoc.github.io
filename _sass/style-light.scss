@@ -109,11 +109,11 @@ h6 {
   padding:0;
   margin:40px 0 25px 0;
   max-width:100%;
-  font-size:27px;
+  font-size:28px;
   font-weight:bold;
   line-height:1;
   letter-spacing:normal;
-  color:#4d4d4d;
+  color:#000000;
 }
 
 /* subheader used for author and date */
@@ -821,11 +821,12 @@ input.search-button:hover[type="submit"] {
 }
 
 .mini-title {
-  font-size:15.5px;
+  font-size:17px;
   font-weight:bold;
   text-decoration:underline;
-  color:#303030;
+  color:#808080;
   letter-spacing:normal;
+  margin-bottom:5px;
 }
 
 .ref {
