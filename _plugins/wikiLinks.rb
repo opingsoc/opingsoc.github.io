@@ -48,9 +48,9 @@ module Jekyll
         @host = 'https://github.com/'
 
         if @conf['wikiToJekyll']['wiki_repository_url']
-          url = @conf['wikiToJekyll']['wiki_repository_url'].sub('.wiki.git', '') + '/draft'
+          url = @conf['wikiToJekyll']['wiki_repository_url'].sub('.wiki.git', '') + '/wiki'
         else
-          url = @host + @conf['wikiToJekyll']['user_name'] + '/' + @conf['wikiToJekyll']['repository_name'] + '/draft'
+          url = @host + @conf['wikiToJekyll']['user_name'] + '/' + @conf['wikiToJekyll']['repository_name'] + '/wiki'
         end
 
         if full == false
