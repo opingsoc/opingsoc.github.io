@@ -1,5 +1,5 @@
 ---
-layout: light
+layout: dark
 title: Propaganda & Information Ops
 menu: research
 permalink: research/propaganda_info_ops.html

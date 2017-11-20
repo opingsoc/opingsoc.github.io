@@ -159,7 +159,7 @@ width:150px;
   font-weight:bold;
   line-height:1;
   letter-spacing:normal;
-  color:#4d4d4d;
+  color:#5e5e5e;
 }
 
 /* subheader used for author and date */
@@ -400,6 +400,7 @@ section > p:before {
 
 .toc-menu li, .toc-menu li a {
   margin-bottom:6px;
+  line-height:1.2;
 }
 
 .toc-menu ol li ol li {
@@ -411,6 +412,7 @@ section > p:before {
 .toc-menu ol li ol li a {
   color:#6e2424;
   font-size:13px;
+  line-height:1.2;
 }
 
 .toc-menu ol li ol li:first-child {
@@ -455,7 +457,8 @@ ol > li > ol > li > ol > li > ol > li > ol {
 
 ul li {
   padding-bottom:0;
-  margin-bottom:7px;
+  line-height:1.2;
+  margin-bottom:15px;
 }
 
 ul li:first-child {
@@ -671,9 +674,7 @@ border-radius:7px 7px 7px 7px;
 }
 
 li {
-  margin-bottom:10px;
   letter-spacing:normal;
-  line-height:1.2;
 }
 
 strong {
@@ -919,7 +920,7 @@ input.search-button:hover[type="submit"] {
   font-size:15.5px;
   font-weight:bold;
   text-decoration:underline;
-  color:#303030;
+  color:#7d3f35;
   letter-spacing:normal;
 }
 

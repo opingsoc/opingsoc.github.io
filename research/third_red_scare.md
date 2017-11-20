@@ -231,7 +231,7 @@ Here’s their original blacklist of websites:
  
 Personally, I’m not a fan of Alex Jones and InfoWars, but I don’t think it’s likely they are Russian agents, and I don’t think they should be charged with treason under the Espionage Act like ProporNot proposes.  
   
-><span class="gray bold">"If we don’t believe in freedom of expression for people we despise, we don’t believe in it at all."
+><span class="bold gray">"If we don’t believe in freedom of expression for people we despise, we don’t believe in it at all."
 --Noam Chomsky</span>  
   
 You can read more about ProporNot and the clues as to who is likely behind the website (Ukraine/CIA), as well as the history between CIA and mainstream media; also OSS/CIA/Ukraine/Nazi connections going back to WWII, in our report: [Propaganda and Information Operations](https://opingsoc.com/research/propaganda_info_ops.html)
